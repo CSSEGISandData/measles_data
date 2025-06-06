@@ -55,6 +55,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Cook, Illinois",17031,county,2025-05-02,case_lab-confirmed,4
 "Curry, New Mexico",35009,county,2025-05-09,case_lab-confirmed,1
 "Cuyahoga, Ohio",39035,county,2025-04-28,case_lab-confirmed,1
+"Dakota, Minnesota",27037,county,2025-06-02,case_lab-confirmed,1
 "Dallam, Texas",48111,county,2025-02-25,case_lab-confirmed,4
 "Dallam, Texas",48111,county,2025-03-18,case_lab-confirmed,2
 "Dallam, Texas",48111,county,2025-03-20,case_lab-confirmed,1
@@ -259,6 +260,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Martin, Texas",48317,county,2025-02-25,case_lab-confirmed,3
 "McLennan, Texas",48309,county,2025-05-23,case_lab-confirmed,1
 "McLennan, Texas",48309,county,2025-05-30,case_lab-confirmed,7
+"Meade, South Dakota",46093,county,2025-06-02,case_lab-confirmed,1
 "Miami-Dade, Florida",12086,county,2025-03-06,case_lab-confirmed,1
 "Mid-Cumberland Region, Tennessee",0,county,2025-03-17,case_lab-confirmed,1
 "Mid-Cumberland Region, Tennessee",0,county,2025-03-28,case_lab-confirmed,1
@@ -340,7 +342,6 @@ location_name,location_id,location_type,date,outcome_type,value
 "Unknown County, Kansas",20,county,2025-04-05,case_lab-confirmed,1
 "Unknown County, Kansas",20,county,2025-04-09,case_lab-confirmed,2
 "Unknown County, Kansas",20,county,2025-04-16,case_lab-confirmed,3
-"Unknown County, Minnesota",27,county,2025-06-02,case_lab-confirmed,1
 "Unknown County, Oklahoma",40109,county,2025-03-25,case_lab-confirmed,7
 "Unknown County, Oklahoma",40109,county,2025-04-02,case_lab-confirmed,1
 "Unknown County, Oklahoma",40109,county,2025-04-15,case_lab-confirmed,1
@@ -356,6 +357,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Upshur, Texas",48459,county,2025-04-18,case_lab-confirmed,1
 "Upshur, Texas",48459,county,2025-04-25,case_lab-confirmed,1
 "Upshur, Texas",48459,county,2025-05-02,case_lab-confirmed,3
+"Washington, Minnesota",27163,county,2025-06-02,case_lab-confirmed,1
 "Williams, North Dakota",38105,county,2025-04-29,case_lab-confirmed,1
 "Williams, North Dakota",38105,county,2025-05-02,case_lab-confirmed,2
 "Williams, North Dakota",38105,county,2025-05-03,case_lab-confirmed,2
@@ -370,6 +372,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Williamson, Illinois",17199,county,2025-04-23,case_lab-confirmed,1
 "Williamson, Illinois",17199,county,2025-05-05,case_lab-confirmed,3
 "Williamson, Texas",48491,county,2025-05-30,case_lab-confirmed,6
+"Yellowstone, Montana",30111,county,2025-06-05,case_lab-confirmed,2
 "Yoakum, Texas",48501,county,2025-02-14,case_lab-confirmed,2
 "Yoakum, Texas",48501,county,2025-02-21,case_lab-confirmed,2
 "Yoakum, Texas",48501,county,2025-02-25,case_lab-confirmed,1
