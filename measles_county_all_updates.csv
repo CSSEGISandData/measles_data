@@ -1,5 +1,4 @@
 location_name,location_id,location_type,date,outcome_type,value
-"Albemarle, Virginia",51003,county,2025-05-23,case_lab-confirmed,1
 "Allen, Indiana",18003,county,2025-04-07,case_lab-confirmed,1
 "Allen, Indiana",18003,county,2025-04-09,case_lab-confirmed,5
 "Allen, Indiana",18003,county,2025-04-23,case_lab-confirmed,2
@@ -76,6 +75,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Denver, Colorado",8031,county,2025-04-07,case_lab-confirmed,1
 "Denver, Colorado",8031,county,2025-04-23,case_lab-confirmed,1
 "Denver, Colorado",8031,county,2025-04-25,case_lab-confirmed,1
+"Denver, Colorado",8031,county,2025-06-04,case_lab-confirmed,1
 "Dona Ana, New Mexico",35013,county,2025-04-15,case_lab-confirmed,1
 "Dona Ana, New Mexico",35013,county,2025-05-02,case_lab-confirmed,1
 "Eastland, Texas",48133,county,2025-05-02,case_lab-confirmed,2
@@ -127,6 +127,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Fulton, Georgia",13121,county,2025-01-28,case_lab-confirmed,1
 "Fulton, Georgia",13121,county,2025-03-31,case_lab-confirmed,2
 "Fulton, Georgia",13121,county,2025-05-19,case_lab-confirmed,1
+"Fulton, Georgia",13121,county,2025-06-06,case_lab-confirmed,1
 "Gaines, Texas",48165,county,2025-02-05,case_lab-confirmed,6
 "Gaines, Texas",48165,county,2025-02-11,case_lab-confirmed,18
 "Gaines, Texas",48165,county,2025-02-14,case_lab-confirmed,18
@@ -277,6 +278,8 @@ location_name,location_id,location_type,date,outcome_type,value
 "New York, New York",36061,county,2025-02-26,case_lab-confirmed,1
 "New York, New York",36061,county,2025-03-20,case_lab-confirmed,1
 "New York, New York",36061,county,2025-05-16,case_lab-confirmed,3
+"Northwest Region, Virginia",0,county,2025-04-15,case_lab-confirmed,1
+"Northwest Region, Virginia",0,county,2025-06-05,case_lab-confirmed,2
 "Oakland, Michigan",26125,county,2025-03-14,case_lab-confirmed,1
 "Ontario, New York",36069,county,2025-05-27,case_lab-confirmed,1
 "Orange, California",6059,county,2025-02-25,case_lab-confirmed,1
@@ -292,7 +295,6 @@ location_name,location_id,location_type,date,outcome_type,value
 "Placer, California",6061,county,2025-03-31,case_lab-confirmed,1
 "Potter, Texas",48375,county,2025-04-18,case_lab-confirmed,1
 "Prince George's, Maryland",24033,county,2025-03-10,case_lab-confirmed,2
-"Prince William, Virginia",51153,county,2025-04-15,case_lab-confirmed,1
 "Providence, Rhode Island",44007,county,2025-01-18,case_lab-confirmed,1
 "Pueblo, Colorado",8101,county,2025-03-31,case_lab-confirmed,1
 "Putnam, New York",36079,county,2025-06-03,case_lab-confirmed,1
@@ -309,6 +311,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "San Mateo, California",6081,county,2025-03-31,case_lab-confirmed,1
 "Sandoval, New Mexico",35043,county,2025-05-16,case_lab-confirmed,2
 "Sandoval, New Mexico",35043,county,2025-05-23,case_lab-confirmed,4
+"Santa Clara, California",6085,county,2025-05-25,case_lab-confirmed,1
 "Scurry, Texas",48415,county,2025-05-23,case_lab-confirmed,1
 "Shackelford, Texas",48417,county,2025-04-29,case_lab-confirmed,1
 "Sheridan, Nebraska",31161,county,2025-05-28,case_lab-confirmed,1
