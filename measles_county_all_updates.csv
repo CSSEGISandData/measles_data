@@ -108,6 +108,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "El Paso, Texas",48141,county,2025-05-23,case_lab-confirmed,2
 "El Paso, Texas",48141,county,2025-05-27,case_lab-confirmed,1
 "El Paso, Texas",48141,county,2025-05-30,case_lab-confirmed,2
+"El Paso, Texas",48141,county,2025-06-10,case_lab-confirmed,1
 "Erath, Texas",48143,county,2025-03-20,case_lab-confirmed,1
 "Erie, Pennsylvania",42049,county,2025-03-25,case_lab-confirmed,2
 "Erie, Pennsylvania",42049,county,2025-03-30,case_lab-confirmed,1
@@ -241,6 +242,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Los Angeles, California",6037,county,2025-03-11,case_lab-confirmed,1
 "Los Angeles, California",6037,county,2025-04-25,case_lab-confirmed,1
 "Los Angeles, California",6037,county,2025-05-07,case_lab-confirmed,1
+"Los Angeles, California",6037,county,2025-06-06,case_lab-confirmed,1
 "Lubbock, Texas",48303,county,2025-02-18,case_lab-confirmed,1
 "Lubbock, Texas",48303,county,2025-02-28,case_lab-confirmed,1
 "Lubbock, Texas",48303,county,2025-03-18,case_lab-confirmed,3
@@ -273,6 +275,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Midland, Texas",48329,county,2025-04-15,case_lab-confirmed,1
 "Midland, Texas",48329,county,2025-04-23,case_lab-confirmed,1
 "Midland, Texas",48329,county,2025-05-23,case_lab-confirmed,2
+"Midland, Texas",48329,county,2025-06-10,case_lab-confirmed,1
 "Montcalm, Michigan",26117,county,2025-04-10,case_lab-confirmed,1
 "Montcalm, Michigan",26117,county,2025-04-17,case_lab-confirmed,2
 "Montcalm, Michigan",26117,county,2025-04-23,case_lab-confirmed,1
@@ -394,3 +397,4 @@ location_name,location_id,location_type,date,outcome_type,value
 "Yoakum, Texas",48501,county,2025-04-11,case_lab-confirmed,1
 "Yoakum, Texas",48501,county,2025-04-18,case_lab-confirmed,1
 "Yoakum, Texas",48501,county,2025-05-06,case_lab-confirmed,1
+"Yolo, California",6113,county,2025-06-06,case_lab-confirmed,1
