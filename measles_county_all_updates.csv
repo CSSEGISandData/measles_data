@@ -294,6 +294,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Parmer, Texas",48369,county,2025-04-18,case_lab-confirmed,4
 "Parmer, Texas",48369,county,2025-05-06,case_lab-confirmed,1
 "Pawnee, Kansas",20145,county,2025-06-02,case_lab-confirmed,7
+"Pennington, South Dakota",46103,county,2025-06-06,case_lab-confirmed,1
 "Philadelphia, Pennsylvania",42101,county,2025-03-31,case_lab-confirmed,1
 "Philadelphia, Pennsylvania",42101,county,2025-04-11,case_lab-confirmed,1
 "Placer, California",6061,county,2025-03-31,case_lab-confirmed,1
@@ -344,6 +345,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Travis, Texas",48453,county,2025-03-20,case_lab-confirmed,1
 "Travis, Texas",48453,county,2025-05-02,case_lab-confirmed,1
 "Tuolumne, California",6109,county,2025-03-19,case_lab-confirmed,2
+"Unknown County, Colorado",8,county,2025-06-09,case_lab-confirmed,2
 "Unknown County, Iowa",19,county,2025-05-23,case_lab-confirmed,1
 "Unknown County, Kansas",20,county,2025-03-31,case_lab-confirmed,9
 "Unknown County, Kansas",20,county,2025-04-05,case_lab-confirmed,1
