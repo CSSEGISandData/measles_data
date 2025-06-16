@@ -41,7 +41,7 @@ All data represents **laboratory-confirmed measles cases** reported by public he
 
 **Purpose**: Weekly time series for Kansas, New Mexico, and Texas (the three states with highest case counts), organized by epidemiological week and **based on rash onset dates**.
 
-> **Important**: This file uses rash onset dates when available from state health departments, providing epidemiologically accurate timing. As a result, some states-provided time series may do not match reporting dates of county-level data.
+> **Important**: This file uses rash onset dates when available from state health departments, providing epidemiologically accurate timing. As a result, some states-provided time series may not match reporting dates of county-level data.
 
 | Column | Description |
 |--------|-------------|
