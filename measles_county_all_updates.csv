@@ -24,9 +24,12 @@ location_name,location_id,location_type,date,outcome_type,value
 "Ashtabula, Ohio",39007,county,2025-04-12,case_lab-confirmed,2
 "Atascosa, Texas",48013,county,2025-04-25,case_lab-confirmed,1
 "Bailey, Texas",48017,county,2025-04-23,case_lab-confirmed,2
+"Bell, Texas",48027,county,2025-06-17,case_lab-confirmed,1
+"Benton, Arkansas",5007,county,2025-06-16,case_lab-confirmed,1
 "Bergen, New Jersey",34003,county,2025-02-14,case_lab-confirmed,1
 "Bergen, New Jersey",34003,county,2025-02-17,case_lab-confirmed,2
 "Borden, Texas",48033,county,2025-04-08,case_lab-confirmed,1
+"Boulder, Colorado",8013,county,2025-06-13,case_lab-confirmed,1
 "Brazoria, Texas",48039,county,2025-04-18,case_lab-confirmed,1
 "Brewster, Texas",48043,county,2025-05-23,case_lab-confirmed,1
 "Broward, Florida",12011,county,2025-04-22,case_lab-confirmed,1
@@ -72,7 +75,6 @@ location_name,location_id,location_type,date,outcome_type,value
 "Dawson, Texas",48115,county,2025-04-18,case_lab-confirmed,3
 "Dawson, Texas",48115,county,2025-04-25,case_lab-confirmed,1
 "Dawson, Texas",48115,county,2025-05-02,case_lab-confirmed,1
-"Dawson, Texas",48115,county,2025-06-03,case_lab-confirmed,1
 "Defiance, Ohio",39039,county,2025-04-13,case_lab-confirmed,1
 "Denton, Texas",48121,county,2025-05-02,case_lab-confirmed,1
 "Denton, Texas",48121,county,2025-05-23,case_lab-confirmed,1
@@ -85,7 +87,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Eastern, Iowa",19,county,2025-06-09,case_lab-confirmed,1
 "Eastern, Iowa",19,county,2025-06-11,case_lab-confirmed,1
 "Eastland, Texas",48133,county,2025-05-02,case_lab-confirmed,2
-"Ector, Texas",48135,county,2025-02-20,case_lab-confirmed,1
+"Ector, Texas",48135,county,2025-02-21,case_lab-confirmed,1
 "Ector, Texas",48135,county,2025-02-25,case_lab-confirmed,1
 "Ector, Texas",48135,county,2025-03-20,case_lab-confirmed,2
 "Ector, Texas",48135,county,2025-04-02,case_lab-confirmed,1
@@ -163,6 +165,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Gaines, Texas",48165,county,2025-05-23,case_lab-confirmed,2
 "Gaines, Texas",48165,county,2025-05-30,case_lab-confirmed,1
 "Gaines, Texas",48165,county,2025-06-03,case_lab-confirmed,2
+"Gaines, Texas",48165,county,2025-06-17,case_lab-confirmed,2
 "Gallatin, Montana",30031,county,2025-04-17,case_lab-confirmed,5
 "Gallatin, Montana",30031,county,2025-04-29,case_lab-confirmed,2
 "Gallatin, Montana",30031,county,2025-05-05,case_lab-confirmed,1
@@ -197,6 +200,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Haskell, Kansas",20081,county,2025-06-02,case_lab-confirmed,1
 "Haskell, Kansas",20081,county,2025-06-09,case_lab-confirmed,1
 "Haskell, Kansas",20081,county,2025-06-11,case_lab-confirmed,3
+"Haskell, Kansas",20081,county,2025-06-16,case_lab-confirmed,1
 "Hays, Texas",48209,county,2025-05-23,case_lab-confirmed,1
 "Hennepin, Minnesota",27053,county,2025-03-24,case_lab-confirmed,1
 "Hennepin, Minnesota",27053,county,2025-04-23,case_lab-confirmed,1
@@ -233,6 +237,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Lamar, Texas",48277,county,2025-05-09,case_lab-confirmed,1
 "Lamar, Texas",48277,county,2025-05-23,case_lab-confirmed,1
 "Lamar, Texas",48277,county,2025-06-03,case_lab-confirmed,1
+"Lamar, Texas",48277,county,2025-06-17,case_lab-confirmed,2
 "Lamb, Texas",48279,county,2025-03-20,case_lab-confirmed,1
 "Lamoille, Vermont",50015,county,2025-03-11,case_lab-confirmed,1
 "Lancaster, Pennsylvania",42071,county,2025-04-15,case_lab-confirmed,1
@@ -249,6 +254,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Lea, New Mexico",35025,county,2025-05-16,case_lab-confirmed,1
 "Lea, New Mexico",35025,county,2025-05-27,case_lab-confirmed,1
 "Lea, New Mexico",35025,county,2025-06-03,case_lab-confirmed,1
+"Leon, Florida",12073,county,2025-06-07,case_lab-confirmed,1
 "Los Angeles, California",6037,county,2025-03-11,case_lab-confirmed,1
 "Los Angeles, California",6037,county,2025-04-25,case_lab-confirmed,1
 "Los Angeles, California",6037,county,2025-05-07,case_lab-confirmed,1
@@ -278,6 +284,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Martin, Texas",48317,county,2025-02-25,case_lab-confirmed,3
 "McLennan, Texas",48309,county,2025-05-23,case_lab-confirmed,1
 "McLennan, Texas",48309,county,2025-05-30,case_lab-confirmed,7
+"McLennan, Texas",48309,county,2025-06-17,case_lab-confirmed,1
 "Meade, South Dakota",46093,county,2025-06-02,case_lab-confirmed,1
 "Miami-Dade, Florida",12086,county,2025-03-06,case_lab-confirmed,1
 "Mid-Cumberland Region, Tennessee",0,county,2025-03-17,case_lab-confirmed,1
@@ -360,10 +367,12 @@ location_name,location_id,location_type,date,outcome_type,value
 "Travis, Texas",48453,county,2025-03-20,case_lab-confirmed,1
 "Travis, Texas",48453,county,2025-05-02,case_lab-confirmed,1
 "Tuolumne, California",6109,county,2025-03-19,case_lab-confirmed,2
+"Unknown County, California",6,county,2025-06-16,case_lab-confirmed,2
 "Unknown County, Kansas",20,county,2025-03-31,case_lab-confirmed,9
 "Unknown County, Kansas",20,county,2025-04-05,case_lab-confirmed,1
 "Unknown County, Kansas",20,county,2025-04-09,case_lab-confirmed,2
 "Unknown County, Kansas",20,county,2025-04-16,case_lab-confirmed,3
+"Unknown County, Kansas",20,county,2025-06-16,case_lab-confirmed,1
 "Unknown County, Minnesota",27,county,2025-06-11,case_lab-confirmed,1
 "Unknown County, Oklahoma",40109,county,2025-03-25,case_lab-confirmed,7
 "Unknown County, Oklahoma",40109,county,2025-04-02,case_lab-confirmed,1
