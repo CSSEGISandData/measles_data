@@ -201,6 +201,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Haskell, Kansas",20081,county,2025-06-09,case_lab-confirmed,1
 "Haskell, Kansas",20081,county,2025-06-11,case_lab-confirmed,3
 "Haskell, Kansas",20081,county,2025-06-16,case_lab-confirmed,1
+"Haskell, Kansas",20081,county,2025-06-18,case_lab-confirmed,1
 "Hays, Texas",48209,county,2025-05-23,case_lab-confirmed,1
 "Hennepin, Minnesota",27053,county,2025-03-24,case_lab-confirmed,1
 "Hennepin, Minnesota",27053,county,2025-04-23,case_lab-confirmed,1
@@ -333,6 +334,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Riverside, California",6065,county,2025-04-03,case_lab-confirmed,1
 "Rockwall, Texas",48397,county,2025-03-20,case_lab-confirmed,1
 "Rockwall, Texas",48397,county,2025-04-23,case_lab-confirmed,1
+"Sacramento, California",6067,county,2025-06-16,case_lab-confirmed,1
 "Saline, Arkansas",5125,county,2025-04-10,case_lab-confirmed,1
 "San Juan, New Mexico",35045,county,2025-06-03,case_lab-confirmed,1
 "San Mateo, California",6081,county,2025-03-31,case_lab-confirmed,1
@@ -367,7 +369,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Travis, Texas",48453,county,2025-03-20,case_lab-confirmed,1
 "Travis, Texas",48453,county,2025-05-02,case_lab-confirmed,1
 "Tuolumne, California",6109,county,2025-03-19,case_lab-confirmed,2
-"Unknown County, California",6,county,2025-06-16,case_lab-confirmed,2
+"Unknown County, California",6,county,2025-06-16,case_lab-confirmed,1
 "Unknown County, Kansas",20,county,2025-03-31,case_lab-confirmed,9
 "Unknown County, Kansas",20,county,2025-04-05,case_lab-confirmed,1
 "Unknown County, Kansas",20,county,2025-04-09,case_lab-confirmed,2
@@ -391,6 +393,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Upshur, Texas",48459,county,2025-04-18,case_lab-confirmed,1
 "Upshur, Texas",48459,county,2025-04-25,case_lab-confirmed,1
 "Upshur, Texas",48459,county,2025-05-02,case_lab-confirmed,3
+"Washington, District of Columbia",11001,county,2025-06-14,case_lab-confirmed,1
 "Washington, Minnesota",27163,county,2025-06-02,case_lab-confirmed,1
 "Williams, North Dakota",38105,county,2025-04-29,case_lab-confirmed,1
 "Williams, North Dakota",38105,county,2025-05-02,case_lab-confirmed,2
