@@ -86,6 +86,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Dona Ana, New Mexico",35013,county,2025-05-02,case_lab-confirmed,1
 "Eastern, Iowa",19,county,2025-06-09,case_lab-confirmed,1
 "Eastern, Iowa",19,county,2025-06-11,case_lab-confirmed,1
+"Eastern, Iowa",19,county,2025-06-12,case_lab-confirmed,3
 "Eastland, Texas",48133,county,2025-05-02,case_lab-confirmed,2
 "Ector, Texas",48135,county,2025-02-21,case_lab-confirmed,1
 "Ector, Texas",48135,county,2025-02-25,case_lab-confirmed,1
@@ -139,6 +140,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Fulton, Georgia",13121,county,2025-03-31,case_lab-confirmed,2
 "Fulton, Georgia",13121,county,2025-05-19,case_lab-confirmed,1
 "Fulton, Georgia",13121,county,2025-06-06,case_lab-confirmed,1
+"Fulton, Georgia",13121,county,2025-06-18,case_lab-confirmed,1
 "Gaines, Texas",48165,county,2025-02-05,case_lab-confirmed,6
 "Gaines, Texas",48165,county,2025-02-11,case_lab-confirmed,18
 "Gaines, Texas",48165,county,2025-02-14,case_lab-confirmed,18
@@ -173,6 +175,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Gallatin, Montana",30031,county,2025-05-28,case_lab-confirmed,1
 "Gallatin, Montana",30031,county,2025-06-05,case_lab-confirmed,1
 "Gallatin, Montana",30031,county,2025-06-09,case_lab-confirmed,1
+"Gallatin, Montana",30031,county,2025-06-19,case_lab-confirmed,2
 "Garza, Texas",48169,county,2025-03-20,case_lab-confirmed,1
 "Garza, Texas",48169,county,2025-04-02,case_lab-confirmed,1
 "Grand Forks, North Dakota",38035,county,2025-05-16,case_lab-confirmed,1
@@ -370,6 +373,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Travis, Texas",48453,county,2025-05-02,case_lab-confirmed,1
 "Tuolumne, California",6109,county,2025-03-19,case_lab-confirmed,2
 "Unknown County, California",6,county,2025-06-16,case_lab-confirmed,1
+"Unknown County, Colorado",8,county,2025-06-20,case_lab-confirmed,1
 "Unknown County, Kansas",20,county,2025-03-31,case_lab-confirmed,9
 "Unknown County, Kansas",20,county,2025-04-05,case_lab-confirmed,1
 "Unknown County, Kansas",20,county,2025-04-09,case_lab-confirmed,2
