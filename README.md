@@ -93,10 +93,10 @@ All data represents **laboratory-confirmed measles cases** reported by public he
 
 - The state of Kansas does not provide exact case numbers for counties with less than five confirmed cases. As such, we aggregate such cases to an "unknown county" until further information is available.
 - The state of Tennessee provides confirmed case reporting on public health region rather than counties. We provide Tennessee cases on the same level.
-- The state of Oklahoma does not provide county information on the confirmed cases. As such, we aggregate all cases to an "Unknown county" until further information is available.
+- The state of Oklahoma does not provide county information on the confirmed cases. As such, we aggregate all cases to an "Unknown county" until further information is available. This data is represented on the map using the state’s geographic centroid.
 ## Update Schedule
 
-Data are updated **Tuesdays and Fridays** at approximately **5:00 PM Eastern Time**.
+Data are updated **Tuesdays and Fridays** at approximately **5:00 PM Eastern Time**, but subject to change in response to state reporting..
 
 > **Note**: Historical data is subject to backward revisions as case investigations are completed and additional information becomes available. Previous versions of these data will be maintained through GitHub version-control.
 
