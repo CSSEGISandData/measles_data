@@ -65,6 +65,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Dallam, Texas",48111,county,2025-02-25,case_lab-confirmed,4
 "Dallam, Texas",48111,county,2025-03-18,case_lab-confirmed,2
 "Dallam, Texas",48111,county,2025-03-20,case_lab-confirmed,1
+"Dallas, Texas",48113,county,2025-06-24,case_lab-confirmed,1
 "Dawson, Texas",48115,county,2025-02-21,case_lab-confirmed,6
 "Dawson, Texas",48115,county,2025-02-25,case_lab-confirmed,1
 "Dawson, Texas",48115,county,2025-02-28,case_lab-confirmed,1
@@ -123,6 +124,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Erie, Pennsylvania",42049,county,2025-03-30,case_lab-confirmed,1
 "Erie, Pennsylvania",42049,county,2025-04-15,case_lab-confirmed,2
 "Erie, Pennsylvania",42049,county,2025-05-09,case_lab-confirmed,3
+"Fannin, Texas",48147,county,2025-06-24,case_lab-confirmed,1
 "Faulkner, Arkansas",5045,county,2025-04-10,case_lab-confirmed,1
 "Faulkner, Arkansas",5045,county,2025-04-29,case_lab-confirmed,1
 "Faulkner, Arkansas",5045,county,2025-05-09,case_lab-confirmed,2
@@ -176,6 +178,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Gallatin, Montana",30031,county,2025-06-05,case_lab-confirmed,1
 "Gallatin, Montana",30031,county,2025-06-09,case_lab-confirmed,1
 "Gallatin, Montana",30031,county,2025-06-19,case_lab-confirmed,2
+"Gallatin, Montana",30031,county,2025-06-20,case_lab-confirmed,1
 "Garza, Texas",48169,county,2025-03-20,case_lab-confirmed,1
 "Garza, Texas",48169,county,2025-04-02,case_lab-confirmed,1
 "Grand Forks, North Dakota",38035,county,2025-05-16,case_lab-confirmed,1
@@ -186,6 +189,9 @@ location_name,location_id,location_type,date,outcome_type,value
 "Grand Forks, North Dakota",38035,county,2025-05-26,case_lab-confirmed,1
 "Grand Forks, North Dakota",38035,county,2025-05-28,case_lab-confirmed,2
 "Grand Forks, North Dakota",38035,county,2025-05-30,case_lab-confirmed,1
+"Grand Traverse, Michigan",26055,county,2025-06-18,case_lab-confirmed,1
+"Grand Traverse, Michigan",26055,county,2025-06-20,case_lab-confirmed,1
+"Grand Traverse, Michigan",26055,county,2025-06-23,case_lab-confirmed,1
 "Gray, Kansas",20069,county,2025-04-30,case_lab-confirmed,15
 "Gray, Kansas",20069,county,2025-05-14,case_lab-confirmed,6
 "Gray, Kansas",20069,county,2025-05-28,case_lab-confirmed,3
@@ -378,7 +384,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Unknown County, Kansas",20,county,2025-04-05,case_lab-confirmed,1
 "Unknown County, Kansas",20,county,2025-04-09,case_lab-confirmed,2
 "Unknown County, Kansas",20,county,2025-04-16,case_lab-confirmed,3
-"Unknown County, Kansas",20,county,2025-06-16,case_lab-confirmed,1
+"Unknown County, Kansas",20,county,2025-06-16,case_lab-confirmed,2
 "Unknown County, Minnesota",27,county,2025-06-11,case_lab-confirmed,1
 "Unknown County, Oklahoma",40109,county,2025-03-25,case_lab-confirmed,7
 "Unknown County, Oklahoma",40109,county,2025-04-02,case_lab-confirmed,1
@@ -397,8 +403,11 @@ location_name,location_id,location_type,date,outcome_type,value
 "Upshur, Texas",48459,county,2025-04-18,case_lab-confirmed,1
 "Upshur, Texas",48459,county,2025-04-25,case_lab-confirmed,1
 "Upshur, Texas",48459,county,2025-05-02,case_lab-confirmed,3
+"Utah, Utah",49049,county,2025-06-23,case_lab-confirmed,1
 "Washington, District of Columbia",11001,county,2025-06-14,case_lab-confirmed,1
 "Washington, Minnesota",27163,county,2025-06-02,case_lab-confirmed,1
+"Whatcom, Washington",53073,county,2025-06-20,case_lab-confirmed,1
+"Whatcom, Washington",53073,county,2025-06-23,case_lab-confirmed,1
 "Williams, North Dakota",38105,county,2025-04-29,case_lab-confirmed,1
 "Williams, North Dakota",38105,county,2025-05-02,case_lab-confirmed,2
 "Williams, North Dakota",38105,county,2025-05-03,case_lab-confirmed,2
