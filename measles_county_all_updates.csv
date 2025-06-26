@@ -197,6 +197,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Gray, Kansas",20069,county,2025-05-28,case_lab-confirmed,3
 "Gray, Kansas",20069,county,2025-06-02,case_lab-confirmed,1
 "Gray, Kansas",20069,county,2025-06-11,case_lab-confirmed,1
+"Guilford, North Carolina",37081,county,2025-06-24,case_lab-confirmed,1
 "Hale, Texas",48189,county,2025-03-20,case_lab-confirmed,1
 "Hale, Texas",48189,county,2025-04-04,case_lab-confirmed,2
 "Hale, Texas",48189,county,2025-04-08,case_lab-confirmed,2
@@ -233,6 +234,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "King, Washington",53033,county,2025-04-11,case_lab-confirmed,1
 "King, Washington",53033,county,2025-04-24,case_lab-confirmed,1
 "King, Washington",53033,county,2025-05-20,case_lab-confirmed,1
+"King, Washington",53033,county,2025-06-24,case_lab-confirmed,2
 "Kiowa, Kansas",20097,county,2025-03-31,case_lab-confirmed,6
 "Knox, Ohio",39083,county,2025-03-31,case_lab-confirmed,6
 "Knox, Ohio",39083,county,2025-04-02,case_lab-confirmed,1
@@ -269,6 +271,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Los Angeles, California",6037,county,2025-04-25,case_lab-confirmed,1
 "Los Angeles, California",6037,county,2025-05-07,case_lab-confirmed,1
 "Los Angeles, California",6037,county,2025-06-06,case_lab-confirmed,1
+"Los Angeles, California",6037,county,2025-06-12,case_lab-confirmed,1
 "Lubbock, Texas",48303,county,2025-02-18,case_lab-confirmed,1
 "Lubbock, Texas",48303,county,2025-02-28,case_lab-confirmed,1
 "Lubbock, Texas",48303,county,2025-03-18,case_lab-confirmed,3
@@ -296,6 +299,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "McLennan, Texas",48309,county,2025-05-30,case_lab-confirmed,7
 "McLennan, Texas",48309,county,2025-06-17,case_lab-confirmed,1
 "Meade, South Dakota",46093,county,2025-06-02,case_lab-confirmed,1
+"Meade, South Dakota",46093,county,2025-06-14,case_lab-confirmed,1
 "Miami-Dade, Florida",12086,county,2025-03-06,case_lab-confirmed,1
 "Mid-Cumberland Region, Tennessee",0,county,2025-03-17,case_lab-confirmed,1
 "Mid-Cumberland Region, Tennessee",0,county,2025-03-28,case_lab-confirmed,1
@@ -308,6 +312,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Montcalm, Michigan",26117,county,2025-04-17,case_lab-confirmed,2
 "Montcalm, Michigan",26117,county,2025-04-23,case_lab-confirmed,1
 "Montgomery, Pennsylvania",42091,county,2025-03-31,case_lab-confirmed,1
+"Multnomah, Oregon",41051,county,2025-06-24,case_lab-confirmed,1
 "Navajo, Arizona",4017,county,2025-06-09,case_lab-confirmed,4
 "New Madrid, Missouri",29143,county,2025-05-06,case_lab-confirmed,1
 "New York, New York",36061,county,2025-01-31,case_lab-confirmed,1
@@ -326,7 +331,8 @@ location_name,location_id,location_type,date,outcome_type,value
 "Parmer, Texas",48369,county,2025-04-18,case_lab-confirmed,4
 "Parmer, Texas",48369,county,2025-05-06,case_lab-confirmed,1
 "Pawnee, Kansas",20145,county,2025-06-02,case_lab-confirmed,7
-"Pennington, South Dakota",46103,county,2025-06-06,case_lab-confirmed,1
+"Pennington, South Dakota",46103,county,2025-05-31,case_lab-confirmed,1
+"Pennington, South Dakota",46103,county,2025-06-07,case_lab-confirmed,1
 "Philadelphia, Pennsylvania",42101,county,2025-03-31,case_lab-confirmed,1
 "Philadelphia, Pennsylvania",42101,county,2025-04-11,case_lab-confirmed,1
 "Placer, California",6061,county,2025-03-31,case_lab-confirmed,1
@@ -355,6 +361,8 @@ location_name,location_id,location_type,date,outcome_type,value
 "Sheridan, Nebraska",31161,county,2025-05-28,case_lab-confirmed,1
 "Snohomish, Washington",53061,county,2025-03-18,case_lab-confirmed,1
 "Snohomish, Washington",53061,county,2025-04-02,case_lab-confirmed,1
+"Southwest Health District, Utah",0,county,2025-06-24,case_lab-confirmed,1
+"Southwest Health District, Utah",0,county,2025-06-26,case_lab-confirmed,1
 "Stevens, Kansas",20189,county,2025-03-31,case_lab-confirmed,6
 "Stevens, Kansas",20189,county,2025-04-09,case_lab-confirmed,1
 "Suffolk, New York",36103,county,2025-03-11,case_lab-confirmed,1
@@ -403,7 +411,9 @@ location_name,location_id,location_type,date,outcome_type,value
 "Upshur, Texas",48459,county,2025-04-18,case_lab-confirmed,1
 "Upshur, Texas",48459,county,2025-04-25,case_lab-confirmed,1
 "Upshur, Texas",48459,county,2025-05-02,case_lab-confirmed,3
-"Utah, Utah",49049,county,2025-06-23,case_lab-confirmed,1
+"Utah, Utah",49049,county,2025-06-20,case_lab-confirmed,1
+"Utah, Utah",49049,county,2025-06-24,case_lab-confirmed,1
+"Utah, Utah",49049,county,2025-06-26,case_lab-confirmed,1
 "Washington, District of Columbia",11001,county,2025-06-14,case_lab-confirmed,1
 "Washington, Minnesota",27163,county,2025-06-02,case_lab-confirmed,1
 "Whatcom, Washington",53073,county,2025-06-20,case_lab-confirmed,1
