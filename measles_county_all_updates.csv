@@ -28,6 +28,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Benton, Arkansas",5007,county,2025-06-16,case_lab-confirmed,1
 "Bergen, New Jersey",34003,county,2025-02-14,case_lab-confirmed,1
 "Bergen, New Jersey",34003,county,2025-02-17,case_lab-confirmed,2
+"Bexar, Texas",48029,county,2025-07-01,case_lab-confirmed,1
 "Borden, Texas",48033,county,2025-04-08,case_lab-confirmed,1
 "Boulder, Colorado",8013,county,2025-06-13,case_lab-confirmed,1
 "Brazoria, Texas",48039,county,2025-04-18,case_lab-confirmed,1
@@ -119,6 +120,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "El Paso, Texas",48141,county,2025-05-27,case_lab-confirmed,1
 "El Paso, Texas",48141,county,2025-05-30,case_lab-confirmed,2
 "El Paso, Texas",48141,county,2025-06-10,case_lab-confirmed,1
+"El Paso, Texas",48141,county,2025-07-01,case_lab-confirmed,1
 "Erath, Texas",48143,county,2025-03-20,case_lab-confirmed,1
 "Erie, Pennsylvania",42049,county,2025-03-25,case_lab-confirmed,2
 "Erie, Pennsylvania",42049,county,2025-03-30,case_lab-confirmed,1
@@ -130,11 +132,11 @@ location_name,location_id,location_type,date,outcome_type,value
 "Faulkner, Arkansas",5045,county,2025-05-09,case_lab-confirmed,2
 "Faulkner, Arkansas",5045,county,2025-05-20,case_lab-confirmed,1
 "Faulkner, Arkansas",5045,county,2025-05-27,case_lab-confirmed,1
+"Fayette, Kentucky",21067,county,2025-06-30,case_lab-confirmed,1
 "Flathead, Montana",30029,county,2025-05-21,case_lab-confirmed,1
 "Flathead, Montana",30029,county,2025-05-29,case_lab-confirmed,1
 "Fort Bend, Texas",48157,county,2025-04-02,case_lab-confirmed,1
 "Franklin, Kentucky",21073,county,2025-02-26,case_lab-confirmed,1
-"Franklin, Kentucky",21073,county,2025-04-24,case_lab-confirmed,1
 "Franklin, Ohio",39049,county,2025-05-20,case_lab-confirmed,1
 "Fresno, California",6019,county,2025-03-11,case_lab-confirmed,1
 "Fresno, California",6019,county,2025-03-19,case_lab-confirmed,1
@@ -170,6 +172,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Gaines, Texas",48165,county,2025-05-30,case_lab-confirmed,1
 "Gaines, Texas",48165,county,2025-06-03,case_lab-confirmed,2
 "Gaines, Texas",48165,county,2025-06-17,case_lab-confirmed,2
+"Gaines, Texas",48165,county,2025-07-01,case_lab-confirmed,1
 "Gallatin, Montana",30031,county,2025-04-17,case_lab-confirmed,5
 "Gallatin, Montana",30031,county,2025-04-29,case_lab-confirmed,2
 "Gallatin, Montana",30031,county,2025-05-05,case_lab-confirmed,1
@@ -179,6 +182,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Gallatin, Montana",30031,county,2025-06-09,case_lab-confirmed,1
 "Gallatin, Montana",30031,county,2025-06-19,case_lab-confirmed,2
 "Gallatin, Montana",30031,county,2025-06-20,case_lab-confirmed,1
+"Gallatin, Montana",30031,county,2025-06-22,case_lab-confirmed,1
 "Garza, Texas",48169,county,2025-03-20,case_lab-confirmed,1
 "Garza, Texas",48169,county,2025-04-02,case_lab-confirmed,1
 "Grand Forks, North Dakota",38035,county,2025-05-16,case_lab-confirmed,1
@@ -249,7 +253,8 @@ location_name,location_id,location_type,date,outcome_type,value
 "Lamar, Texas",48277,county,2025-05-09,case_lab-confirmed,1
 "Lamar, Texas",48277,county,2025-05-23,case_lab-confirmed,1
 "Lamar, Texas",48277,county,2025-06-03,case_lab-confirmed,1
-"Lamar, Texas",48277,county,2025-06-17,case_lab-confirmed,2
+"Lamar, Texas",48277,county,2025-06-17,case_lab-confirmed,20
+"Lamar, Texas",48277,county,2025-07-01,case_lab-confirmed,3
 "Lamb, Texas",48279,county,2025-03-20,case_lab-confirmed,1
 "Lamoille, Vermont",50015,county,2025-03-11,case_lab-confirmed,1
 "Lancaster, Pennsylvania",42071,county,2025-04-15,case_lab-confirmed,1
@@ -289,6 +294,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Lubbock, Texas",48303,county,2025-05-13,case_lab-confirmed,1
 "Lubbock, Texas",48303,county,2025-05-20,case_lab-confirmed,1
 "Luna, New Mexico",35029,county,2025-06-27,case_lab-confirmed,5
+"Luna, New Mexico",35029,county,2025-07-01,case_lab-confirmed,8
 "Lynn, Texas",48305,county,2025-02-14,case_lab-confirmed,1
 "Lynn, Texas",48305,county,2025-02-28,case_lab-confirmed,1
 "Macomb, Michigan",26099,county,2025-04-04,case_lab-confirmed,1
@@ -385,6 +391,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Terry, Texas",48445,county,2025-04-23,case_lab-confirmed,2
 "Terry, Texas",48445,county,2025-04-25,case_lab-confirmed,5
 "Terry, Texas",48445,county,2025-05-06,case_lab-confirmed,1
+"Todd, Kentucky",21219,county,2025-06-30,case_lab-confirmed,1
 "Travis, Texas",48453,county,2025-03-20,case_lab-confirmed,1
 "Travis, Texas",48453,county,2025-05-02,case_lab-confirmed,1
 "Tuolumne, California",6109,county,2025-03-19,case_lab-confirmed,2
@@ -395,6 +402,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Unknown County, Kansas",20,county,2025-04-09,case_lab-confirmed,2
 "Unknown County, Kansas",20,county,2025-04-16,case_lab-confirmed,3
 "Unknown County, Kansas",20,county,2025-06-16,case_lab-confirmed,2
+"Unknown County, Kentucky",21,county,2025-06-30,case_lab-confirmed,1
 "Unknown County, Minnesota",27,county,2025-06-11,case_lab-confirmed,1
 "Unknown County, Oklahoma",40109,county,2025-03-25,case_lab-confirmed,7
 "Unknown County, Oklahoma",40109,county,2025-04-02,case_lab-confirmed,1
@@ -435,6 +443,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Williamson, Illinois",17199,county,2025-04-23,case_lab-confirmed,1
 "Williamson, Illinois",17199,county,2025-05-05,case_lab-confirmed,3
 "Williamson, Texas",48491,county,2025-05-30,case_lab-confirmed,6
+"Woodford, Kentucky",21239,county,2025-06-30,case_lab-confirmed,3
 "Yellowstone, Montana",30111,county,2025-06-05,case_lab-confirmed,2
 "Yoakum, Texas",48501,county,2025-02-14,case_lab-confirmed,2
 "Yoakum, Texas",48501,county,2025-02-21,case_lab-confirmed,2
