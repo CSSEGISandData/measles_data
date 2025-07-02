@@ -196,11 +196,13 @@ location_name,location_id,location_type,date,outcome_type,value
 "Grand Traverse, Michigan",26055,county,2025-06-18,case_lab-confirmed,1
 "Grand Traverse, Michigan",26055,county,2025-06-20,case_lab-confirmed,1
 "Grand Traverse, Michigan",26055,county,2025-06-23,case_lab-confirmed,1
+"Grand Traverse, Michigan",26055,county,2025-07-02,case_lab-confirmed,1
 "Gray, Kansas",20069,county,2025-04-30,case_lab-confirmed,15
 "Gray, Kansas",20069,county,2025-05-14,case_lab-confirmed,6
 "Gray, Kansas",20069,county,2025-05-28,case_lab-confirmed,3
 "Gray, Kansas",20069,county,2025-06-02,case_lab-confirmed,1
 "Gray, Kansas",20069,county,2025-06-11,case_lab-confirmed,1
+"Gray, Kansas",20069,county,2025-07-02,case_lab-confirmed,2
 "Guilford, North Carolina",37081,county,2025-06-24,case_lab-confirmed,1
 "Hale, Texas",48189,county,2025-03-20,case_lab-confirmed,1
 "Hale, Texas",48189,county,2025-04-04,case_lab-confirmed,2
@@ -216,6 +218,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Haskell, Kansas",20081,county,2025-06-11,case_lab-confirmed,3
 "Haskell, Kansas",20081,county,2025-06-16,case_lab-confirmed,1
 "Haskell, Kansas",20081,county,2025-06-18,case_lab-confirmed,1
+"Haskell, Kansas",20081,county,2025-07-02,case_lab-confirmed,1
 "Hays, Texas",48209,county,2025-05-23,case_lab-confirmed,1
 "Hennepin, Minnesota",27053,county,2025-03-24,case_lab-confirmed,1
 "Hennepin, Minnesota",27053,county,2025-04-23,case_lab-confirmed,1
@@ -234,6 +237,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Ingham, Michigan",26065,county,2025-04-15,case_lab-confirmed,1
 "Kenai Peninsula, Alaska",2122,county,2025-01-21,case_lab-confirmed,1
 "Kent, Michigan",26081,county,2025-04-04,case_lab-confirmed,1
+"Kent, Michigan",26081,county,2025-07-02,case_lab-confirmed,1
 "King, Washington",53033,county,2025-02-27,case_lab-confirmed,1
 "King, Washington",53033,county,2025-04-11,case_lab-confirmed,1
 "King, Washington",53033,county,2025-04-24,case_lab-confirmed,1
@@ -321,6 +325,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Montgomery, Pennsylvania",42091,county,2025-03-31,case_lab-confirmed,1
 "Multnomah, Oregon",41051,county,2025-06-24,case_lab-confirmed,1
 "Muskegon, Michigan",26121,county,2025-06-26,case_lab-confirmed,1
+"Natrona, Wyoming",56025,county,2025-07-01,case_lab-confirmed,1
 "Navajo, Arizona",4017,county,2025-06-09,case_lab-confirmed,4
 "New Madrid, Missouri",29143,county,2025-05-06,case_lab-confirmed,1
 "New York, New York",36061,county,2025-01-31,case_lab-confirmed,1
@@ -414,7 +419,6 @@ location_name,location_id,location_type,date,outcome_type,value
 "Unknown County, Oklahoma",40109,county,2025-06-03,case_lab-confirmed,1
 "Unknown County, Oklahoma",40109,county,2025-06-06,case_lab-confirmed,1
 "Unknown County, Oklahoma",40109,county,2025-06-13,case_lab-confirmed,1
-"Unknown County, Utah",49,county,2025-06-27,case_lab-confirmed,2
 "Upper Cumberland Region, Tennessee",0,county,2025-03-30,case_lab-confirmed,1
 "Upper Cumberland Region, Tennessee",0,county,2025-03-31,case_lab-confirmed,1
 "Upper Cumberland Region, Tennessee",0,county,2025-04-14,case_lab-confirmed,1
@@ -425,6 +429,8 @@ location_name,location_id,location_type,date,outcome_type,value
 "Utah, Utah",49049,county,2025-06-20,case_lab-confirmed,1
 "Utah, Utah",49049,county,2025-06-24,case_lab-confirmed,1
 "Utah, Utah",49049,county,2025-06-26,case_lab-confirmed,1
+"Utah, Utah",49049,county,2025-06-27,case_lab-confirmed,2
+"Utah, Utah",49049,county,2025-07-01,case_lab-confirmed,2
 "Washington, District of Columbia",11001,county,2025-06-14,case_lab-confirmed,1
 "Washington, Minnesota",27163,county,2025-06-02,case_lab-confirmed,1
 "Whatcom, Washington",53073,county,2025-06-20,case_lab-confirmed,1
