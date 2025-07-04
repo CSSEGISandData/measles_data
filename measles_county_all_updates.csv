@@ -178,10 +178,9 @@ location_name,location_id,location_type,date,outcome_type,value
 "Gallatin, Montana",30031,county,2025-05-05,case_lab-confirmed,1
 "Gallatin, Montana",30031,county,2025-05-23,case_lab-confirmed,1
 "Gallatin, Montana",30031,county,2025-05-28,case_lab-confirmed,1
-"Gallatin, Montana",30031,county,2025-06-05,case_lab-confirmed,1
+"Gallatin, Montana",30031,county,2025-06-01,case_lab-confirmed,3
 "Gallatin, Montana",30031,county,2025-06-09,case_lab-confirmed,1
-"Gallatin, Montana",30031,county,2025-06-19,case_lab-confirmed,2
-"Gallatin, Montana",30031,county,2025-06-20,case_lab-confirmed,1
+"Gallatin, Montana",30031,county,2025-06-15,case_lab-confirmed,4
 "Gallatin, Montana",30031,county,2025-06-22,case_lab-confirmed,1
 "Garza, Texas",48169,county,2025-03-20,case_lab-confirmed,1
 "Garza, Texas",48169,county,2025-04-02,case_lab-confirmed,1
@@ -299,6 +298,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Lubbock, Texas",48303,county,2025-05-20,case_lab-confirmed,1
 "Luna, New Mexico",35029,county,2025-06-27,case_lab-confirmed,5
 "Luna, New Mexico",35029,county,2025-07-01,case_lab-confirmed,8
+"Luna, New Mexico",35029,county,2025-07-03,case_lab-confirmed,1
 "Lynn, Texas",48305,county,2025-02-14,case_lab-confirmed,1
 "Lynn, Texas",48305,county,2025-02-28,case_lab-confirmed,1
 "Macomb, Michigan",26099,county,2025-04-04,case_lab-confirmed,1
@@ -409,6 +409,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Unknown County, Kansas",20,county,2025-06-16,case_lab-confirmed,2
 "Unknown County, Kentucky",21,county,2025-06-30,case_lab-confirmed,1
 "Unknown County, Minnesota",27,county,2025-06-11,case_lab-confirmed,1
+"Unknown County, New Jersey",34,county,2025-07-03,case_lab-confirmed,1
 "Unknown County, Oklahoma",40109,county,2025-03-25,case_lab-confirmed,7
 "Unknown County, Oklahoma",40109,county,2025-04-02,case_lab-confirmed,1
 "Unknown County, Oklahoma",40109,county,2025-04-15,case_lab-confirmed,1
