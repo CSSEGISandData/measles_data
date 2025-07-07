@@ -133,6 +133,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Faulkner, Arkansas",5045,county,2025-05-20,case_lab-confirmed,1
 "Faulkner, Arkansas",5045,county,2025-05-27,case_lab-confirmed,1
 "Fayette, Kentucky",21067,county,2025-06-30,case_lab-confirmed,1
+"Fayette, Kentucky",21067,county,2025-07-07,case_lab-confirmed,4
 "Flathead, Montana",30029,county,2025-05-21,case_lab-confirmed,1
 "Flathead, Montana",30029,county,2025-05-29,case_lab-confirmed,1
 "Fort Bend, Texas",48157,county,2025-04-02,case_lab-confirmed,1
