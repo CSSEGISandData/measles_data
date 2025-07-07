@@ -218,6 +218,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Haskell, Kansas",20081,county,2025-06-16,case_lab-confirmed,1
 "Haskell, Kansas",20081,county,2025-06-18,case_lab-confirmed,1
 "Haskell, Kansas",20081,county,2025-07-02,case_lab-confirmed,1
+"Haskell, Kansas",20081,county,2025-07-07,case_lab-confirmed,1
 "Hays, Texas",48209,county,2025-05-23,case_lab-confirmed,1
 "Hennepin, Minnesota",27053,county,2025-03-24,case_lab-confirmed,1
 "Hennepin, Minnesota",27053,county,2025-04-23,case_lab-confirmed,1
@@ -379,6 +380,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Southwest Health District, Utah",0,county,2025-06-26,case_lab-confirmed,1
 "Stevens, Kansas",20189,county,2025-03-31,case_lab-confirmed,6
 "Stevens, Kansas",20189,county,2025-04-09,case_lab-confirmed,1
+"Stevens, Kansas",20189,county,2025-07-07,case_lab-confirmed,2
 "Suffolk, New York",36103,county,2025-03-11,case_lab-confirmed,1
 "Taney, Missouri",29213,county,2025-04-18,case_lab-confirmed,1
 "Tarrant, Texas",48439,county,2025-05-06,case_lab-confirmed,2
