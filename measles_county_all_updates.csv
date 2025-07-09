@@ -223,6 +223,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Haskell, Kansas",20081,county,2025-06-18,case_lab-confirmed,1
 "Haskell, Kansas",20081,county,2025-07-02,case_lab-confirmed,1
 "Haskell, Kansas",20081,county,2025-07-07,case_lab-confirmed,1
+"Haskell, Kansas",20081,county,2025-07-09,case_lab-confirmed,1
 "Hays, Texas",48209,county,2025-05-23,case_lab-confirmed,1
 "Hennepin, Minnesota",27053,county,2025-03-24,case_lab-confirmed,1
 "Hennepin, Minnesota",27053,county,2025-04-23,case_lab-confirmed,1
@@ -281,6 +282,8 @@ location_name,location_id,location_type,date,outcome_type,value
 "Lea, New Mexico",35025,county,2025-06-03,case_lab-confirmed,1
 "Leon, Florida",12073,county,2025-06-07,case_lab-confirmed,1
 "Leon, Florida",12073,county,2025-06-28,case_lab-confirmed,1
+"Lincoln, South Dakota",46083,county,2025-06-21,case_lab-confirmed,2
+"Lincoln, South Dakota",46083,county,2025-06-28,case_lab-confirmed,6
 "Los Angeles, California",6037,county,2025-03-11,case_lab-confirmed,1
 "Los Angeles, California",6037,county,2025-04-25,case_lab-confirmed,1
 "Los Angeles, California",6037,county,2025-05-07,case_lab-confirmed,1
@@ -359,6 +362,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Prince George's, Maryland",24033,county,2025-03-10,case_lab-confirmed,2
 "Providence, Rhode Island",44007,county,2025-01-18,case_lab-confirmed,1
 "Pueblo, Colorado",8101,county,2025-03-31,case_lab-confirmed,1
+"Putnam, Indiana",18133,county,2025-07-08,case_lab-confirmed,1
 "Putnam, New York",36079,county,2025-06-03,case_lab-confirmed,1
 "Randall, Texas",48381,county,2025-04-08,case_lab-confirmed,1
 "Randall, Texas",48381,county,2025-05-20,case_lab-confirmed,1
