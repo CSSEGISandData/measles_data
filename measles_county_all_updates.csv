@@ -137,6 +137,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Faulkner, Arkansas",5045,county,2025-05-27,case_lab-confirmed,1
 "Fayette, Kentucky",21067,county,2025-06-30,case_lab-confirmed,1
 "Fayette, Kentucky",21067,county,2025-07-07,case_lab-confirmed,4
+"Fayette, Kentucky",21067,county,2025-07-10,case_lab-confirmed,1
 "Flathead, Montana",30029,county,2025-05-21,case_lab-confirmed,1
 "Flathead, Montana",30029,county,2025-05-29,case_lab-confirmed,1
 "Fort Bend, Texas",48157,county,2025-04-02,case_lab-confirmed,1
@@ -182,9 +183,10 @@ location_name,location_id,location_type,date,outcome_type,value
 "Gallatin, Montana",30031,county,2025-05-05,case_lab-confirmed,1
 "Gallatin, Montana",30031,county,2025-05-23,case_lab-confirmed,1
 "Gallatin, Montana",30031,county,2025-05-28,case_lab-confirmed,1
-"Gallatin, Montana",30031,county,2025-06-01,case_lab-confirmed,3
+"Gallatin, Montana",30031,county,2025-06-05,case_lab-confirmed,1
 "Gallatin, Montana",30031,county,2025-06-09,case_lab-confirmed,1
-"Gallatin, Montana",30031,county,2025-06-15,case_lab-confirmed,4
+"Gallatin, Montana",30031,county,2025-06-10,case_lab-confirmed,1
+"Gallatin, Montana",30031,county,2025-06-15,case_lab-confirmed,3
 "Gallatin, Montana",30031,county,2025-06-22,case_lab-confirmed,1
 "Garza, Texas",48169,county,2025-03-20,case_lab-confirmed,1
 "Garza, Texas",48169,county,2025-04-02,case_lab-confirmed,1
@@ -253,7 +255,8 @@ location_name,location_id,location_type,date,outcome_type,value
 "Knox, Ohio",39083,county,2025-04-02,case_lab-confirmed,1
 "Knox, Ohio",39083,county,2025-04-06,case_lab-confirmed,1
 "Knox, Ohio",39083,county,2025-04-09,case_lab-confirmed,6
-"Lamar, Texas",48277,county,2025-03-20,case_lab-confirmed,10
+"Lamar, Texas",48277,county,2025-03-15,case_lab-confirmed,5
+"Lamar, Texas",48277,county,2025-03-20,case_lab-confirmed,5
 "Lamar, Texas",48277,county,2025-04-04,case_lab-confirmed,1
 "Lamar, Texas",48277,county,2025-04-25,case_lab-confirmed,3
 "Lamar, Texas",48277,county,2025-04-29,case_lab-confirmed,3
@@ -261,7 +264,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Lamar, Texas",48277,county,2025-05-09,case_lab-confirmed,1
 "Lamar, Texas",48277,county,2025-05-23,case_lab-confirmed,1
 "Lamar, Texas",48277,county,2025-06-03,case_lab-confirmed,1
-"Lamar, Texas",48277,county,2025-06-17,case_lab-confirmed,18
+"Lamar, Texas",48277,county,2025-06-17,case_lab-confirmed,2
 "Lamar, Texas",48277,county,2025-07-01,case_lab-confirmed,3
 "Lamar, Texas",48277,county,2025-07-08,case_lab-confirmed,2
 "Lamb, Texas",48279,county,2025-03-20,case_lab-confirmed,1
@@ -341,9 +344,12 @@ location_name,location_id,location_type,date,outcome_type,value
 "New York, New York",36061,county,2025-02-26,case_lab-confirmed,1
 "New York, New York",36061,county,2025-03-20,case_lab-confirmed,1
 "New York, New York",36061,county,2025-05-16,case_lab-confirmed,3
+"New York, New York",36061,county,2025-07-11,case_lab-confirmed,1
+"Niobrara, Wyoming",56027,county,2025-07-11,case_lab-confirmed,1
 "Northwest Region, Virginia",0,county,2025-04-15,case_lab-confirmed,1
 "Northwest Region, Virginia",0,county,2025-06-05,case_lab-confirmed,2
 "Oakland, Michigan",26125,county,2025-03-14,case_lab-confirmed,1
+"Ocean, New Jersey",34029,county,2025-07-10,case_lab-confirmed,1
 "Ontario, New York",36069,county,2025-05-27,case_lab-confirmed,1
 "Orange, California",6059,county,2025-02-25,case_lab-confirmed,1
 "Orange, New York",36071,county,2025-05-10,case_lab-confirmed,3
@@ -438,6 +444,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Upshur, Texas",48459,county,2025-04-18,case_lab-confirmed,1
 "Upshur, Texas",48459,county,2025-04-25,case_lab-confirmed,1
 "Upshur, Texas",48459,county,2025-05-02,case_lab-confirmed,3
+"Upstate, South Carolina",0,county,2025-07-09,case_lab-confirmed,1
 "Utah, Utah",49049,county,2025-06-20,case_lab-confirmed,1
 "Utah, Utah",49049,county,2025-06-24,case_lab-confirmed,1
 "Utah, Utah",49049,county,2025-06-26,case_lab-confirmed,1
@@ -458,6 +465,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Williams, North Dakota",38105,county,2025-05-16,case_lab-confirmed,1
 "Williams, North Dakota",38105,county,2025-05-18,case_lab-confirmed,1
 "Williams, North Dakota",38105,county,2025-05-28,case_lab-confirmed,1
+"Williams, North Dakota",38105,county,2025-07-01,case_lab-confirmed,1
 "Williamson, Illinois",17199,county,2025-04-23,case_lab-confirmed,1
 "Williamson, Illinois",17199,county,2025-05-05,case_lab-confirmed,3
 "Williamson, Texas",48491,county,2025-05-30,case_lab-confirmed,6
