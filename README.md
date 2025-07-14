@@ -96,7 +96,7 @@ All data represents **laboratory-confirmed measles cases** reported by public he
 - The state of Oklahoma does not provide county information on the confirmed cases. As such, we aggregate all cases to an "Unknown county" until further information is available. This data is represented on the map using the state’s geographic centroid.
 ## Update Schedule
 
-Data are updated **Tuesdays and Fridays** at approximately **5:00 PM Eastern Time**, but subject to change in response to state reporting..
+Data are updated **Mondays and Thursdays** by the end of day, but subject to change in response to state reporting..
 
 > **Note**: Historical data is subject to backward revisions as case investigations are completed and additional information becomes available. Previous versions of these data will be maintained through GitHub version-control.
 
