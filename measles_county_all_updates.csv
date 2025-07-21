@@ -38,6 +38,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Bucks, Pennsylvania",42017,county,2025-03-27,case_lab-confirmed,1
 "Burke, North Dakota",38013,county,2025-05-27,case_lab-confirmed,1
 "Carson, Texas",48065,county,2025-05-13,case_lab-confirmed,1
+"Cascade, Montana",30013,county,2025-07-16,case_lab-confirmed,1
 "Cass, North Dakota",38017,county,2025-05-01,case_lab-confirmed,1
 "Cass, North Dakota",38017,county,2025-05-06,case_lab-confirmed,2
 "Cass, North Dakota",38017,county,2025-05-12,case_lab-confirmed,1
@@ -92,6 +93,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Eastern, Iowa",19,county,2025-06-09,case_lab-confirmed,1
 "Eastern, Iowa",19,county,2025-06-11,case_lab-confirmed,1
 "Eastern, Iowa",19,county,2025-06-12,case_lab-confirmed,3
+"Eastern, Iowa",19,county,2025-07-14,case_lab-confirmed,1
 "Eastland, Texas",48133,county,2025-05-02,case_lab-confirmed,2
 "Ector, Texas",48135,county,2025-02-21,case_lab-confirmed,1
 "Ector, Texas",48135,county,2025-02-25,case_lab-confirmed,1
@@ -129,7 +131,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Erie, Pennsylvania",42049,county,2025-03-30,case_lab-confirmed,1
 "Erie, Pennsylvania",42049,county,2025-04-15,case_lab-confirmed,2
 "Erie, Pennsylvania",42049,county,2025-05-09,case_lab-confirmed,3
-"Fannin, Texas",48147,county,2025-06-24,case_lab-confirmed,1
+"Fannin, Texas",48147,county,2025-07-15,case_lab-confirmed,4
 "Faulkner, Arkansas",5045,county,2025-04-10,case_lab-confirmed,1
 "Faulkner, Arkansas",5045,county,2025-04-29,case_lab-confirmed,1
 "Faulkner, Arkansas",5045,county,2025-05-09,case_lab-confirmed,2
@@ -208,6 +210,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Gray, Kansas",20069,county,2025-06-02,case_lab-confirmed,1
 "Gray, Kansas",20069,county,2025-06-11,case_lab-confirmed,1
 "Gray, Kansas",20069,county,2025-07-02,case_lab-confirmed,2
+"Gray, Kansas",20069,county,2025-07-14,case_lab-confirmed,1
 "Guilford, North Carolina",37081,county,2025-06-24,case_lab-confirmed,1
 "Hale, Texas",48189,county,2025-03-20,case_lab-confirmed,1
 "Hale, Texas",48189,county,2025-04-04,case_lab-confirmed,2
@@ -215,6 +218,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Hardeman, Texas",48197,county,2025-05-02,case_lab-confirmed,1
 "Harris, Texas",48201,county,2025-01-23,case_lab-confirmed,2
 "Harris, Texas",48201,county,2025-03-20,case_lab-confirmed,1
+"Harris, Texas",48201,county,2025-07-15,case_lab-confirmed,1
 "Harrison, Texas",48203,county,2025-05-20,case_lab-confirmed,1
 "Haskell, Kansas",20081,county,2025-04-09,case_lab-confirmed,8
 "Haskell, Kansas",20081,county,2025-05-21,case_lab-confirmed,2
@@ -226,6 +230,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Haskell, Kansas",20081,county,2025-07-02,case_lab-confirmed,1
 "Haskell, Kansas",20081,county,2025-07-07,case_lab-confirmed,1
 "Haskell, Kansas",20081,county,2025-07-09,case_lab-confirmed,1
+"Haskell, Kansas",20081,county,2025-07-14,case_lab-confirmed,1
 "Hays, Texas",48209,county,2025-05-23,case_lab-confirmed,1
 "Hennepin, Minnesota",27053,county,2025-03-24,case_lab-confirmed,1
 "Hennepin, Minnesota",27053,county,2025-04-23,case_lab-confirmed,1
@@ -242,6 +247,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Honolulu, Hawaii",15003,county,2025-04-17,case_lab-confirmed,1
 "Howard, Maryland",24027,county,2025-03-09,case_lab-confirmed,1
 "Ingham, Michigan",26065,county,2025-04-15,case_lab-confirmed,1
+"Jefferson, Kentucky",21111,county,2025-07-14,case_lab-confirmed,1
 "Kenai Peninsula, Alaska",2122,county,2025-01-21,case_lab-confirmed,1
 "Kent, Michigan",26081,county,2025-04-04,case_lab-confirmed,1
 "Kent, Michigan",26081,county,2025-07-02,case_lab-confirmed,1
@@ -255,8 +261,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Knox, Ohio",39083,county,2025-04-02,case_lab-confirmed,1
 "Knox, Ohio",39083,county,2025-04-06,case_lab-confirmed,1
 "Knox, Ohio",39083,county,2025-04-09,case_lab-confirmed,6
-"Lamar, Texas",48277,county,2025-03-15,case_lab-confirmed,5
-"Lamar, Texas",48277,county,2025-03-20,case_lab-confirmed,5
+"Lamar, Texas",48277,county,2025-03-20,case_lab-confirmed,10
 "Lamar, Texas",48277,county,2025-04-04,case_lab-confirmed,1
 "Lamar, Texas",48277,county,2025-04-25,case_lab-confirmed,3
 "Lamar, Texas",48277,county,2025-04-29,case_lab-confirmed,3
@@ -392,9 +397,11 @@ location_name,location_id,location_type,date,outcome_type,value
 "Snohomish, Washington",53061,county,2025-04-02,case_lab-confirmed,1
 "Southwest Health District, Utah",0,county,2025-06-24,case_lab-confirmed,1
 "Southwest Health District, Utah",0,county,2025-06-26,case_lab-confirmed,1
+"Southwest Health District, Utah",0,county,2025-07-16,case_lab-confirmed,1
 "Stevens, Kansas",20189,county,2025-03-31,case_lab-confirmed,6
 "Stevens, Kansas",20189,county,2025-04-09,case_lab-confirmed,1
 "Stevens, Kansas",20189,county,2025-07-07,case_lab-confirmed,2
+"Stevens, Kansas",20189,county,2025-07-16,case_lab-confirmed,1
 "Suffolk, New York",36103,county,2025-03-11,case_lab-confirmed,1
 "Taney, Missouri",29213,county,2025-04-18,case_lab-confirmed,1
 "Tarrant, Texas",48439,county,2025-05-06,case_lab-confirmed,2
@@ -466,11 +473,12 @@ location_name,location_id,location_type,date,outcome_type,value
 "Williams, North Dakota",38105,county,2025-05-18,case_lab-confirmed,1
 "Williams, North Dakota",38105,county,2025-05-28,case_lab-confirmed,1
 "Williams, North Dakota",38105,county,2025-07-01,case_lab-confirmed,1
+"Williams, North Dakota",38105,county,2025-07-14,case_lab-confirmed,1
 "Williamson, Illinois",17199,county,2025-04-23,case_lab-confirmed,1
 "Williamson, Illinois",17199,county,2025-05-05,case_lab-confirmed,3
 "Williamson, Texas",48491,county,2025-05-30,case_lab-confirmed,6
 "Woodford, Kentucky",21239,county,2025-06-30,case_lab-confirmed,3
-"Yellowstone, Montana",30111,county,2025-06-05,case_lab-confirmed,2
+"Yellowstone, Montana",30111,county,2025-06-05,case_lab-confirmed,3
 "Yoakum, Texas",48501,county,2025-02-14,case_lab-confirmed,2
 "Yoakum, Texas",48501,county,2025-02-21,case_lab-confirmed,2
 "Yoakum, Texas",48501,county,2025-02-25,case_lab-confirmed,1
