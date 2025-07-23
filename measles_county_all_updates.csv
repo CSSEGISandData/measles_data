@@ -37,6 +37,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Brown, Texas",48049,county,2025-04-04,case_lab-confirmed,1
 "Bucks, Pennsylvania",42017,county,2025-03-27,case_lab-confirmed,1
 "Burke, North Dakota",38013,county,2025-05-27,case_lab-confirmed,1
+"Carbon, Wyoming",56007,county,2025-07-22,case_lab-confirmed,1
 "Carson, Texas",48065,county,2025-05-13,case_lab-confirmed,1
 "Cascade, Montana",30013,county,2025-07-16,case_lab-confirmed,1
 "Cass, North Dakota",38017,county,2025-05-01,case_lab-confirmed,1
@@ -390,6 +391,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Sandoval, New Mexico",35043,county,2025-05-16,case_lab-confirmed,2
 "Sandoval, New Mexico",35043,county,2025-05-23,case_lab-confirmed,4
 "Santa Clara, California",6085,county,2025-05-25,case_lab-confirmed,1
+"Santa Fe, New Mexico",35049,county,2025-07-22,case_lab-confirmed,1
 "Scurry, Texas",48415,county,2025-05-23,case_lab-confirmed,1
 "Shackelford, Texas",48417,county,2025-04-29,case_lab-confirmed,1
 "Sheridan, Nebraska",31161,county,2025-05-28,case_lab-confirmed,1
@@ -398,6 +400,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Southwest Health District, Utah",0,county,2025-06-24,case_lab-confirmed,1
 "Southwest Health District, Utah",0,county,2025-06-26,case_lab-confirmed,1
 "Southwest Health District, Utah",0,county,2025-07-16,case_lab-confirmed,1
+"Southwest Health District, Utah",0,county,2025-07-22,case_lab-confirmed,1
 "Stevens, Kansas",20189,county,2025-03-31,case_lab-confirmed,6
 "Stevens, Kansas",20189,county,2025-04-09,case_lab-confirmed,1
 "Stevens, Kansas",20189,county,2025-07-07,case_lab-confirmed,2
@@ -423,6 +426,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Todd, Kentucky",21219,county,2025-06-30,case_lab-confirmed,1
 "Travis, Texas",48453,county,2025-03-20,case_lab-confirmed,1
 "Travis, Texas",48453,county,2025-05-02,case_lab-confirmed,1
+"Tulare, California",6107,county,2025-07-22,case_lab-confirmed,1
 "Tuolumne, California",6109,county,2025-03-19,case_lab-confirmed,2
 "Unknown County, California",6,county,2025-06-16,case_lab-confirmed,1
 "Unknown County, Colorado",8,county,2025-06-20,case_lab-confirmed,1
