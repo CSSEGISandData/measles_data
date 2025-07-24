@@ -252,6 +252,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Kenai Peninsula, Alaska",2122,county,2025-01-21,case_lab-confirmed,1
 "Kent, Michigan",26081,county,2025-04-04,case_lab-confirmed,1
 "Kent, Michigan",26081,county,2025-07-02,case_lab-confirmed,1
+"Kent, Michigan",26081,county,2025-07-24,case_lab-confirmed,2
 "King, Washington",53033,county,2025-02-27,case_lab-confirmed,1
 "King, Washington",53033,county,2025-04-11,case_lab-confirmed,1
 "King, Washington",53033,county,2025-04-24,case_lab-confirmed,1
@@ -362,6 +363,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Orange, New York",36071,county,2025-05-27,case_lab-confirmed,1
 "Orleans, Louisiana",22071,county,2025-04-19,case_lab-confirmed,1
 "Orleans, Louisiana",22071,county,2025-04-22,case_lab-confirmed,1
+"Osceola, Michigan",26133,county,2025-07-24,case_lab-confirmed,2
 "Parmer, Texas",48369,county,2025-04-18,case_lab-confirmed,4
 "Parmer, Texas",48369,county,2025-05-06,case_lab-confirmed,1
 "Pawnee, Kansas",20145,county,2025-06-02,case_lab-confirmed,7
@@ -427,6 +429,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Travis, Texas",48453,county,2025-03-20,case_lab-confirmed,1
 "Travis, Texas",48453,county,2025-05-02,case_lab-confirmed,1
 "Tulare, California",6107,county,2025-07-22,case_lab-confirmed,1
+"Tulare, California",6107,county,2025-07-24,case_lab-confirmed,1
 "Tuolumne, California",6109,county,2025-03-19,case_lab-confirmed,2
 "Unknown County, California",6,county,2025-06-16,case_lab-confirmed,1
 "Unknown County, Colorado",8,county,2025-06-20,case_lab-confirmed,1
@@ -463,6 +466,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Utah, Utah",49049,county,2025-07-01,case_lab-confirmed,2
 "Washington, District of Columbia",11001,county,2025-06-14,case_lab-confirmed,1
 "Washington, Minnesota",27163,county,2025-06-02,case_lab-confirmed,1
+"Western, Iowa",19,county,2025-07-22,case_lab-confirmed,1
 "Whatcom, Washington",53073,county,2025-06-20,case_lab-confirmed,1
 "Whatcom, Washington",53073,county,2025-06-23,case_lab-confirmed,1
 "Williams, North Dakota",38105,county,2025-04-29,case_lab-confirmed,1
