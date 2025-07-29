@@ -191,6 +191,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Gallatin, Montana",30031,county,2025-06-10,case_lab-confirmed,1
 "Gallatin, Montana",30031,county,2025-06-15,case_lab-confirmed,3
 "Gallatin, Montana",30031,county,2025-06-22,case_lab-confirmed,1
+"Gallatin, Montana",30031,county,2025-07-20,case_lab-confirmed,2
 "Garza, Texas",48169,county,2025-03-20,case_lab-confirmed,1
 "Garza, Texas",48169,county,2025-04-02,case_lab-confirmed,1
 "Grand Forks, North Dakota",38035,county,2025-05-16,case_lab-confirmed,1
@@ -249,6 +250,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Howard, Maryland",24027,county,2025-03-09,case_lab-confirmed,1
 "Ingham, Michigan",26065,county,2025-04-15,case_lab-confirmed,1
 "Jefferson, Kentucky",21111,county,2025-07-14,case_lab-confirmed,1
+"Jefferson, Kentucky",21111,county,2025-07-28,case_lab-confirmed,1
 "Kenai Peninsula, Alaska",2122,county,2025-01-21,case_lab-confirmed,1
 "Kent, Michigan",26081,county,2025-04-04,case_lab-confirmed,1
 "Kent, Michigan",26081,county,2025-07-02,case_lab-confirmed,1
@@ -486,7 +488,9 @@ location_name,location_id,location_type,date,outcome_type,value
 "Williamson, Illinois",17199,county,2025-05-05,case_lab-confirmed,3
 "Williamson, Texas",48491,county,2025-05-30,case_lab-confirmed,6
 "Woodford, Kentucky",21239,county,2025-06-30,case_lab-confirmed,3
-"Yellowstone, Montana",30111,county,2025-06-05,case_lab-confirmed,3
+"Yellowstone, Montana",30111,county,2025-06-01,case_lab-confirmed,2
+"Yellowstone, Montana",30111,county,2025-07-13,case_lab-confirmed,1
+"Yellowstone, Montana",30111,county,2025-07-20,case_lab-confirmed,1
 "Yoakum, Texas",48501,county,2025-02-14,case_lab-confirmed,2
 "Yoakum, Texas",48501,county,2025-02-21,case_lab-confirmed,2
 "Yoakum, Texas",48501,county,2025-02-25,case_lab-confirmed,1
