@@ -366,6 +366,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Orleans, Louisiana",22071,county,2025-04-19,case_lab-confirmed,1
 "Orleans, Louisiana",22071,county,2025-04-22,case_lab-confirmed,1
 "Osceola, Michigan",26133,county,2025-07-24,case_lab-confirmed,2
+"Osceola, Michigan",26133,county,2025-07-31,case_lab-confirmed,5
 "Parmer, Texas",48369,county,2025-04-18,case_lab-confirmed,4
 "Parmer, Texas",48369,county,2025-05-06,case_lab-confirmed,1
 "Pawnee, Kansas",20145,county,2025-06-02,case_lab-confirmed,7
