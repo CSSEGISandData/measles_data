@@ -9,6 +9,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Andrews, Texas",48003,county,2025-03-20,case_lab-confirmed,1
 "Andrews, Texas",48003,county,2025-04-15,case_lab-confirmed,1
 "Andrews, Texas",48003,county,2025-04-25,case_lab-confirmed,1
+"Arapahoe, Colorado",8005,county,2025-05-13,case_lab-confirmed,1
 "Arapahoe, Colorado",8005,county,2025-05-28,case_lab-confirmed,1
 "Arapahoe, Colorado",8005,county,2025-05-30,case_lab-confirmed,1
 "Arapahoe, Colorado",8005,county,2025-06-02,case_lab-confirmed,1
@@ -92,6 +93,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Denver, Colorado",8031,county,2025-06-04,case_lab-confirmed,1
 "Dona Ana, New Mexico",35013,county,2025-04-15,case_lab-confirmed,1
 "Dona Ana, New Mexico",35013,county,2025-05-02,case_lab-confirmed,1
+"Eastern, Idaho",16,county,2025-08-07,case_lab-confirmed,1
 "Eastern, Iowa",19,county,2025-06-09,case_lab-confirmed,1
 "Eastern, Iowa",19,county,2025-06-11,case_lab-confirmed,1
 "Eastern, Iowa",19,county,2025-06-12,case_lab-confirmed,3
@@ -222,6 +224,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Harris, Texas",48201,county,2025-01-23,case_lab-confirmed,2
 "Harris, Texas",48201,county,2025-03-20,case_lab-confirmed,1
 "Harris, Texas",48201,county,2025-07-15,case_lab-confirmed,1
+"Harris, Texas",48201,county,2025-08-07,case_lab-confirmed,1
 "Harrison, Texas",48203,county,2025-05-20,case_lab-confirmed,1
 "Haskell, Kansas",20081,county,2025-04-09,case_lab-confirmed,8
 "Haskell, Kansas",20081,county,2025-05-21,case_lab-confirmed,2
@@ -245,6 +248,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Hockley, Texas",48219,county,2025-04-04,case_lab-confirmed,1
 "Hockley, Texas",48219,county,2025-04-18,case_lab-confirmed,2
 "Hockley, Texas",48219,county,2025-05-02,case_lab-confirmed,1
+"Hockley, Texas",48219,county,2025-08-07,case_lab-confirmed,1
 "Holmes, Ohio",39075,county,2025-04-02,case_lab-confirmed,1
 "Honolulu, Hawaii",15003,county,2025-04-08,case_lab-confirmed,1
 "Honolulu, Hawaii",15003,county,2025-04-17,case_lab-confirmed,1
@@ -318,7 +322,6 @@ location_name,location_id,location_type,date,outcome_type,value
 "Lubbock, Texas",48303,county,2025-05-02,case_lab-confirmed,2
 "Lubbock, Texas",48303,county,2025-05-06,case_lab-confirmed,1
 "Lubbock, Texas",48303,county,2025-05-13,case_lab-confirmed,1
-"Lubbock, Texas",48303,county,2025-05-20,case_lab-confirmed,1
 "Luna, New Mexico",35029,county,2025-06-27,case_lab-confirmed,5
 "Luna, New Mexico",35029,county,2025-07-01,case_lab-confirmed,8
 "Luna, New Mexico",35029,county,2025-07-03,case_lab-confirmed,1
@@ -342,10 +345,11 @@ location_name,location_id,location_type,date,outcome_type,value
 "Midland, Texas",48329,county,2025-04-23,case_lab-confirmed,1
 "Midland, Texas",48329,county,2025-05-23,case_lab-confirmed,2
 "Midland, Texas",48329,county,2025-06-10,case_lab-confirmed,1
+"Midland, Texas",48329,county,2025-08-07,case_lab-confirmed,1
 "Montcalm, Michigan",26117,county,2025-04-10,case_lab-confirmed,1
 "Montcalm, Michigan",26117,county,2025-04-17,case_lab-confirmed,2
 "Montcalm, Michigan",26117,county,2025-04-23,case_lab-confirmed,1
-"Montgomery, Pennsylvania",42091,county,2025-03-31,case_lab-confirmed,1
+"Montgomery, Pennsylvania",42091,county,2025-03-02,case_lab-confirmed,1
 "Multnomah, Oregon",41051,county,2025-06-24,case_lab-confirmed,1
 "Muskegon, Michigan",26121,county,2025-06-26,case_lab-confirmed,1
 "Natrona, Wyoming",56025,county,2025-07-01,case_lab-confirmed,1
@@ -402,6 +406,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Sandoval, New Mexico",35043,county,2025-05-23,case_lab-confirmed,4
 "Santa Clara, California",6085,county,2025-05-25,case_lab-confirmed,1
 "Santa Fe, New Mexico",35049,county,2025-07-22,case_lab-confirmed,1
+"Santa Fe, New Mexico",35049,county,2025-07-28,case_lab-confirmed,1
 "Scurry, Texas",48415,county,2025-05-23,case_lab-confirmed,1
 "Shackelford, Texas",48417,county,2025-04-29,case_lab-confirmed,1
 "Sheridan, Nebraska",31161,county,2025-05-28,case_lab-confirmed,1
@@ -440,7 +445,6 @@ location_name,location_id,location_type,date,outcome_type,value
 "Tulare, California",6107,county,2025-07-24,case_lab-confirmed,1
 "Tuolumne, California",6109,county,2025-03-19,case_lab-confirmed,2
 "Unknown County, California",6,county,2025-06-16,case_lab-confirmed,1
-"Unknown County, Colorado",8,county,2025-06-20,case_lab-confirmed,1
 "Unknown County, Kansas",20,county,2025-03-31,case_lab-confirmed,9
 "Unknown County, Kansas",20,county,2025-04-05,case_lab-confirmed,1
 "Unknown County, Kansas",20,county,2025-04-09,case_lab-confirmed,2
@@ -492,6 +496,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Williamson, Illinois",17199,county,2025-04-23,case_lab-confirmed,1
 "Williamson, Illinois",17199,county,2025-05-05,case_lab-confirmed,3
 "Williamson, Texas",48491,county,2025-05-30,case_lab-confirmed,6
+"Williamson, Texas",48491,county,2025-08-07,case_lab-confirmed,2
 "Woodford, Kentucky",21239,county,2025-06-30,case_lab-confirmed,3
 "Yellowstone, Montana",30111,county,2025-06-01,case_lab-confirmed,2
 "Yellowstone, Montana",30111,county,2025-07-13,case_lab-confirmed,1
