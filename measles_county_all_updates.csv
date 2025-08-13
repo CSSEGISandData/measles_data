@@ -30,6 +30,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Bergen, New Jersey",34003,county,2025-02-14,case_lab-confirmed,1
 "Bergen, New Jersey",34003,county,2025-02-17,case_lab-confirmed,2
 "Bexar, Texas",48029,county,2025-07-01,case_lab-confirmed,1
+"Bexar, Texas",48029,county,2025-08-12,case_lab-confirmed,1
 "Borden, Texas",48033,county,2025-04-08,case_lab-confirmed,1
 "Boulder, Colorado",8013,county,2025-06-13,case_lab-confirmed,1
 "Brazoria, Texas",48039,county,2025-04-18,case_lab-confirmed,1
@@ -271,6 +272,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Knox, Ohio",39083,county,2025-04-02,case_lab-confirmed,1
 "Knox, Ohio",39083,county,2025-04-06,case_lab-confirmed,1
 "Knox, Ohio",39083,county,2025-04-09,case_lab-confirmed,6
+"Kootenai, Idaho",16055,county,2025-08-12,case_lab-confirmed,1
 "Lamar, Texas",48277,county,2025-03-20,case_lab-confirmed,10
 "Lamar, Texas",48277,county,2025-04-04,case_lab-confirmed,1
 "Lamar, Texas",48277,county,2025-04-25,case_lab-confirmed,3
@@ -346,6 +348,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Midland, Texas",48329,county,2025-05-23,case_lab-confirmed,2
 "Midland, Texas",48329,county,2025-06-10,case_lab-confirmed,1
 "Midland, Texas",48329,county,2025-08-07,case_lab-confirmed,1
+"Mohave, Arizona",4015,county,2025-08-12,case_lab-confirmed,1
 "Montcalm, Michigan",26117,county,2025-04-10,case_lab-confirmed,1
 "Montcalm, Michigan",26117,county,2025-04-17,case_lab-confirmed,2
 "Montcalm, Michigan",26117,county,2025-04-23,case_lab-confirmed,1
@@ -400,6 +403,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Rockwall, Texas",48397,county,2025-04-23,case_lab-confirmed,1
 "Sacramento, California",6067,county,2025-06-16,case_lab-confirmed,1
 "Saline, Arkansas",5125,county,2025-04-10,case_lab-confirmed,1
+"San Diego, California",6073,county,2025-08-11,case_lab-confirmed,1
 "San Juan, New Mexico",35045,county,2025-06-03,case_lab-confirmed,1
 "San Mateo, California",6081,county,2025-03-31,case_lab-confirmed,1
 "Sandoval, New Mexico",35043,county,2025-05-16,case_lab-confirmed,2
