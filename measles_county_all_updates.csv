@@ -1,4 +1,5 @@
 location_name,location_id,location_type,date,outcome_type,value
+"Adams, Colorado",8001,county,2025-08-13,case_lab-confirmed,1
 "Allegan, Michigan",26005,county,2025-06-06,case_lab-confirmed,1
 "Allen, Indiana",18003,county,2025-04-07,case_lab-confirmed,1
 "Allen, Indiana",18003,county,2025-04-09,case_lab-confirmed,5
@@ -411,6 +412,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Santa Clara, California",6085,county,2025-05-25,case_lab-confirmed,1
 "Santa Fe, New Mexico",35049,county,2025-07-22,case_lab-confirmed,1
 "Santa Fe, New Mexico",35049,county,2025-07-28,case_lab-confirmed,1
+"Santa Fe, New Mexico",35049,county,2025-08-10,case_lab-confirmed,3
 "Scurry, Texas",48415,county,2025-05-23,case_lab-confirmed,1
 "Shackelford, Texas",48417,county,2025-04-29,case_lab-confirmed,1
 "Sheridan, Nebraska",31161,county,2025-05-28,case_lab-confirmed,1
