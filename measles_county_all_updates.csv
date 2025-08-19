@@ -1,5 +1,6 @@
 location_name,location_id,location_type,date,outcome_type,value
 "Adams, Colorado",8001,county,2025-08-13,case_lab-confirmed,1
+"Adams, Colorado",8001,county,2025-08-15,case_lab-confirmed,2
 "Allegan, Michigan",26005,county,2025-06-06,case_lab-confirmed,1
 "Allen, Indiana",18003,county,2025-04-07,case_lab-confirmed,1
 "Allen, Indiana",18003,county,2025-04-09,case_lab-confirmed,5
@@ -42,6 +43,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Burke, North Dakota",38013,county,2025-05-27,case_lab-confirmed,1
 "Carbon, Wyoming",56007,county,2025-07-22,case_lab-confirmed,1
 "Carbon, Wyoming",56007,county,2025-08-02,case_lab-confirmed,4
+"Carbon, Wyoming",56007,county,2025-08-15,case_lab-confirmed,1
 "Carson, Texas",48065,county,2025-05-13,case_lab-confirmed,1
 "Cascade, Montana",30013,county,2025-07-16,case_lab-confirmed,1
 "Cass, North Dakota",38017,county,2025-05-01,case_lab-confirmed,1
@@ -303,6 +305,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Lea, New Mexico",35025,county,2025-06-03,case_lab-confirmed,1
 "Leon, Florida",12073,county,2025-06-07,case_lab-confirmed,1
 "Leon, Florida",12073,county,2025-06-28,case_lab-confirmed,1
+"Lewis and Clark, Montana",30049,county,2025-08-12,case_lab-confirmed,1
 "Lincoln, South Dakota",46083,county,2025-06-21,case_lab-confirmed,2
 "Lincoln, South Dakota",46083,county,2025-06-28,case_lab-confirmed,6
 "Los Angeles, California",6037,county,2025-03-11,case_lab-confirmed,1
@@ -340,6 +343,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "McLennan, Texas",48309,county,2025-06-17,case_lab-confirmed,1
 "Meade, South Dakota",46093,county,2025-06-02,case_lab-confirmed,1
 "Meade, South Dakota",46093,county,2025-06-14,case_lab-confirmed,1
+"Mesa, Colorado",8077,county,2025-08-15,case_lab-confirmed,1
 "Miami-Dade, Florida",12086,county,2025-03-06,case_lab-confirmed,1
 "Mid-Cumberland Region, Tennessee",0,county,2025-03-17,case_lab-confirmed,1
 "Mid-Cumberland Region, Tennessee",0,county,2025-03-28,case_lab-confirmed,1
@@ -451,6 +455,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Tulare, California",6107,county,2025-07-24,case_lab-confirmed,1
 "Tuolumne, California",6109,county,2025-03-19,case_lab-confirmed,2
 "Unknown County, California",6,county,2025-06-16,case_lab-confirmed,1
+"Unknown County, Colorado",8,county,2025-08-18,case_lab-confirmed,1
 "Unknown County, Kansas",20,county,2025-03-31,case_lab-confirmed,9
 "Unknown County, Kansas",20,county,2025-04-05,case_lab-confirmed,1
 "Unknown County, Kansas",20,county,2025-04-09,case_lab-confirmed,2
