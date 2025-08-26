@@ -261,6 +261,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Honolulu, Hawaii",15003,county,2025-04-17,case_lab-confirmed,1
 "Howard, Maryland",24027,county,2025-03-09,case_lab-confirmed,1
 "Hudson, New Jersey",34017,county,2025-07-03,case_lab-confirmed,1
+"Hudson, New Jersey",34017,county,2025-08-22,case_lab-confirmed,1
 "Ingham, Michigan",26065,county,2025-04-15,case_lab-confirmed,1
 "Jefferson, Kentucky",21111,county,2025-07-14,case_lab-confirmed,1
 "Jefferson, Kentucky",21111,county,2025-07-28,case_lab-confirmed,1
@@ -376,11 +377,13 @@ location_name,location_id,location_type,date,outcome_type,value
 "New York City, New York",36061,county,2025-08-01,case_lab-confirmed,1
 "New York City, New York",36061,county,2025-08-18,case_lab-confirmed,1
 "Niobrara, Wyoming",56027,county,2025-07-11,case_lab-confirmed,1
+"North, Alabama",1,county,2025-08-25,case_lab-confirmed,1
 "Northwest Region, Virginia",0,county,2025-04-15,case_lab-confirmed,1
 "Northwest Region, Virginia",0,county,2025-06-05,case_lab-confirmed,2
 "Oakland, Michigan",26125,county,2025-03-14,case_lab-confirmed,1
 "Ocean, New Jersey",34029,county,2025-07-10,case_lab-confirmed,1
 "Oconto, Wisconsin",55083,county,2025-08-02,case_lab-confirmed,9
+"Oconto, Wisconsin",55083,county,2025-08-22,case_lab-confirmed,5
 "Ontario, New York",36069,county,2025-05-27,case_lab-confirmed,1
 "Orange, California",6059,county,2025-02-25,case_lab-confirmed,1
 "Orange, New York",36071,county,2025-05-10,case_lab-confirmed,3
@@ -410,6 +413,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Reeves, Texas",48389,county,2025-04-15,case_lab-confirmed,1
 "Reeves, Texas",48389,county,2025-05-30,case_lab-confirmed,1
 "Riverside, California",6065,county,2025-04-03,case_lab-confirmed,1
+"Rockland, New York",36087,county,2025-08-25,case_lab-confirmed,1
 "Rockwall, Texas",48397,county,2025-03-20,case_lab-confirmed,1
 "Rockwall, Texas",48397,county,2025-04-23,case_lab-confirmed,1
 "Sacramento, California",6067,county,2025-06-16,case_lab-confirmed,1
@@ -432,6 +436,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Southwest Health District, Utah",0,county,2025-06-26,case_lab-confirmed,1
 "Southwest Health District, Utah",0,county,2025-07-16,case_lab-confirmed,1
 "Southwest Health District, Utah",0,county,2025-07-22,case_lab-confirmed,1
+"Southwest Health District, Utah",0,county,2025-08-22,case_lab-confirmed,2
 "Stevens, Kansas",20189,county,2025-03-31,case_lab-confirmed,6
 "Stevens, Kansas",20189,county,2025-04-09,case_lab-confirmed,1
 "Stevens, Kansas",20189,county,2025-07-07,case_lab-confirmed,2
