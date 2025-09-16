@@ -36,6 +36,8 @@ location_name,location_id,location_type,date,outcome_type,value
 "Bexar, Texas",48029,county,2025-07-01,case_lab-confirmed,1
 "Bexar, Texas",48029,county,2025-08-12,case_lab-confirmed,1
 "Bonner, Idaho",16017,county,2025-08-20,case_lab-confirmed,1
+"Bonneville, Idaho",16019,county,2025-08-07,case_lab-confirmed,1
+"Bonneville, Idaho",16019,county,2025-09-13,case_lab-confirmed,4
 "Borden, Texas",48033,county,2025-04-08,case_lab-confirmed,1
 "Boulder, Colorado",8013,county,2025-06-13,case_lab-confirmed,1
 "Brazoria, Texas",48039,county,2025-04-18,case_lab-confirmed,1
@@ -104,7 +106,6 @@ location_name,location_id,location_type,date,outcome_type,value
 "Dona Ana, New Mexico",35013,county,2025-05-02,case_lab-confirmed,1
 "Duval, Florida",12031,county,2025-08-16,case_lab-confirmed,1
 "Eastern Region, Virginia",0,county,2025-09-03,case_lab-confirmed,1
-"Eastern, Idaho",16,county,2025-08-07,case_lab-confirmed,1
 "Eastern, Iowa",19,county,2025-06-09,case_lab-confirmed,1
 "Eastern, Iowa",19,county,2025-06-11,case_lab-confirmed,1
 "Eastern, Iowa",19,county,2025-06-12,case_lab-confirmed,3
@@ -386,18 +387,21 @@ location_name,location_id,location_type,date,outcome_type,value
 "New York City, New York",36061,county,2025-08-01,case_lab-confirmed,1
 "New York City, New York",36061,county,2025-08-18,case_lab-confirmed,1
 "New York City, New York",36061,county,2025-09-08,case_lab-confirmed,3
+"New York City, New York",36061,county,2025-09-12,case_lab-confirmed,1
 "Niobrara, Wyoming",56027,county,2025-07-11,case_lab-confirmed,1
 "North, Alabama",1,county,2025-08-25,case_lab-confirmed,1
 "Northwest Region, Virginia",0,county,2025-04-15,case_lab-confirmed,1
 "Northwest Region, Virginia",0,county,2025-06-05,case_lab-confirmed,2
 "Oakland, Michigan",26125,county,2025-03-14,case_lab-confirmed,1
 "Ocean, New Jersey",34029,county,2025-07-10,case_lab-confirmed,1
-"Oconto, Wisconsin",55083,county,2025-08-02,case_lab-confirmed,9
-"Oconto, Wisconsin",55083,county,2025-08-22,case_lab-confirmed,5
-"Oconto, Wisconsin",55083,county,2025-08-26,case_lab-confirmed,7
-"Oconto, Wisconsin",55083,county,2025-08-29,case_lab-confirmed,2
-"Oconto, Wisconsin",55083,county,2025-09-02,case_lab-confirmed,1
-"Oconto, Wisconsin",55083,county,2025-09-09,case_lab-confirmed,1
+"Oconto, Wisconsin",55083,county,2025-07-13,case_lab-confirmed,1
+"Oconto, Wisconsin",55083,county,2025-07-20,case_lab-confirmed,4
+"Oconto, Wisconsin",55083,county,2025-07-27,case_lab-confirmed,4
+"Oconto, Wisconsin",55083,county,2025-08-10,case_lab-confirmed,2
+"Oconto, Wisconsin",55083,county,2025-08-17,case_lab-confirmed,13
+"Oconto, Wisconsin",55083,county,2025-08-24,case_lab-confirmed,3
+"Oconto, Wisconsin",55083,county,2025-08-31,case_lab-confirmed,8
+"Oconto, Wisconsin",55083,county,2025-09-07,case_lab-confirmed,1
 "Ontario, New York",36069,county,2025-05-27,case_lab-confirmed,1
 "Orange, California",6059,county,2025-02-25,case_lab-confirmed,1
 "Orange, New York",36071,county,2025-05-10,case_lab-confirmed,3
@@ -458,6 +462,8 @@ location_name,location_id,location_type,date,outcome_type,value
 "Southwest Health District, Utah",0,county,2025-09-04,case_lab-confirmed,3
 "Southwest Health District, Utah",0,county,2025-09-08,case_lab-confirmed,4
 "Southwest Health District, Utah",0,county,2025-09-11,case_lab-confirmed,1
+"Southwest Health District, Utah",0,county,2025-09-12,case_lab-confirmed,5
+"Spokane, Washington",53063,county,2025-08-25,case_lab-confirmed,1
 "Stevens, Kansas",20189,county,2025-03-31,case_lab-confirmed,6
 "Stevens, Kansas",20189,county,2025-04-09,case_lab-confirmed,1
 "Stevens, Kansas",20189,county,2025-07-07,case_lab-confirmed,2
