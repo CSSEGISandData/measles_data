@@ -36,7 +36,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Bexar, Texas",48029,county,2025-07-01,case_lab-confirmed,1
 "Bexar, Texas",48029,county,2025-08-12,case_lab-confirmed,1
 "Bonner, Idaho",16017,county,2025-08-20,case_lab-confirmed,1
-"Bonneville, Idaho",16019,county,2025-08-07,case_lab-confirmed,1
+"Bonneville, Idaho",16019,county,2025-08-07,case_lab-confirmed,2
 "Bonneville, Idaho",16019,county,2025-09-13,case_lab-confirmed,4
 "Borden, Texas",48033,county,2025-04-08,case_lab-confirmed,1
 "Boulder, Colorado",8013,county,2025-06-13,case_lab-confirmed,1
@@ -59,6 +59,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Cass, North Dakota",38017,county,2025-05-14,case_lab-confirmed,1
 "Cass, North Dakota",38017,county,2025-05-15,case_lab-confirmed,1
 "Cass, North Dakota",38017,county,2025-05-17,case_lab-confirmed,1
+"Cassia, Idaho",16031,county,2025-05-27,case_lab-confirmed,1
 "Cedar, Missouri",29039,county,2025-06-23,case_lab-confirmed,1
 "Cedar, Missouri",29039,county,2025-07-01,case_lab-confirmed,1
 "Cedar, Missouri",29039,county,2025-07-03,case_lab-confirmed,3
@@ -78,6 +79,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Cook, Illinois",17031,county,2025-04-25,case_lab-confirmed,1
 "Cook, Illinois",17031,county,2025-04-28,case_lab-confirmed,1
 "Cook, Illinois",17031,county,2025-05-02,case_lab-confirmed,4
+"Cook, Illinois",17031,county,2025-09-16,case_lab-confirmed,1
 "Curry, New Mexico",35009,county,2025-05-09,case_lab-confirmed,1
 "Cuyahoga, Ohio",39035,county,2025-04-28,case_lab-confirmed,1
 "Dakota, Minnesota",27037,county,2025-06-02,case_lab-confirmed,1
@@ -168,6 +170,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Fulton, Georgia",13121,county,2025-05-19,case_lab-confirmed,1
 "Fulton, Georgia",13121,county,2025-06-06,case_lab-confirmed,1
 "Fulton, Georgia",13121,county,2025-06-18,case_lab-confirmed,1
+"Fulton, Georgia",13121,county,2025-09-12,case_lab-confirmed,1
 "Gaines, Texas",48165,county,2025-02-05,case_lab-confirmed,6
 "Gaines, Texas",48165,county,2025-02-11,case_lab-confirmed,18
 "Gaines, Texas",48165,county,2025-02-14,case_lab-confirmed,18
@@ -369,6 +372,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Mohave, Arizona",4015,county,2025-08-26,case_lab-confirmed,3
 "Mohave, Arizona",4015,county,2025-09-02,case_lab-confirmed,12
 "Mohave, Arizona",4015,county,2025-09-09,case_lab-confirmed,6
+"Mohave, Arizona",4015,county,2025-09-16,case_lab-confirmed,12
 "Montcalm, Michigan",26117,county,2025-04-10,case_lab-confirmed,1
 "Montcalm, Michigan",26117,county,2025-04-17,case_lab-confirmed,2
 "Montcalm, Michigan",26117,county,2025-04-23,case_lab-confirmed,1
@@ -463,6 +467,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Southwest Health District, Utah",0,county,2025-09-08,case_lab-confirmed,4
 "Southwest Health District, Utah",0,county,2025-09-11,case_lab-confirmed,1
 "Southwest Health District, Utah",0,county,2025-09-12,case_lab-confirmed,5
+"Southwest Health District, Utah",0,county,2025-09-16,case_lab-confirmed,1
 "Spokane, Washington",53063,county,2025-08-25,case_lab-confirmed,1
 "Stevens, Kansas",20189,county,2025-03-31,case_lab-confirmed,6
 "Stevens, Kansas",20189,county,2025-04-09,case_lab-confirmed,1
