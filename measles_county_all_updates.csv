@@ -28,6 +28,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Ashtabula, Ohio",39007,county,2025-04-12,case_lab-confirmed,2
 "Atascosa, Texas",48013,county,2025-04-25,case_lab-confirmed,1
 "Bailey, Texas",48017,county,2025-04-23,case_lab-confirmed,2
+"Bear River, Utah",0,county,2025-09-22,case_lab-confirmed,1
 "Bell, Texas",48027,county,2025-06-17,case_lab-confirmed,1
 "Benton, Arkansas",5007,county,2025-06-16,case_lab-confirmed,1
 "Bergen, New Jersey",34003,county,2025-02-14,case_lab-confirmed,1
@@ -318,6 +319,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Leon, Florida",12073,county,2025-06-07,case_lab-confirmed,1
 "Leon, Florida",12073,county,2025-06-28,case_lab-confirmed,1
 "Lewis and Clark, Montana",30049,county,2025-08-12,case_lab-confirmed,1
+"Lewis and Clark, Montana",30049,county,2025-08-24,case_lab-confirmed,1
 "Lincoln, South Dakota",46083,county,2025-06-21,case_lab-confirmed,2
 "Lincoln, South Dakota",46083,county,2025-06-28,case_lab-confirmed,6
 "Los Angeles, California",6037,county,2025-03-11,case_lab-confirmed,1
@@ -361,6 +363,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Miami-Dade, Florida",12086,county,2025-03-06,case_lab-confirmed,1
 "Mid-Cumberland Region, Tennessee",0,county,2025-03-17,case_lab-confirmed,1
 "Mid-Cumberland Region, Tennessee",0,county,2025-03-28,case_lab-confirmed,1
+"Mid-Cumberland Region, Tennessee",0,county,2025-09-08,case_lab-confirmed,1
 "Midland, Texas",48329,county,2025-03-20,case_lab-confirmed,1
 "Midland, Texas",48329,county,2025-04-15,case_lab-confirmed,1
 "Midland, Texas",48329,county,2025-04-23,case_lab-confirmed,1
@@ -392,6 +395,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "New York City, New York",36061,county,2025-08-18,case_lab-confirmed,1
 "New York City, New York",36061,county,2025-09-08,case_lab-confirmed,3
 "New York City, New York",36061,county,2025-09-12,case_lab-confirmed,1
+"New York City, New York",36061,county,2025-09-19,case_lab-confirmed,2
 "Niobrara, Wyoming",56027,county,2025-07-11,case_lab-confirmed,1
 "North, Alabama",1,county,2025-08-25,case_lab-confirmed,1
 "Northwest Region, Virginia",0,county,2025-04-15,case_lab-confirmed,1
@@ -468,6 +472,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Southwest Health District, Utah",0,county,2025-09-11,case_lab-confirmed,1
 "Southwest Health District, Utah",0,county,2025-09-12,case_lab-confirmed,5
 "Southwest Health District, Utah",0,county,2025-09-16,case_lab-confirmed,1
+"Southwest Health District, Utah",0,county,2025-09-22,case_lab-confirmed,4
 "Spokane, Washington",53063,county,2025-08-25,case_lab-confirmed,1
 "Stevens, Kansas",20189,county,2025-03-31,case_lab-confirmed,6
 "Stevens, Kansas",20189,county,2025-04-09,case_lab-confirmed,1
