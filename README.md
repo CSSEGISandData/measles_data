@@ -2,6 +2,13 @@
 
 The Johns Hopkins University Measles Tracking Team's collection of U.S. measles cases data. For more information about the project, visit the [Bloomberg School of Public Health's Measles Tracker](https://publichealth.jhu.edu/ivac/measles-tracker).
 
+## Featured Publication
+
+**[Tracking County-Level Measles Cases in the US](https://jamanetwork.com/journals/jama/article-abstract/2839096)**  
+*JAMA.* 2025. doi:10.1001/jama.2025.17812
+
+This research letter, published in JAMA, describes the online data collection and sharing infrastructure that underlies this repository and enables centralized tracking of measles cases from counties across the United States.
+
 ## About the Project
 
 This project is a collaborative, interdisciplinary effort conducted by researchers at Johns Hopkins University who are tracking and modeling the risk of measles in the U.S. The team includes members from multiple JHU divisions:
