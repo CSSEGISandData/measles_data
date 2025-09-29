@@ -399,6 +399,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "New York City, New York",36061,county,2025-09-08,case_lab-confirmed,3
 "New York City, New York",36061,county,2025-09-12,case_lab-confirmed,1
 "New York City, New York",36061,county,2025-09-19,case_lab-confirmed,2
+"New York City, New York",36061,county,2025-09-26,case_lab-confirmed,1
 "Niobrara, Wyoming",56027,county,2025-07-11,case_lab-confirmed,1
 "North, Alabama",1,county,2025-08-25,case_lab-confirmed,1
 "Northwest Region, Virginia",0,county,2025-04-15,case_lab-confirmed,1
@@ -535,6 +536,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Upshur, Texas",48459,county,2025-05-02,case_lab-confirmed,3
 "Upstate, South Carolina",0,county,2025-07-09,case_lab-confirmed,2
 "Upstate, South Carolina",0,county,2025-09-08,case_lab-confirmed,2
+"Upstate, South Carolina",0,county,2025-09-26,case_lab-confirmed,1
 "Utah, Utah",49049,county,2025-06-20,case_lab-confirmed,1
 "Utah, Utah",49049,county,2025-06-24,case_lab-confirmed,1
 "Utah, Utah",49049,county,2025-06-26,case_lab-confirmed,1
