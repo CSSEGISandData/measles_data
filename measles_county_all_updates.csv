@@ -82,6 +82,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Cook, Illinois",17031,county,2025-04-28,case_lab-confirmed,1
 "Cook, Illinois",17031,county,2025-05-02,case_lab-confirmed,4
 "Cook, Illinois",17031,county,2025-09-16,case_lab-confirmed,1
+"Cook, Illinois",17031,county,2025-09-30,case_lab-confirmed,1
 "Curry, New Mexico",35009,county,2025-05-09,case_lab-confirmed,1
 "Cuyahoga, Ohio",39035,county,2025-04-28,case_lab-confirmed,1
 "Dakota, Minnesota",27037,county,2025-06-02,case_lab-confirmed,1
@@ -165,6 +166,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Fort Bend, Texas",48157,county,2025-04-02,case_lab-confirmed,1
 "Franklin, Kentucky",21073,county,2025-02-26,case_lab-confirmed,1
 "Franklin, Ohio",39049,county,2025-05-20,case_lab-confirmed,1
+"Franklin, Ohio",39049,county,2025-09-24,case_lab-confirmed,1
 "Fresno, California",6019,county,2025-03-11,case_lab-confirmed,1
 "Fresno, California",6019,county,2025-03-19,case_lab-confirmed,1
 "Fulton, Georgia",13121,county,2025-01-28,case_lab-confirmed,1
@@ -379,6 +381,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Mohave, Arizona",4015,county,2025-09-09,case_lab-confirmed,6
 "Mohave, Arizona",4015,county,2025-09-16,case_lab-confirmed,12
 "Mohave, Arizona",4015,county,2025-09-23,case_lab-confirmed,6
+"Mohave, Arizona",4015,county,2025-09-30,case_lab-confirmed,7
 "Montcalm, Michigan",26117,county,2025-04-10,case_lab-confirmed,1
 "Montcalm, Michigan",26117,county,2025-04-17,case_lab-confirmed,2
 "Montcalm, Michigan",26117,county,2025-04-23,case_lab-confirmed,1
@@ -416,6 +419,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Oconto, Wisconsin",55083,county,2025-09-07,case_lab-confirmed,1
 "Ontario, New York",36069,county,2025-05-27,case_lab-confirmed,1
 "Orange, California",6059,county,2025-02-25,case_lab-confirmed,1
+"Orange, California",6059,county,2025-09-29,case_lab-confirmed,1
 "Orange, New York",36071,county,2025-05-10,case_lab-confirmed,3
 "Orange, New York",36071,county,2025-05-27,case_lab-confirmed,1
 "Orleans, Louisiana",22071,county,2025-04-19,case_lab-confirmed,1
@@ -478,6 +482,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Southwest Health District, Utah",0,county,2025-09-16,case_lab-confirmed,1
 "Southwest Health District, Utah",0,county,2025-09-22,case_lab-confirmed,4
 "Southwest Health District, Utah",0,county,2025-09-25,case_lab-confirmed,5
+"Southwest Health District, Utah",0,county,2025-10-03,case_lab-confirmed,3
 "Spokane, Washington",53063,county,2025-08-25,case_lab-confirmed,1
 "Stevens, Kansas",20189,county,2025-03-31,case_lab-confirmed,6
 "Stevens, Kansas",20189,county,2025-04-09,case_lab-confirmed,1
@@ -507,6 +512,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Tulare, California",6107,county,2025-07-22,case_lab-confirmed,1
 "Tulare, California",6107,county,2025-07-24,case_lab-confirmed,1
 "Tuolumne, California",6109,county,2025-03-19,case_lab-confirmed,2
+"Twin Cities Metro Area, Minnesota",27,county,2025-10-01,case_lab-confirmed,10
 "Unknown County, California",6,county,2025-06-16,case_lab-confirmed,1
 "Unknown County, Kansas",20,county,2025-03-31,case_lab-confirmed,9
 "Unknown County, Kansas",20,county,2025-04-05,case_lab-confirmed,1
@@ -537,6 +543,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Upstate, South Carolina",0,county,2025-07-09,case_lab-confirmed,2
 "Upstate, South Carolina",0,county,2025-09-08,case_lab-confirmed,2
 "Upstate, South Carolina",0,county,2025-09-26,case_lab-confirmed,1
+"Upstate, South Carolina",0,county,2025-10-02,case_lab-confirmed,4
 "Utah, Utah",49049,county,2025-06-20,case_lab-confirmed,1
 "Utah, Utah",49049,county,2025-06-24,case_lab-confirmed,1
 "Utah, Utah",49049,county,2025-06-26,case_lab-confirmed,1
