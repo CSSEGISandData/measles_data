@@ -39,10 +39,13 @@ location_name,location_id,location_type,date,outcome_type,value
 "Bexar, Texas",48029,county,2025-08-12,case_lab-confirmed,1
 "Bonner, Idaho",16017,county,2025-08-20,case_lab-confirmed,1
 "Bonneville, Idaho",16019,county,2025-08-07,case_lab-confirmed,2
-"Bonneville, Idaho",16019,county,2025-09-13,case_lab-confirmed,4
+"Bonneville, Idaho",16019,county,2025-09-13,case_lab-confirmed,3
 "Borden, Texas",48033,county,2025-04-08,case_lab-confirmed,1
 "Boulder, Colorado",8013,county,2025-06-13,case_lab-confirmed,1
-"Boundary, Idaho",16021,county,2025-10-30,case_lab-confirmed,1
+"Boundary, Idaho",16021,county,2025-10-20,case_lab-confirmed,1
+"Boundary, Idaho",16021,county,2025-10-22,case_lab-confirmed,1
+"Boundary, Idaho",16021,county,2025-11-01,case_lab-confirmed,1
+"Boundary, Idaho",16021,county,2025-11-02,case_lab-confirmed,1
 "Brazoria, Texas",48039,county,2025-04-18,case_lab-confirmed,1
 "Brewster, Texas",48043,county,2025-05-23,case_lab-confirmed,1
 "Broward, Florida",12011,county,2025-04-22,case_lab-confirmed,1
@@ -62,7 +65,6 @@ location_name,location_id,location_type,date,outcome_type,value
 "Cass, North Dakota",38017,county,2025-05-14,case_lab-confirmed,1
 "Cass, North Dakota",38017,county,2025-05-15,case_lab-confirmed,1
 "Cass, North Dakota",38017,county,2025-05-17,case_lab-confirmed,1
-"Cassia, Idaho",16031,county,2025-05-27,case_lab-confirmed,1
 "Cedar, Missouri",29039,county,2025-06-23,case_lab-confirmed,1
 "Cedar, Missouri",29039,county,2025-07-01,case_lab-confirmed,1
 "Cedar, Missouri",29039,county,2025-07-03,case_lab-confirmed,3
@@ -397,10 +399,11 @@ location_name,location_id,location_type,date,outcome_type,value
 "Mohave, Arizona",4015,county,2025-10-14,case_lab-confirmed,14
 "Mohave, Arizona",4015,county,2025-10-21,case_lab-confirmed,7
 "Mohave, Arizona",4015,county,2025-10-28,case_lab-confirmed,13
-"Mohave, Arizona",4015,county,2025-11-04,case_lab-confirmed,14
+"Mohave, Arizona",4015,county,2025-11-04,case_lab-confirmed,31
 "Montcalm, Michigan",26117,county,2025-04-10,case_lab-confirmed,1
 "Montcalm, Michigan",26117,county,2025-04-17,case_lab-confirmed,2
 "Montcalm, Michigan",26117,county,2025-04-23,case_lab-confirmed,1
+"Montezuma, Colorado",8083,county,2025-11-13,case_lab-confirmed,1
 "Montgomery, Pennsylvania",42091,county,2025-03-02,case_lab-confirmed,1
 "Multnomah, Oregon",41051,county,2025-06-24,case_lab-confirmed,1
 "Muskegon, Michigan",26121,county,2025-06-26,case_lab-confirmed,1
@@ -443,8 +446,6 @@ location_name,location_id,location_type,date,outcome_type,value
 "Orange, California",6059,county,2025-09-29,case_lab-confirmed,1
 "Orange, New York",36071,county,2025-05-10,case_lab-confirmed,3
 "Orange, New York",36071,county,2025-05-27,case_lab-confirmed,1
-"Orleans, Louisiana",22071,county,2025-04-19,case_lab-confirmed,1
-"Orleans, Louisiana",22071,county,2025-04-22,case_lab-confirmed,1
 "Osceola, Michigan",26133,county,2025-07-24,case_lab-confirmed,2
 "Osceola, Michigan",26133,county,2025-07-31,case_lab-confirmed,5
 "Parmer, Texas",48369,county,2025-04-18,case_lab-confirmed,4
@@ -468,10 +469,14 @@ location_name,location_id,location_type,date,outcome_type,value
 "Randall, Texas",48381,county,2025-05-23,case_lab-confirmed,1
 "Reeves, Texas",48389,county,2025-04-15,case_lab-confirmed,1
 "Reeves, Texas",48389,county,2025-05-30,case_lab-confirmed,1
+"Region 1, Louisiana",22071,county,2025-04-19,case_lab-confirmed,1
+"Region 1, Louisiana",22071,county,2025-04-22,case_lab-confirmed,1
+"Region 9, Louisiana",0,county,2025-11-10,case_lab-confirmed,1
 "Riverside, California",6065,county,2025-04-03,case_lab-confirmed,1
 "Rockland, New York",36087,county,2025-08-25,case_lab-confirmed,1
 "Rockland, New York",36087,county,2025-10-24,case_lab-confirmed,1
 "Rockland, New York",36087,county,2025-11-07,case_lab-confirmed,1
+"Rockland, New York",36087,county,2025-11-14,case_lab-confirmed,2
 "Rockwall, Texas",48397,county,2025-03-20,case_lab-confirmed,1
 "Rockwall, Texas",48397,county,2025-04-23,case_lab-confirmed,1
 "Sacramento, California",6067,county,2025-06-16,case_lab-confirmed,1
@@ -510,6 +515,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Southwest Health District, Utah",0,county,2025-10-23,case_lab-confirmed,4
 "Southwest Health District, Utah",0,county,2025-10-31,case_lab-confirmed,5
 "Southwest Health District, Utah",0,county,2025-11-04,case_lab-confirmed,2
+"Southwest Health District, Utah",0,county,2025-11-14,case_lab-confirmed,7
 "Spartanburg, South Carolina",45083,county,2025-09-08,case_lab-confirmed,1
 "Spartanburg, South Carolina",45083,county,2025-09-26,case_lab-confirmed,1
 "Spartanburg, South Carolina",45083,county,2025-10-02,case_lab-confirmed,4
@@ -521,6 +527,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Spartanburg, South Carolina",45083,county,2025-10-28,case_lab-confirmed,8
 "Spartanburg, South Carolina",45083,county,2025-10-31,case_lab-confirmed,4
 "Spartanburg, South Carolina",45083,county,2025-11-07,case_lab-confirmed,1
+"Spartanburg, South Carolina",45083,county,2025-11-14,case_lab-confirmed,10
 "Spokane, Washington",53063,county,2025-08-25,case_lab-confirmed,1
 "Stevens, Kansas",20189,county,2025-03-31,case_lab-confirmed,6
 "Stevens, Kansas",20189,county,2025-04-09,case_lab-confirmed,1
@@ -564,6 +571,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Unknown County, Minnesota",27,county,2025-09-25,case_lab-confirmed,3
 "Unknown County, Minnesota",27,county,2025-10-09,case_lab-confirmed,2
 "Unknown County, Minnesota",27,county,2025-10-31,case_lab-confirmed,2
+"Unknown County, Minnesota",27,county,2025-11-13,case_lab-confirmed,1
 "Unknown County, New Jersey",34,county,2025-08-29,case_lab-confirmed,2
 "Unknown County, New Jersey",34,county,2025-10-29,case_lab-confirmed,1
 "Unknown County, Oklahoma",40109,county,2025-03-25,case_lab-confirmed,7
