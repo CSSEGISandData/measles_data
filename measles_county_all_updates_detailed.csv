@@ -189,6 +189,8 @@ location_name,location_id,location_type,date,outcome_type,value
 "Central, Iowa",19,county,2025-05-23,case_unvaccinated,1
 "Central, Utah",0,county,2025-11-18,case_lab-confirmed,2
 "Central, Utah",0,county,2025-11-18,case_local,2
+"Central, Utah",0,county,2025-12-16,case_lab-confirmed,1
+"Central, Utah",0,county,2025-12-16,case_local,1
 "Chaves, New Mexico",35005,county,2025-04-08,case_lab-confirmed,1
 "Chaves, New Mexico",35005,county,2025-04-08,case_local,1
 "Clark, Nevada",32003,county,2025-11-07,case_lab-confirmed,1
@@ -916,6 +918,9 @@ location_name,location_id,location_type,date,outcome_type,value
 "Mohave, Arizona",4015,county,2025-12-09,case_lab-confirmed,21
 "Mohave, Arizona",4015,county,2025-12-09,case_local,21
 "Mohave, Arizona",4015,county,2025-12-09,case_unvaccinated,171
+"Mohave, Arizona",4015,county,2025-12-16,case_lab-confirmed,14
+"Mohave, Arizona",4015,county,2025-12-16,case_local,14
+"Mohave, Arizona",4015,county,2025-12-16,case_unvaccinated,14
 "Montcalm, Michigan",26117,county,2025-04-10,case_imported,1
 "Montcalm, Michigan",26117,county,2025-04-10,case_lab-confirmed,1
 "Montcalm, Michigan",26117,county,2025-04-17,case_lab-confirmed,2
@@ -926,6 +931,8 @@ location_name,location_id,location_type,date,outcome_type,value
 "Montezuma, Colorado",8083,county,2025-11-13,case_local,1
 "Montezuma, Colorado",8083,county,2025-12-05,case_lab-confirmed,1
 "Montezuma, Colorado",8083,county,2025-12-05,case_local,1
+"Montezuma, Colorado",8083,county,2025-12-15,case_lab-confirmed,2
+"Montezuma, Colorado",8083,county,2025-12-15,case_local,2
 "Montgomery, Pennsylvania",42091,county,2025-03-02,case_imported,1
 "Montgomery, Pennsylvania",42091,county,2025-03-02,case_lab-confirmed,1
 "Montgomery, Pennsylvania",42091,county,2025-03-02,case_unvaccinated,1
@@ -994,6 +1001,8 @@ location_name,location_id,location_type,date,outcome_type,value
 "Northwest Region, Virginia",0,county,2025-06-05,case_local,1
 "Oakland, Michigan",26125,county,2025-03-14,case_imported,1
 "Oakland, Michigan",26125,county,2025-03-14,case_lab-confirmed,1
+"Oakland, Michigan",26125,county,2025-12-16,case_lab-confirmed,1
+"Oakland, Michigan",26125,county,2025-12-16,case_local,1
 "Ocean, New Jersey",34029,county,2025-07-10,case_lab-confirmed,1
 "Ocean, New Jersey",34029,county,2025-07-10,case_local,1
 "Oconto, Wisconsin",55083,county,2025-07-13,case_imported,1
@@ -1105,6 +1114,8 @@ location_name,location_id,location_type,date,outcome_type,value
 "Rockland, New York",36087,county,2025-12-05,case_local,4
 "Rockland, New York",36087,county,2025-12-12,case_lab-confirmed,4
 "Rockland, New York",36087,county,2025-12-12,case_local,4
+"Rockland, New York",36087,county,2025-12-16,case_lab-confirmed,1
+"Rockland, New York",36087,county,2025-12-16,case_local,1
 "Rockwall, Texas",48397,county,2025-03-20,case_lab-confirmed,1
 "Rockwall, Texas",48397,county,2025-03-20,case_local,1
 "Rockwall, Texas",48397,county,2025-04-23,case_lab-confirmed,1
@@ -1221,6 +1232,8 @@ location_name,location_id,location_type,date,outcome_type,value
 "Southwest Health District, Utah",0,county,2025-12-02,case_unvaccinated,2
 "Southwest Health District, Utah",0,county,2025-12-09,case_lab-confirmed,6
 "Southwest Health District, Utah",0,county,2025-12-09,case_local,6
+"Southwest Health District, Utah",0,county,2025-12-16,case_lab-confirmed,9
+"Southwest Health District, Utah",0,county,2025-12-16,case_local,9
 "Spokane, Washington",53063,county,2025-08-25,case_imported,1
 "Spokane, Washington",53063,county,2025-08-25,case_lab-confirmed,1
 "Stevens, Kansas",20189,county,2025-03-31,case_lab-confirmed,6
@@ -1414,6 +1427,8 @@ location_name,location_id,location_type,date,outcome_type,value
 "Upstate, South Carolina",0,county,2025-12-09,case_local,27
 "Upstate, South Carolina",0,county,2025-12-12,case_lab-confirmed,15
 "Upstate, South Carolina",0,county,2025-12-12,case_local,15
+"Upstate, South Carolina",0,county,2025-12-16,case_lab-confirmed,9
+"Upstate, South Carolina",0,county,2025-12-16,case_local,9
 "Utah, Utah",49049,county,2025-06-20,case_lab-confirmed,1
 "Utah, Utah",49049,county,2025-06-20,case_local,1
 "Utah, Utah",49049,county,2025-06-20,case_unvaccinated,1
@@ -1445,6 +1460,8 @@ location_name,location_id,location_type,date,outcome_type,value
 "Washington, District of Columbia",11001,county,2025-06-14,case_lab-confirmed,1
 "Washington, Minnesota",27163,county,2025-06-02,case_imported,1
 "Washington, Minnesota",27163,county,2025-06-02,case_lab-confirmed,1
+"Weld, Colorado",8123,county,2025-12-15,case_lab-confirmed,1
+"Weld, Colorado",8123,county,2025-12-15,case_local,1
 "Western, Iowa",19,county,2025-07-22,case_lab-confirmed,1
 "Western, Iowa",19,county,2025-07-22,case_local,1
 "Western, Iowa",19,county,2025-07-22,case_vaccinated,1

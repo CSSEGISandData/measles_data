@@ -71,6 +71,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Cedar, Missouri",29039,county,2025-07-03,case_lab-confirmed,3
 "Central, Iowa",19,county,2025-05-23,case_lab-confirmed,1
 "Central, Utah",0,county,2025-11-18,case_lab-confirmed,2
+"Central, Utah",0,county,2025-12-16,case_lab-confirmed,1
 "Chaves, New Mexico",35005,county,2025-04-08,case_lab-confirmed,1
 "Clark, Nevada",32003,county,2025-11-07,case_lab-confirmed,1
 "Cochran, Texas",48079,county,2025-03-18,case_lab-confirmed,7
@@ -408,11 +409,13 @@ location_name,location_id,location_type,date,outcome_type,value
 "Mohave, Arizona",4015,county,2025-11-25,case_lab-confirmed,16
 "Mohave, Arizona",4015,county,2025-12-02,case_lab-confirmed,2
 "Mohave, Arizona",4015,county,2025-12-09,case_lab-confirmed,21
+"Mohave, Arizona",4015,county,2025-12-16,case_lab-confirmed,14
 "Montcalm, Michigan",26117,county,2025-04-10,case_lab-confirmed,1
 "Montcalm, Michigan",26117,county,2025-04-17,case_lab-confirmed,2
 "Montcalm, Michigan",26117,county,2025-04-23,case_lab-confirmed,1
 "Montezuma, Colorado",8083,county,2025-11-13,case_lab-confirmed,1
 "Montezuma, Colorado",8083,county,2025-12-05,case_lab-confirmed,1
+"Montezuma, Colorado",8083,county,2025-12-15,case_lab-confirmed,2
 "Montgomery, Pennsylvania",42091,county,2025-03-02,case_lab-confirmed,1
 "Multnomah, Oregon",41051,county,2025-06-24,case_lab-confirmed,1
 "Muskegon, Michigan",26121,county,2025-06-26,case_lab-confirmed,1
@@ -442,6 +445,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Northwest Region, Virginia",0,county,2025-04-15,case_lab-confirmed,1
 "Northwest Region, Virginia",0,county,2025-06-05,case_lab-confirmed,2
 "Oakland, Michigan",26125,county,2025-03-14,case_lab-confirmed,1
+"Oakland, Michigan",26125,county,2025-12-16,case_lab-confirmed,1
 "Ocean, New Jersey",34029,county,2025-07-10,case_lab-confirmed,1
 "Oconto, Wisconsin",55083,county,2025-07-13,case_lab-confirmed,1
 "Oconto, Wisconsin",55083,county,2025-07-20,case_lab-confirmed,4
@@ -493,6 +497,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Rockland, New York",36087,county,2025-11-28,case_lab-confirmed,1
 "Rockland, New York",36087,county,2025-12-05,case_lab-confirmed,4
 "Rockland, New York",36087,county,2025-12-12,case_lab-confirmed,4
+"Rockland, New York",36087,county,2025-12-16,case_lab-confirmed,1
 "Rockwall, Texas",48397,county,2025-03-20,case_lab-confirmed,1
 "Rockwall, Texas",48397,county,2025-04-23,case_lab-confirmed,1
 "Sacramento, California",6067,county,2025-06-16,case_lab-confirmed,1
@@ -539,6 +544,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Southwest Health District, Utah",0,county,2025-11-25,case_lab-confirmed,6
 "Southwest Health District, Utah",0,county,2025-12-02,case_lab-confirmed,2
 "Southwest Health District, Utah",0,county,2025-12-09,case_lab-confirmed,6
+"Southwest Health District, Utah",0,county,2025-12-16,case_lab-confirmed,9
 "Spokane, Washington",53063,county,2025-08-25,case_lab-confirmed,1
 "Stevens, Kansas",20189,county,2025-03-31,case_lab-confirmed,6
 "Stevens, Kansas",20189,county,2025-04-09,case_lab-confirmed,1
@@ -625,6 +631,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Upstate, South Carolina",0,county,2025-12-05,case_lab-confirmed,8
 "Upstate, South Carolina",0,county,2025-12-09,case_lab-confirmed,27
 "Upstate, South Carolina",0,county,2025-12-12,case_lab-confirmed,15
+"Upstate, South Carolina",0,county,2025-12-16,case_lab-confirmed,9
 "Utah, Utah",49049,county,2025-06-20,case_lab-confirmed,1
 "Utah, Utah",49049,county,2025-06-24,case_lab-confirmed,1
 "Utah, Utah",49049,county,2025-06-26,case_lab-confirmed,1
@@ -637,6 +644,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Wasatch, Utah",49051,county,2025-12-09,case_lab-confirmed,1
 "Washington, District of Columbia",11001,county,2025-06-14,case_lab-confirmed,1
 "Washington, Minnesota",27163,county,2025-06-02,case_lab-confirmed,1
+"Weld, Colorado",8123,county,2025-12-15,case_lab-confirmed,1
 "Western, Iowa",19,county,2025-07-22,case_lab-confirmed,1
 "Whatcom, Washington",53073,county,2025-06-20,case_lab-confirmed,1
 "Whatcom, Washington",53073,county,2025-06-23,case_lab-confirmed,1
