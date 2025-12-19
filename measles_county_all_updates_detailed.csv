@@ -140,6 +140,12 @@ location_name,location_id,location_type,date,outcome_type,value
 "Burke, North Dakota",38013,county,2025-05-27,case_imported,1
 "Burke, North Dakota",38013,county,2025-05-27,case_lab-confirmed,1
 "Burke, North Dakota",38013,county,2025-05-27,case_unvaccinated,1
+"Butte, South Dakota",46019,county,2025-11-29,case_imported,1
+"Butte, South Dakota",46019,county,2025-11-29,case_lab-confirmed,1
+"Butte, South Dakota",46019,county,2025-11-29,case_unvaccinated,1
+"Butte, South Dakota",46019,county,2025-12-17,case_imported,2
+"Butte, South Dakota",46019,county,2025-12-17,case_lab-confirmed,2
+"Butte, South Dakota",46019,county,2025-12-17,case_unvaccinated,2
 "Carbon, Wyoming",56007,county,2025-07-22,case_imported,1
 "Carbon, Wyoming",56007,county,2025-07-22,case_lab-confirmed,1
 "Carbon, Wyoming",56007,county,2025-07-22,case_unvaccinated,1
@@ -187,6 +193,9 @@ location_name,location_id,location_type,date,outcome_type,value
 "Central, Iowa",19,county,2025-05-23,case_lab-confirmed,1
 "Central, Iowa",19,county,2025-05-23,case_local,1
 "Central, Iowa",19,county,2025-05-23,case_unvaccinated,1
+"Central, Iowa",19,county,2025-12-16,case_imported,1
+"Central, Iowa",19,county,2025-12-16,case_lab-confirmed,1
+"Central, Iowa",19,county,2025-12-16,case_unvaccinated,1
 "Central, Utah",0,county,2025-11-18,case_lab-confirmed,2
 "Central, Utah",0,county,2025-11-18,case_local,2
 "Central, Utah",0,county,2025-12-16,case_lab-confirmed,1
@@ -424,6 +433,8 @@ location_name,location_id,location_type,date,outcome_type,value
 "Franklin, Ohio",39049,county,2025-10-08,case_local,1
 "Franklin, Ohio",39049,county,2025-10-22,case_lab-confirmed,1
 "Franklin, Ohio",39049,county,2025-10-22,case_local,1
+"Fremont, Wyoming",56013,county,2025-12-18,case_lab-confirmed,5
+"Fremont, Wyoming",56013,county,2025-12-18,case_local,5
 "Fresno, California",6019,county,2025-03-11,case_imported,1
 "Fresno, California",6019,county,2025-03-11,case_lab-confirmed,1
 "Fresno, California",6019,county,2025-03-11,case_unvaccinated,1
@@ -533,6 +544,8 @@ location_name,location_id,location_type,date,outcome_type,value
 "Gallatin, Montana",30031,county,2025-11-23,case_local,1
 "Gallatin, Montana",30031,county,2025-11-30,case_lab-confirmed,2
 "Gallatin, Montana",30031,county,2025-11-30,case_local,2
+"Gallatin, Montana",30031,county,2025-12-07,case_lab-confirmed,1
+"Gallatin, Montana",30031,county,2025-12-07,case_local,1
 "Garza, Texas",48169,county,2025-03-20,case_lab-confirmed,1
 "Garza, Texas",48169,county,2025-03-20,case_local,1
 "Garza, Texas",48169,county,2025-04-02,case_lab-confirmed,1
@@ -1116,6 +1129,8 @@ location_name,location_id,location_type,date,outcome_type,value
 "Rockland, New York",36087,county,2025-12-12,case_local,4
 "Rockland, New York",36087,county,2025-12-16,case_lab-confirmed,1
 "Rockland, New York",36087,county,2025-12-16,case_local,1
+"Rockland, New York",36087,county,2025-12-19,case_lab-confirmed,3
+"Rockland, New York",36087,county,2025-12-19,case_local,3
 "Rockwall, Texas",48397,county,2025-03-20,case_lab-confirmed,1
 "Rockwall, Texas",48397,county,2025-03-20,case_local,1
 "Rockwall, Texas",48397,county,2025-04-23,case_lab-confirmed,1
@@ -1429,6 +1444,8 @@ location_name,location_id,location_type,date,outcome_type,value
 "Upstate, South Carolina",0,county,2025-12-12,case_local,15
 "Upstate, South Carolina",0,county,2025-12-16,case_lab-confirmed,9
 "Upstate, South Carolina",0,county,2025-12-16,case_local,9
+"Upstate, South Carolina",0,county,2025-12-19,case_lab-confirmed,9
+"Upstate, South Carolina",0,county,2025-12-19,case_local,11
 "Utah, Utah",49049,county,2025-06-20,case_lab-confirmed,1
 "Utah, Utah",49049,county,2025-06-20,case_local,1
 "Utah, Utah",49049,county,2025-06-20,case_unvaccinated,1

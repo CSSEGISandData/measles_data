@@ -54,6 +54,8 @@ location_name,location_id,location_type,date,outcome_type,value
 "Brown, Texas",48049,county,2025-04-04,case_lab-confirmed,1
 "Bucks, Pennsylvania",42017,county,2025-03-27,case_lab-confirmed,1
 "Burke, North Dakota",38013,county,2025-05-27,case_lab-confirmed,1
+"Butte, South Dakota",46019,county,2025-11-29,case_lab-confirmed,1
+"Butte, South Dakota",46019,county,2025-12-17,case_lab-confirmed,2
 "Carbon, Wyoming",56007,county,2025-07-22,case_lab-confirmed,1
 "Carbon, Wyoming",56007,county,2025-08-02,case_lab-confirmed,4
 "Carbon, Wyoming",56007,county,2025-08-15,case_lab-confirmed,1
@@ -70,6 +72,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Cedar, Missouri",29039,county,2025-07-01,case_lab-confirmed,1
 "Cedar, Missouri",29039,county,2025-07-03,case_lab-confirmed,3
 "Central, Iowa",19,county,2025-05-23,case_lab-confirmed,1
+"Central, Iowa",19,county,2025-12-16,case_lab-confirmed,1
 "Central, Utah",0,county,2025-11-18,case_lab-confirmed,2
 "Central, Utah",0,county,2025-12-16,case_lab-confirmed,1
 "Chaves, New Mexico",35005,county,2025-04-08,case_lab-confirmed,1
@@ -180,6 +183,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Franklin, Ohio",39049,county,2025-09-29,case_lab-confirmed,2
 "Franklin, Ohio",39049,county,2025-10-08,case_lab-confirmed,1
 "Franklin, Ohio",39049,county,2025-10-22,case_lab-confirmed,1
+"Fremont, Wyoming",56013,county,2025-12-18,case_lab-confirmed,5
 "Fresno, California",6019,county,2025-03-11,case_lab-confirmed,1
 "Fresno, California",6019,county,2025-03-19,case_lab-confirmed,1
 "Fulton, Georgia",13121,county,2025-01-28,case_lab-confirmed,1
@@ -230,6 +234,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Gallatin, Montana",30031,county,2025-07-20,case_lab-confirmed,2
 "Gallatin, Montana",30031,county,2025-11-23,case_lab-confirmed,1
 "Gallatin, Montana",30031,county,2025-11-30,case_lab-confirmed,2
+"Gallatin, Montana",30031,county,2025-12-07,case_lab-confirmed,1
 "Garza, Texas",48169,county,2025-03-20,case_lab-confirmed,1
 "Garza, Texas",48169,county,2025-04-02,case_lab-confirmed,1
 "Grand Forks, North Dakota",38035,county,2025-05-16,case_lab-confirmed,1
@@ -498,6 +503,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Rockland, New York",36087,county,2025-12-05,case_lab-confirmed,4
 "Rockland, New York",36087,county,2025-12-12,case_lab-confirmed,4
 "Rockland, New York",36087,county,2025-12-16,case_lab-confirmed,1
+"Rockland, New York",36087,county,2025-12-19,case_lab-confirmed,3
 "Rockwall, Texas",48397,county,2025-03-20,case_lab-confirmed,1
 "Rockwall, Texas",48397,county,2025-04-23,case_lab-confirmed,1
 "Sacramento, California",6067,county,2025-06-16,case_lab-confirmed,1
@@ -632,6 +638,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Upstate, South Carolina",0,county,2025-12-09,case_lab-confirmed,27
 "Upstate, South Carolina",0,county,2025-12-12,case_lab-confirmed,15
 "Upstate, South Carolina",0,county,2025-12-16,case_lab-confirmed,9
+"Upstate, South Carolina",0,county,2025-12-19,case_lab-confirmed,9
 "Utah, Utah",49049,county,2025-06-20,case_lab-confirmed,1
 "Utah, Utah",49049,county,2025-06-24,case_lab-confirmed,1
 "Utah, Utah",49049,county,2025-06-26,case_lab-confirmed,1
