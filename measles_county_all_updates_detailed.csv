@@ -1445,7 +1445,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Upstate, South Carolina",0,county,2025-12-16,case_lab-confirmed,9
 "Upstate, South Carolina",0,county,2025-12-16,case_local,9
 "Upstate, South Carolina",0,county,2025-12-19,case_lab-confirmed,9
-"Upstate, South Carolina",0,county,2025-12-19,case_local,11
+"Upstate, South Carolina",0,county,2025-12-19,case_local,9
 "Utah, Utah",49049,county,2025-06-20,case_lab-confirmed,1
 "Utah, Utah",49049,county,2025-06-20,case_local,1
 "Utah, Utah",49049,county,2025-06-20,case_unvaccinated,1
