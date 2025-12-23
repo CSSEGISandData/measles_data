@@ -938,6 +938,9 @@ location_name,location_id,location_type,date,outcome_type,value
 "Mohave, Arizona",4015,county,2025-12-16,case_lab-confirmed,14
 "Mohave, Arizona",4015,county,2025-12-16,case_local,14
 "Mohave, Arizona",4015,county,2025-12-16,case_unvaccinated,14
+"Mohave, Arizona",4015,county,2025-12-23,case_lab-confirmed,5
+"Mohave, Arizona",4015,county,2025-12-23,case_local,5
+"Mohave, Arizona",4015,county,2025-12-23,case_unvaccinated,5
 "Montcalm, Michigan",26117,county,2025-04-10,case_imported,1
 "Montcalm, Michigan",26117,county,2025-04-10,case_lab-confirmed,1
 "Montcalm, Michigan",26117,county,2025-04-17,case_lab-confirmed,2
