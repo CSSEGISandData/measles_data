@@ -1403,6 +1403,8 @@ location_name,location_id,location_type,date,outcome_type,value
 "Unknown County, Pennsylvania",42,county,2025-08-21,case_lab-confirmed,1
 "Unknown County, South Carolina",0,county,2025-11-25,case_lab-confirmed,3
 "Unknown County, South Carolina",0,county,2025-11-25,case_local,3
+"Unknown County, Texas",48,county,2025-10-30,case_lab-confirmed,1
+"Unknown County, Texas",48,county,2025-10-30,case_local,1
 "Unknown County, Vermont",,county,2025-08-28,case_lab-confirmed,1
 "Unknown County, Vermont",,county,2025-08-28,case_local,1
 "Upper Cumberland Region, Tennessee",0,county,2025-03-30,case_lab-confirmed,1
