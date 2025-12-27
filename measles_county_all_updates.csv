@@ -57,6 +57,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Burke, North Dakota",38013,county,2025-05-27,case_lab-confirmed,1
 "Butte, South Dakota",46019,county,2025-11-29,case_lab-confirmed,1
 "Butte, South Dakota",46019,county,2025-12-17,case_lab-confirmed,2
+"Butte, South Dakota",46019,county,2025-12-24,case_lab-confirmed,1
 "Carbon, Wyoming",56007,county,2025-07-22,case_lab-confirmed,1
 "Carbon, Wyoming",56007,county,2025-08-02,case_lab-confirmed,4
 "Carbon, Wyoming",56007,county,2025-08-15,case_lab-confirmed,1
@@ -72,6 +73,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Cedar, Missouri",29039,county,2025-06-23,case_lab-confirmed,1
 "Cedar, Missouri",29039,county,2025-07-01,case_lab-confirmed,1
 "Cedar, Missouri",29039,county,2025-07-03,case_lab-confirmed,3
+"Central Region, Virginia",0,county,2025-12-24,case_lab-confirmed,1
 "Central, Iowa",19,county,2025-05-23,case_lab-confirmed,1
 "Central, Iowa",19,county,2025-12-16,case_lab-confirmed,1
 "Central, Utah",0,county,2025-11-18,case_lab-confirmed,2
@@ -518,6 +520,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Salt Lake, Utah",49035,county,2025-12-22,case_lab-confirmed,1
 "San Diego, California",6073,county,2025-08-11,case_lab-confirmed,1
 "San Juan, New Mexico",35045,county,2025-06-03,case_lab-confirmed,1
+"San Luis Obispo, California",6079,county,2025-12-17,case_lab-confirmed,1
 "San Mateo, California",6081,county,2025-03-31,case_lab-confirmed,1
 "Sandoval, New Mexico",35043,county,2025-05-16,case_lab-confirmed,2
 "Sandoval, New Mexico",35043,county,2025-05-23,case_lab-confirmed,4
@@ -651,6 +654,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Upstate, South Carolina",0,county,2025-12-16,case_lab-confirmed,9
 "Upstate, South Carolina",0,county,2025-12-19,case_lab-confirmed,9
 "Upstate, South Carolina",0,county,2025-12-23,case_lab-confirmed,9
+"Upstate, South Carolina",0,county,2025-12-26,case_lab-confirmed,3
 "Utah, Utah",49049,county,2025-06-20,case_lab-confirmed,1
 "Utah, Utah",49049,county,2025-06-24,case_lab-confirmed,1
 "Utah, Utah",49049,county,2025-06-26,case_lab-confirmed,1
