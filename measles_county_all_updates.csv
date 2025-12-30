@@ -87,6 +87,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Cochran, Texas",48079,county,2025-04-11,case_lab-confirmed,1
 "Cochran, Texas",48079,county,2025-04-15,case_lab-confirmed,1
 "Cochran, Texas",48079,county,2025-04-25,case_lab-confirmed,2
+"Coconino, Arizona",4005,county,2025-12-30,case_lab-confirmed,1
 "Collin, Texas",48085,county,2025-04-25,case_lab-confirmed,1
 "Collin, Texas",48085,county,2025-05-16,case_lab-confirmed,1
 "Collin, Texas",48085,county,2025-06-02,case_lab-confirmed,1
@@ -420,6 +421,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Mohave, Arizona",4015,county,2025-12-09,case_lab-confirmed,21
 "Mohave, Arizona",4015,county,2025-12-16,case_lab-confirmed,14
 "Mohave, Arizona",4015,county,2025-12-23,case_lab-confirmed,5
+"Mohave, Arizona",4015,county,2025-12-30,case_lab-confirmed,9
 "Montcalm, Michigan",26117,county,2025-04-10,case_lab-confirmed,1
 "Montcalm, Michigan",26117,county,2025-04-17,case_lab-confirmed,2
 "Montcalm, Michigan",26117,county,2025-04-23,case_lab-confirmed,1
@@ -517,7 +519,8 @@ location_name,location_id,location_type,date,outcome_type,value
 "Salt Lake, Utah",49035,county,2025-11-18,case_lab-confirmed,1
 "Salt Lake, Utah",49035,county,2025-11-25,case_lab-confirmed,1
 "Salt Lake, Utah",49035,county,2025-12-09,case_lab-confirmed,1
-"Salt Lake, Utah",49035,county,2025-12-22,case_lab-confirmed,1
+"Salt Lake, Utah",49035,county,2025-12-23,case_lab-confirmed,1
+"Salt Lake, Utah",49035,county,2025-12-30,case_lab-confirmed,1
 "San Diego, California",6073,county,2025-08-11,case_lab-confirmed,1
 "San Juan, New Mexico",35045,county,2025-06-03,case_lab-confirmed,1
 "San Luis Obispo, California",6079,county,2025-12-17,case_lab-confirmed,1
@@ -561,6 +564,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Southwest Health District, Utah",0,county,2025-12-09,case_lab-confirmed,6
 "Southwest Health District, Utah",0,county,2025-12-16,case_lab-confirmed,9
 "Southwest Health District, Utah",0,county,2025-12-23,case_lab-confirmed,10
+"Southwest Health District, Utah",0,county,2025-12-30,case_lab-confirmed,13
 "Spokane, Washington",53063,county,2025-08-25,case_lab-confirmed,1
 "Stevens, Kansas",20189,county,2025-03-31,case_lab-confirmed,6
 "Stevens, Kansas",20189,county,2025-04-09,case_lab-confirmed,1
@@ -655,6 +659,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Upstate, South Carolina",0,county,2025-12-19,case_lab-confirmed,9
 "Upstate, South Carolina",0,county,2025-12-23,case_lab-confirmed,9
 "Upstate, South Carolina",0,county,2025-12-26,case_lab-confirmed,3
+"Upstate, South Carolina",0,county,2025-12-30,case_lab-confirmed,20
 "Utah, Utah",49049,county,2025-06-20,case_lab-confirmed,1
 "Utah, Utah",49049,county,2025-06-24,case_lab-confirmed,1
 "Utah, Utah",49049,county,2025-06-26,case_lab-confirmed,1
