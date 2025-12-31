@@ -236,6 +236,8 @@ location_name,location_id,location_type,date,outcome_type,value
 "Collin, Texas",48085,county,2025-06-02,case_local,1
 "Collin, Texas",48085,county,2025-06-03,case_lab-confirmed,1
 "Collin, Texas",48085,county,2025-06-03,case_local,1
+"Contra Costa, California",6013,county,2025-12-24,case_lab-confirmed,1
+"Contra Costa, California",6013,county,2025-12-24,case_local,1
 "Cook, Illinois",17031,county,2025-04-25,case_imported,1
 "Cook, Illinois",17031,county,2025-04-25,case_lab-confirmed,1
 "Cook, Illinois",17031,county,2025-04-25,case_vaccinated,1
@@ -1096,6 +1098,9 @@ location_name,location_id,location_type,date,outcome_type,value
 "Philadelphia, Pennsylvania",42101,county,2025-04-11,case_lab-confirmed,1
 "Placer, California",6061,county,2025-03-31,case_imported,1
 "Placer, California",6061,county,2025-03-31,case_lab-confirmed,1
+"Platte, Nebraska",31141,county,2025-12-30,case_imported,1
+"Platte, Nebraska",31141,county,2025-12-30,case_lab-confirmed,1
+"Platte, Nebraska",31141,county,2025-12-30,case_unvaccinated,1
 "Potter, Texas",48375,county,2025-04-18,case_lab-confirmed,1
 "Potter, Texas",48375,county,2025-04-18,case_local,1
 "Prince George's, Maryland",24033,county,2025-03-10,case_imported,2
@@ -1382,6 +1387,8 @@ location_name,location_id,location_type,date,outcome_type,value
 "Unknown County, Minnesota",27,county,2025-11-13,case_local,1
 "Unknown County, Minnesota",27,county,2025-12-05,case_lab-confirmed,2
 "Unknown County, Minnesota",27,county,2025-12-05,case_local,2
+"Unknown County, Nebraska",31,county,2025-12-31,case_lab-confirmed,1
+"Unknown County, Nebraska",31,county,2025-12-31,case_local,1
 "Unknown County, New Jersey",34,county,2025-08-29,case_imported,2
 "Unknown County, New Jersey",34,county,2025-08-29,case_lab-confirmed,2
 "Unknown County, New Jersey",34,county,2025-10-29,case_lab-confirmed,1
@@ -1526,6 +1533,9 @@ location_name,location_id,location_type,date,outcome_type,value
 "Washington, District of Columbia",11001,county,2025-06-14,case_lab-confirmed,1
 "Washington, Minnesota",27163,county,2025-06-02,case_imported,1
 "Washington, Minnesota",27163,county,2025-06-02,case_lab-confirmed,1
+"Washoe, Nevada",32031,county,2025-12-27,case_lab-confirmed,1
+"Washoe, Nevada",32031,county,2025-12-27,case_local,1
+"Washoe, Nevada",32031,county,2025-12-27,case_unvaccinated,1
 "Weld, Colorado",8123,county,2025-12-15,case_lab-confirmed,1
 "Weld, Colorado",8123,county,2025-12-15,case_local,1
 "Western, Iowa",19,county,2025-07-22,case_lab-confirmed,1
