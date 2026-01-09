@@ -1530,6 +1530,8 @@ location_name,location_id,location_type,date,outcome_type,value
 "Upstate, South Carolina",0,county,2026-01-02,case_local,9
 "Upstate, South Carolina",0,county,2026-01-06,case_lab-confirmed,26
 "Upstate, South Carolina",0,county,2026-01-06,case_local,26
+"Upstate, South Carolina",0,county,2026-01-09,case_lab-confirmed,99
+"Upstate, South Carolina",0,county,2026-01-09,case_local,99
 "Utah, Utah",49049,county,2025-06-20,case_lab-confirmed,1
 "Utah, Utah",49049,county,2025-06-20,case_local,1
 "Utah, Utah",49049,county,2025-06-20,case_unvaccinated,1
