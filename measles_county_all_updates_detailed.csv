@@ -160,6 +160,21 @@ location_name,location_id,location_type,date,outcome_type,value
 "Butte, South Dakota",46019,county,2025-12-24,case_unvaccinated,1
 "Cabarrus, North Carolina",37025,county,2026-01-23,case_lab-confirmed,2
 "Cabarrus, North Carolina",37025,county,2026-01-23,case_local,2
+"Canyon, Idaho",16027,county,2026-01-09,case_lab-confirmed,1
+"Canyon, Idaho",16027,county,2026-01-09,case_local,1
+"Canyon, Idaho",16027,county,2026-01-09,case_unvaccinated,1
+"Canyon, Idaho",16027,county,2026-01-17,case_lab-confirmed,1
+"Canyon, Idaho",16027,county,2026-01-17,case_local,1
+"Canyon, Idaho",16027,county,2026-01-17,case_unvaccinated,1
+"Canyon, Idaho",16027,county,2026-01-19,case_lab-confirmed,1
+"Canyon, Idaho",16027,county,2026-01-19,case_local,1
+"Canyon, Idaho",16027,county,2026-01-19,case_unvaccinated,1
+"Canyon, Idaho",16027,county,2026-01-20,case_lab-confirmed,1
+"Canyon, Idaho",16027,county,2026-01-20,case_local,1
+"Canyon, Idaho",16027,county,2026-01-20,case_unvaccinated,1
+"Canyon, Idaho",16027,county,2026-01-21,case_lab-confirmed,1
+"Canyon, Idaho",16027,county,2026-01-21,case_local,1
+"Canyon, Idaho",16027,county,2026-01-21,case_unvaccinated,1
 "Carbon, Wyoming",56007,county,2025-07-22,case_imported,1
 "Carbon, Wyoming",56007,county,2025-07-22,case_lab-confirmed,1
 "Carbon, Wyoming",56007,county,2025-07-22,case_unvaccinated,1
@@ -222,9 +237,17 @@ location_name,location_id,location_type,date,outcome_type,value
 "Central, Utah",0,county,2026-01-06,case_local,2
 "Chaves, New Mexico",35005,county,2025-04-08,case_lab-confirmed,1
 "Chaves, New Mexico",35005,county,2025-04-08,case_local,1
+"Clackamas, Oregon",41005,county,2026-01-16,case_lab-confirmed,1
+"Clackamas, Oregon",41005,county,2026-01-16,case_local,1
+"Clackamas, Oregon",41005,county,2026-01-16,case_unvaccinated,1
 "Clark, Nevada",32003,county,2025-11-07,case_lab-confirmed,1
 "Clark, Nevada",32003,county,2025-11-07,case_local,1
 "Clark, Nevada",32003,county,2025-11-07,case_unvaccinated,1
+"Clark, Washington",53011,county,2026-01-23,case_imported,1
+"Clark, Washington",53011,county,2026-01-23,case_lab-confirmed,1
+"Coastal Health District, Georgia",13,county,2026-01-12,case_imported,1
+"Coastal Health District, Georgia",13,county,2026-01-12,case_lab-confirmed,1
+"Coastal Health District, Georgia",13,county,2026-01-12,case_unvaccinated,1
 "Cochran, Texas",48079,county,2025-03-18,case_lab-confirmed,7
 "Cochran, Texas",48079,county,2025-03-18,case_local,7
 "Cochran, Texas",48079,county,2025-03-20,case_lab-confirmed,1
@@ -332,8 +355,8 @@ location_name,location_id,location_type,date,outcome_type,value
 "Dona Ana, New Mexico",35013,county,2025-04-15,case_local,1
 "Dona Ana, New Mexico",35013,county,2025-05-02,case_lab-confirmed,1
 "Dona Ana, New Mexico",35013,county,2025-05-02,case_local,1
-"Duval, Florida",12031,county,2025-08-16,case_lab-confirmed,1
-"Duval, Florida",12031,county,2025-08-16,case_local,1
+"Duval, Florida",12031,county,2025-01-21,case_lab-confirmed,5
+"Duval, Florida",12031,county,2025-01-21,case_local,5
 "Eastern Region, Virginia",0,county,2025-09-03,case_lab-confirmed,1
 "Eastern Region, Virginia",0,county,2025-09-03,case_local,1
 "Eastern, Iowa",19,county,2025-06-09,case_lab-confirmed,1
@@ -607,6 +630,9 @@ location_name,location_id,location_type,date,outcome_type,value
 "Grand Traverse, Michigan",26055,county,2025-06-23,case_local,1
 "Grand Traverse, Michigan",26055,county,2025-07-02,case_lab-confirmed,1
 "Grand Traverse, Michigan",26055,county,2025-07-02,case_local,1
+"Grant, South Dakota",46051,county,2026-01-17,case_imported,5
+"Grant, South Dakota",46051,county,2026-01-17,case_lab-confirmed,5
+"Grant, South Dakota",46051,county,2026-01-17,case_unvaccinated,5
 "Gray, Kansas",20069,county,2025-04-30,case_lab-confirmed,15
 "Gray, Kansas",20069,county,2025-04-30,case_local,15
 "Gray, Kansas",20069,county,2025-05-14,case_lab-confirmed,6
@@ -709,9 +735,12 @@ location_name,location_id,location_type,date,outcome_type,value
 "Jefferson, Kentucky",21111,county,2025-07-14,case_lab-confirmed,1
 "Jefferson, Kentucky",21111,county,2025-07-28,case_lab-confirmed,1
 "Jefferson, Kentucky",21111,county,2025-07-28,case_local,1
-"Jessamine, Kentucky",21113,county,2025-01-16,case_lab-confirmed,1
-"Jessamine, Kentucky",21113,county,2025-01-16,case_local,1
-"Jessamine, Kentucky",21113,county,2025-01-16,case_unvaccinated,1
+"Jessamine, Kentucky",21113,county,2026-01-16,case_lab-confirmed,1
+"Jessamine, Kentucky",21113,county,2026-01-16,case_local,1
+"Jessamine, Kentucky",21113,county,2026-01-16,case_unvaccinated,1
+"Jessamine, Kentucky",21113,county,2026-01-30,case_lab-confirmed,3
+"Jessamine, Kentucky",21113,county,2026-01-30,case_local,3
+"Jessamine, Kentucky",21113,county,2026-01-30,case_unvaccinated,3
 "Kenai Peninsula, Alaska",2122,county,2025-01-21,case_imported,1
 "Kenai Peninsula, Alaska",2122,county,2025-01-21,case_lab-confirmed,1
 "Kenai Peninsula, Alaska",2122,county,2025-01-21,case_unvaccinated,1
@@ -783,6 +812,8 @@ location_name,location_id,location_type,date,outcome_type,value
 "Lamb, Texas",48279,county,2025-03-20,case_local,1
 "Lamoille, Vermont",50015,county,2025-03-11,case_imported,1
 "Lamoille, Vermont",50015,county,2025-03-11,case_lab-confirmed,1
+"Lancaster, Nebraska",31109,county,2026-01-30,case_lab-confirmed,1
+"Lancaster, Nebraska",31109,county,2026-01-30,case_local,1
 "Lancaster, Pennsylvania",42071,county,2025-04-13,case_lab-confirmed,1
 "Lancaster, Pennsylvania",42071,county,2025-04-13,case_local,1
 "Lancaster, Pennsylvania",42071,county,2025-04-13,case_unvaccinated,1
@@ -829,6 +860,9 @@ location_name,location_id,location_type,date,outcome_type,value
 "Lincoln, South Dakota",46083,county,2025-06-28,case_imported,6
 "Lincoln, South Dakota",46083,county,2025-06-28,case_lab-confirmed,6
 "Lincoln, South Dakota",46083,county,2025-06-28,case_unvaccinated,6
+"Linn, Oregon",41043,county,2026-01-12,case_lab-confirmed,2
+"Linn, Oregon",41043,county,2026-01-12,case_local,2
+"Linn, Oregon",41043,county,2026-01-12,case_unvaccinated,2
 "Los Angeles, California",6037,county,2025-03-11,case_imported,1
 "Los Angeles, California",6037,county,2025-03-11,case_lab-confirmed,1
 "Los Angeles, California",6037,county,2025-04-25,case_imported,1
@@ -885,8 +919,8 @@ location_name,location_id,location_type,date,outcome_type,value
 "Macomb, Michigan",26099,county,2025-06-11,case_local,1
 "Madison, Idaho",16065,county,2025-12-31,case_lab-confirmed,1
 "Madison, Idaho",16065,county,2025-12-31,case_local,1
-"Madison, Idaho",16065,county,2026-01-21,case_lab-confirmed,2
-"Madison, Idaho",16065,county,2026-01-21,case_local,2
+"Madison, Idaho",16065,county,2026-01-11,case_lab-confirmed,2
+"Madison, Idaho",16065,county,2026-01-11,case_local,2
 "Manatee, Florida",12081,county,2026-01-06,case_imported,1
 "Manatee, Florida",12081,county,2026-01-06,case_lab-confirmed,1
 "Maricopa, Arizona",4013,county,2026-01-20,case_lab-confirmed,1
@@ -911,6 +945,8 @@ location_name,location_id,location_type,date,outcome_type,value
 "Meade, South Dakota",46093,county,2025-06-14,case_unvaccinated,1
 "Mecklenburg, North Carolina",37119,county,2026-01-23,case_lab-confirmed,2
 "Mecklenburg, North Carolina",37119,county,2026-01-23,case_local,2
+"Mecklenburg, North Carolina",37119,county,2026-01-30,case_lab-confirmed,1
+"Mecklenburg, North Carolina",37119,county,2026-01-30,case_local,1
 "Mesa, Colorado",8077,county,2025-08-15,case_lab-confirmed,1
 "Mesa, Colorado",8077,county,2025-08-15,case_local,1
 "Mesa, Colorado",8077,county,2025-08-15,case_unvaccinated,1
@@ -998,6 +1034,9 @@ location_name,location_id,location_type,date,outcome_type,value
 "Mohave, Arizona",4015,county,2026-01-20,case_lab-confirmed,5
 "Mohave, Arizona",4015,county,2026-01-20,case_local,5
 "Mohave, Arizona",4015,county,2026-01-20,case_unvaccinated,5
+"Mohave, Arizona",4015,county,2026-01-27,case_lab-confirmed,9
+"Mohave, Arizona",4015,county,2026-01-27,case_local,9
+"Mohave, Arizona",4015,county,2026-01-27,case_unvaccinated,8
 "Montcalm, Michigan",26117,county,2025-04-10,case_imported,1
 "Montcalm, Michigan",26117,county,2025-04-10,case_lab-confirmed,1
 "Montcalm, Michigan",26117,county,2025-04-17,case_lab-confirmed,2
@@ -1028,6 +1067,8 @@ location_name,location_id,location_type,date,outcome_type,value
 "Napa, California",6055,county,2026-01-21,case_imported,1
 "Napa, California",6055,county,2026-01-21,case_lab-confirmed,1
 "Napa, California",6055,county,2026-01-21,case_unvaccinated,1
+"Nash, North Carolina",37127,county,2026-01-30,case_lab-confirmed,1
+"Nash, North Carolina",37127,county,2026-01-30,case_local,1
 "Nashville-Davidson County Region, Tennessee",0,county,2025-11-02,case_lab-confirmed,1
 "Nashville-Davidson County Region, Tennessee",0,county,2025-11-02,case_local,1
 "Nashville-Davidson County Region, Tennessee",0,county,2025-11-02,case_unvaccinated,1
@@ -1120,6 +1161,8 @@ location_name,location_id,location_type,date,outcome_type,value
 "Orange, California",6059,county,2025-02-25,case_lab-confirmed,1
 "Orange, California",6059,county,2025-09-29,case_imported,1
 "Orange, California",6059,county,2025-09-29,case_lab-confirmed,1
+"Orange, California",6059,county,2026-01-28,case_imported,1
+"Orange, California",6059,county,2026-01-28,case_lab-confirmed,1
 "Orange, New York",36071,county,2025-05-10,case_imported,3
 "Orange, New York",36071,county,2025-05-10,case_lab-confirmed,3
 "Orange, New York",36071,county,2025-05-10,case_unvaccinated,3
@@ -1154,6 +1197,8 @@ location_name,location_id,location_type,date,outcome_type,value
 "Pima, Arizona",4019,county,2026-01-20,case_local,1
 "Pinal, Arizona",4021,county,2026-01-20,case_lab-confirmed,2
 "Pinal, Arizona",4021,county,2026-01-20,case_local,2
+"Pinal, Arizona",4021,county,2026-01-27,case_lab-confirmed,1
+"Pinal, Arizona",4021,county,2026-01-27,case_local,1
 "Placer, California",6061,county,2025-03-31,case_imported,1
 "Placer, California",6061,county,2025-03-31,case_lab-confirmed,1
 "Platte, Nebraska",31141,county,2025-12-30,case_imported,1
@@ -1245,6 +1290,8 @@ location_name,location_id,location_type,date,outcome_type,value
 "Salt Lake, Utah",49035,county,2026-01-13,case_local,1
 "Salt Lake, Utah",49035,county,2026-01-20,case_lab-confirmed,2
 "Salt Lake, Utah",49035,county,2026-01-20,case_local,2
+"Salt Lake, Utah",49035,county,2026-01-27,case_lab-confirmed,10
+"Salt Lake, Utah",49035,county,2026-01-27,case_local,10
 "San Diego, California",6073,county,2025-08-11,case_imported,1
 "San Diego, California",6073,county,2025-08-11,case_lab-confirmed,1
 "San Juan, New Mexico",35045,county,2025-06-03,case_lab-confirmed,1
@@ -1282,6 +1329,9 @@ location_name,location_id,location_type,date,outcome_type,value
 "Snohomish, Washington",53061,county,2026-01-15,case_unvaccinated,3
 "Snohomish, Washington",53061,county,2026-01-20,case_imported,2
 "Snohomish, Washington",53061,county,2026-01-20,case_lab-confirmed,2
+"Snohomish, Washington",53061,county,2026-01-28,case_lab-confirmed,1
+"Snohomish, Washington",53061,county,2026-01-28,case_local,1
+"Snohomish, Washington",53061,county,2026-01-28,case_unvaccinated,1
 "South Central Connecticut, Connecticut",9170,county,2025-12-11,case_lab-confirmed,1
 "South Central Connecticut, Connecticut",9170,county,2025-12-11,case_local,1
 "South Central Connecticut, Connecticut",9170,county,2025-12-11,case_unvaccinated,1
@@ -1330,12 +1380,15 @@ location_name,location_id,location_type,date,outcome_type,value
 "Southwest Health District, Utah",0,county,2025-10-03,case_lab-confirmed,3
 "Southwest Health District, Utah",0,county,2025-10-03,case_local,3
 "Southwest Health District, Utah",0,county,2025-10-03,case_unvaccinated,3
-"Southwest Health District, Utah",0,county,2025-10-09,case_lab-confirmed,10
-"Southwest Health District, Utah",0,county,2025-10-09,case_local,10
-"Southwest Health District, Utah",0,county,2025-10-09,case_unvaccinated,10
-"Southwest Health District, Utah",0,county,2025-10-23,case_lab-confirmed,4
-"Southwest Health District, Utah",0,county,2025-10-23,case_local,4
-"Southwest Health District, Utah",0,county,2025-10-23,case_unvaccinated,4
+"Southwest Health District, Utah",0,county,2025-10-09,case_lab-confirmed,7
+"Southwest Health District, Utah",0,county,2025-10-09,case_local,7
+"Southwest Health District, Utah",0,county,2025-10-09,case_unvaccinated,7
+"Southwest Health District, Utah",0,county,2025-10-16,case_lab-confirmed,3
+"Southwest Health District, Utah",0,county,2025-10-16,case_local,3
+"Southwest Health District, Utah",0,county,2025-10-16,case_unvaccinated,3
+"Southwest Health District, Utah",0,county,2025-10-23,case_lab-confirmed,1
+"Southwest Health District, Utah",0,county,2025-10-23,case_local,1
+"Southwest Health District, Utah",0,county,2025-10-23,case_unvaccinated,1
 "Southwest Health District, Utah",0,county,2025-10-31,case_lab-confirmed,5
 "Southwest Health District, Utah",0,county,2025-10-31,case_local,5
 "Southwest Health District, Utah",0,county,2025-11-04,case_lab-confirmed,2
@@ -1367,6 +1420,8 @@ location_name,location_id,location_type,date,outcome_type,value
 "Southwest Health District, Utah",0,county,2026-01-13,case_local,18
 "Southwest Health District, Utah",0,county,2026-01-20,case_lab-confirmed,7
 "Southwest Health District, Utah",0,county,2026-01-20,case_local,7
+"Southwest Health District, Utah",0,county,2026-01-27,case_lab-confirmed,4
+"Southwest Health District, Utah",0,county,2026-01-27,case_local,4
 "Spokane, Washington",53063,county,2025-08-25,case_imported,1
 "Spokane, Washington",53063,county,2025-08-25,case_lab-confirmed,1
 "St. Johns, Florida",12109,county,2026-01-10,case_lab-confirmed,1
@@ -1455,10 +1510,12 @@ location_name,location_id,location_type,date,outcome_type,value
 "Unknown County, Kansas",20,county,2025-04-09,case_local,2
 "Unknown County, Kansas",20,county,2025-04-16,case_lab-confirmed,3
 "Unknown County, Kansas",20,county,2025-04-16,case_local,3
-"Unknown County, Kansas",20,county,2025-06-16,case_lab-confirmed,2
-"Unknown County, Kansas",20,county,2025-06-16,case_local,2
-"Unknown County, Kansas",20,county,2025-11-02,case_lab-confirmed,4
-"Unknown County, Kansas",20,county,2025-11-02,case_local,4
+"Unknown County, Kansas",20,county,2025-06-16,case_lab-confirmed,1
+"Unknown County, Kansas",20,county,2025-06-16,case_local,1
+"Unknown County, Kansas",20,county,2025-06-17,case_lab-confirmed,1
+"Unknown County, Kansas",20,county,2025-06-17,case_local,1
+"Unknown County, Kansas",20,county,2025-11-02,case_lab-confirmed,3
+"Unknown County, Kansas",20,county,2025-11-02,case_local,3
 "Unknown County, Kentucky",21,county,2025-06-30,case_imported,1
 "Unknown County, Kentucky",21,county,2025-06-30,case_lab-confirmed,1
 "Unknown County, Minnesota",27,county,2025-06-11,case_lab-confirmed,1
@@ -1512,10 +1569,9 @@ location_name,location_id,location_type,date,outcome_type,value
 "Unknown County, Oklahoma",40109,county,2025-06-06,case_unvaccinated,1
 "Unknown County, Oklahoma",40109,county,2025-06-13,case_lab-confirmed,1
 "Unknown County, Oklahoma",40109,county,2025-06-13,case_local,1
-"Unknown County, Oregon",41,county,2026-01-12,case_lab-confirmed,2
-"Unknown County, Oregon",41,county,2026-01-12,case_local,2
-"Unknown County, Oregon",41,county,2026-01-21,case_lab-confirmed,1
-"Unknown County, Oregon",41,county,2026-01-21,case_local,1
+"Unknown County, Oregon",41,county,2026-01-29,case_lab-confirmed,2
+"Unknown County, Oregon",41,county,2026-01-29,case_local,2
+"Unknown County, Oregon",41,county,2026-01-29,case_unvaccinated,1
 "Unknown County, Pennsylvania",42,county,2025-08-21,case_imported,1
 "Unknown County, Pennsylvania",42,county,2025-08-21,case_lab-confirmed,1
 "Unknown County, South Carolina",0,county,2025-11-25,case_lab-confirmed,3
@@ -1606,6 +1662,10 @@ location_name,location_id,location_type,date,outcome_type,value
 "Upstate, South Carolina",0,county,2026-01-20,case_local,88
 "Upstate, South Carolina",0,county,2026-01-23,case_lab-confirmed,54
 "Upstate, South Carolina",0,county,2026-01-23,case_local,54
+"Upstate, South Carolina",0,county,2026-01-27,case_lab-confirmed,89
+"Upstate, South Carolina",0,county,2026-01-27,case_local,89
+"Upstate, South Carolina",0,county,2026-01-30,case_lab-confirmed,58
+"Upstate, South Carolina",0,county,2026-01-30,case_local,58
 "Utah, Utah",49049,county,2025-06-20,case_lab-confirmed,1
 "Utah, Utah",49049,county,2025-06-20,case_local,1
 "Utah, Utah",49049,county,2025-06-20,case_unvaccinated,1
@@ -1632,8 +1692,12 @@ location_name,location_id,location_type,date,outcome_type,value
 "Utah, Utah",49049,county,2025-12-22,case_local,6
 "Utah, Utah",49049,county,2026-01-06,case_lab-confirmed,3
 "Utah, Utah",49049,county,2026-01-06,case_local,3
-"Utah, Utah",49049,county,2026-01-13,case_lab-confirmed,9
-"Utah, Utah",49049,county,2026-01-13,case_local,9
+"Utah, Utah",49049,county,2026-01-13,case_lab-confirmed,5
+"Utah, Utah",49049,county,2026-01-13,case_local,5
+"Utah, Utah",49049,county,2026-01-20,case_lab-confirmed,4
+"Utah, Utah",49049,county,2026-01-20,case_local,4
+"Utah, Utah",49049,county,2026-01-27,case_lab-confirmed,7
+"Utah, Utah",49049,county,2026-01-27,case_local,7
 "Wasatch, Utah",49051,county,2025-11-25,case_lab-confirmed,8
 "Wasatch, Utah",49051,county,2025-11-25,case_local,8
 "Wasatch, Utah",49051,county,2025-11-25,case_unvaccinated,8
@@ -1646,6 +1710,8 @@ location_name,location_id,location_type,date,outcome_type,value
 "Washoe, Nevada",32031,county,2025-12-27,case_lab-confirmed,1
 "Washoe, Nevada",32031,county,2025-12-27,case_local,1
 "Washoe, Nevada",32031,county,2025-12-27,case_unvaccinated,1
+"Waukesha, Wisconsin",55133,county,2026-01-18,case_lab-confirmed,1
+"Waukesha, Wisconsin",55133,county,2026-01-18,case_local,1
 "Weber-Morgan, Utah",49057,county,2026-01-20,case_lab-confirmed,2
 "Weber-Morgan, Utah",49057,county,2026-01-20,case_local,2
 "Weld, Colorado",8123,county,2025-12-15,case_lab-confirmed,1
