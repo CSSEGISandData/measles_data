@@ -39,6 +39,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Bear River, Utah",0,county,2026-02-24,case_lab-confirmed,1
 "Bear River, Utah",0,county,2026-03-03,case_lab-confirmed,2
 "Bear River, Utah",0,county,2026-03-10,case_lab-confirmed,3
+"Bear River, Utah",0,county,2026-03-17,case_lab-confirmed,1
 "Bell, Texas",48027,county,2025-06-17,case_lab-confirmed,1
 "Benton, Arkansas",5007,county,2025-06-16,case_lab-confirmed,1
 "Bergen, New Jersey",34003,county,2025-02-14,case_lab-confirmed,1
@@ -61,10 +62,12 @@ location_name,location_id,location_type,date,outcome_type,value
 "Brookings, South Dakota",46011,county,2026-02-21,case_lab-confirmed,1
 "Broomfield, Colorado",8014,county,2026-03-06,case_lab-confirmed,1
 "Broomfield, Colorado",8014,county,2026-03-12,case_lab-confirmed,2
+"Broomfield, Colorado",8014,county,2026-03-18,case_lab-confirmed,1
 "Broward, Florida",12011,county,2025-04-22,case_lab-confirmed,1
 "Broward, Florida",12011,county,2025-08-16,case_lab-confirmed,1
 "Broward, Florida",12011,county,2026-01-25,case_lab-confirmed,1
 "Broward, Florida",12011,county,2026-02-21,case_lab-confirmed,1
+"Broward, Florida",12011,county,2026-03-14,case_lab-confirmed,1
 "Brown, Texas",48049,county,2025-04-04,case_lab-confirmed,1
 "Bryan, Georgia",13029,county,2026-02-22,case_lab-confirmed,1
 "Bucks, Pennsylvania",42017,county,2025-03-27,case_lab-confirmed,1
@@ -110,6 +113,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Central, Utah",0,county,2026-02-24,case_lab-confirmed,3
 "Central, Utah",0,county,2026-03-03,case_lab-confirmed,14
 "Central, Utah",0,county,2026-03-10,case_lab-confirmed,5
+"Central, Utah",0,county,2026-03-17,case_lab-confirmed,1
 "Chaves, New Mexico",35005,county,2025-04-08,case_lab-confirmed,1
 "Chester, Pennsylvania",42029,county,2026-02-17,case_lab-confirmed,1
 "Clackamas, Oregon",41005,county,2026-01-16,case_lab-confirmed,1
@@ -134,6 +138,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Collier, Florida",12021,county,2026-02-21,case_lab-confirmed,17
 "Collier, Florida",12021,county,2026-02-28,case_lab-confirmed,10
 "Collier, Florida",12021,county,2026-03-07,case_lab-confirmed,5
+"Collier, Florida",12021,county,2026-03-14,case_lab-confirmed,6
 "Collin, Texas",48085,county,2025-04-25,case_lab-confirmed,1
 "Collin, Texas",48085,county,2025-05-16,case_lab-confirmed,1
 "Collin, Texas",48085,county,2025-06-02,case_lab-confirmed,1
@@ -162,6 +167,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Davis, Utah",49011,county,2026-02-24,case_lab-confirmed,1
 "Davis, Utah",49011,county,2026-03-03,case_lab-confirmed,1
 "Davis, Utah",49011,county,2026-03-10,case_lab-confirmed,4
+"Davis, Utah",49011,county,2026-03-17,case_lab-confirmed,3
 "Dawson, Texas",48115,county,2025-02-21,case_lab-confirmed,6
 "Dawson, Texas",48115,county,2025-02-25,case_lab-confirmed,1
 "Dawson, Texas",48115,county,2025-02-28,case_lab-confirmed,1
@@ -182,6 +188,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Dona Ana, New Mexico",35013,county,2025-04-15,case_lab-confirmed,1
 "Dona Ana, New Mexico",35013,county,2025-05-02,case_lab-confirmed,1
 "Dona Ana, New Mexico",35013,county,2026-02-26,case_lab-confirmed,2
+"Dona Ana, New Mexico",35013,county,2026-03-12,case_lab-confirmed,1
 "Duval, Florida",12031,county,2025-08-16,case_lab-confirmed,1
 "Duval, Florida",12031,county,2026-01-21,case_lab-confirmed,4
 "Duval, Florida",12031,county,2026-02-07,case_lab-confirmed,2
@@ -223,7 +230,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "El Paso, Texas",48141,county,2025-06-10,case_lab-confirmed,1
 "El Paso, Texas",48141,county,2025-07-01,case_lab-confirmed,1
 "El Paso, Texas",48141,county,2026-02-25,case_lab-confirmed,21
-"El Paso, Texas",48141,county,2026-03-13,case_lab-confirmed,21
+"El Paso, Texas",48141,county,2026-03-18,case_lab-confirmed,2
 "Erath, Texas",48143,county,2025-03-20,case_lab-confirmed,1
 "Erie, Pennsylvania",42049,county,2025-03-25,case_lab-confirmed,2
 "Erie, Pennsylvania",42049,county,2025-03-30,case_lab-confirmed,1
@@ -325,6 +332,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Grand Traverse, Michigan",26055,county,2025-07-02,case_lab-confirmed,1
 "Grant, South Dakota",46051,county,2026-01-17,case_lab-confirmed,5
 "Grant, South Dakota",46051,county,2026-02-04,case_lab-confirmed,1
+"Grant, Washington",53025,county,2026-03-18,case_lab-confirmed,2
 "Gray, Kansas",20069,county,2025-04-30,case_lab-confirmed,15
 "Gray, Kansas",20069,county,2025-05-14,case_lab-confirmed,6
 "Gray, Kansas",20069,county,2025-05-28,case_lab-confirmed,3
@@ -374,6 +382,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Hudson, New Jersey",34017,county,2025-07-03,case_lab-confirmed,1
 "Hudson, New Jersey",34017,county,2025-08-22,case_lab-confirmed,1
 "Hudspeth, Texas",48229,county,2026-03-13,case_lab-confirmed,99
+"Hudspeth, Texas",48229,county,2026-03-18,case_lab-confirmed,9
 "Ingham, Michigan",26065,county,2025-04-15,case_lab-confirmed,1
 "Jackson, Missouri",29095,county,2026-03-03,case_lab-confirmed,1
 "Jefferson, Kentucky",21111,county,2025-07-14,case_lab-confirmed,1
@@ -435,6 +444,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Lea, New Mexico",35025,county,2025-06-03,case_lab-confirmed,1
 "Lee, Florida",12071,county,2026-01-30,case_lab-confirmed,1
 "Lee, Florida",12071,county,2026-02-21,case_lab-confirmed,1
+"Lee, Florida",12071,county,2026-03-14,case_lab-confirmed,1
 "Leon, Florida",12073,county,2025-06-07,case_lab-confirmed,1
 "Leon, Florida",12073,county,2025-06-28,case_lab-confirmed,1
 "Lewis and Clark, Montana",30049,county,2025-08-12,case_lab-confirmed,1
@@ -473,6 +483,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Luna, New Mexico",35029,county,2025-07-03,case_lab-confirmed,1
 "Luna, New Mexico",35029,county,2026-02-24,case_lab-confirmed,2
 "Luna, New Mexico",35029,county,2026-03-09,case_lab-confirmed,3
+"Luna, New Mexico",35029,county,2026-03-11,case_lab-confirmed,3
 "Lynn, Texas",48305,county,2025-02-14,case_lab-confirmed,1
 "Lynn, Texas",48305,county,2025-02-28,case_lab-confirmed,1
 "Macomb, Michigan",26099,county,2025-04-04,case_lab-confirmed,1
@@ -540,6 +551,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Mohave, Arizona",4015,county,2026-02-17,case_lab-confirmed,5
 "Mohave, Arizona",4015,county,2026-02-24,case_lab-confirmed,6
 "Mohave, Arizona",4015,county,2026-03-03,case_lab-confirmed,1
+"Mohave, Arizona",4015,county,2026-03-17,case_lab-confirmed,2
 "Montcalm, Michigan",26117,county,2025-04-10,case_lab-confirmed,1
 "Montcalm, Michigan",26117,county,2025-04-17,case_lab-confirmed,2
 "Montcalm, Michigan",26117,county,2025-04-23,case_lab-confirmed,1
@@ -576,6 +588,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "New York City, New York",36061,county,2025-11-28,case_lab-confirmed,1
 "New York City, New York",36061,county,2025-12-05,case_lab-confirmed,1
 "New York City, New York",36061,county,2026-02-13,case_lab-confirmed,1
+"New York City, New York",36061,county,2026-03-12,case_lab-confirmed,2
 "Niobrara, Wyoming",56027,county,2025-07-11,case_lab-confirmed,1
 "North, Alabama",1,county,2025-08-25,case_lab-confirmed,1
 "Northern Region, Virginia",0,county,2026-01-10,case_lab-confirmed,1
@@ -605,8 +618,10 @@ location_name,location_id,location_type,date,outcome_type,value
 "Orange, California",6059,county,2026-01-30,case_lab-confirmed,1
 "Orange, New York",36071,county,2025-05-10,case_lab-confirmed,3
 "Orange, New York",36071,county,2025-05-27,case_lab-confirmed,1
+"Osceola, Florida",12097,county,2026-03-14,case_lab-confirmed,1
 "Osceola, Michigan",26133,county,2025-07-24,case_lab-confirmed,2
 "Osceola, Michigan",26133,county,2025-07-31,case_lab-confirmed,5
+"Ottawa, Ohio",39123,county,2026-03-09,case_lab-confirmed,1
 "Park, Wyoming",56029,county,2025-12-19,case_lab-confirmed,1
 "Parmer, Texas",48369,county,2025-04-18,case_lab-confirmed,4
 "Parmer, Texas",48369,county,2025-05-06,case_lab-confirmed,1
@@ -615,15 +630,14 @@ location_name,location_id,location_type,date,outcome_type,value
 "Pawnee, Kansas",20145,county,2025-06-02,case_lab-confirmed,7
 "Pembina, North Dakota",38067,county,2026-02-09,case_lab-confirmed,1
 "Pembina, North Dakota",38067,county,2026-02-10,case_lab-confirmed,1
-"Pembina, North Dakota",38067,county,2026-02-11,case_lab-confirmed,6
+"Pembina, North Dakota",38067,county,2026-02-11,case_lab-confirmed,7
 "Pembina, North Dakota",38067,county,2026-02-13,case_lab-confirmed,3
 "Pembina, North Dakota",38067,county,2026-02-15,case_lab-confirmed,1
 "Pembina, North Dakota",38067,county,2026-02-19,case_lab-confirmed,2
 "Pembina, North Dakota",38067,county,2026-02-20,case_lab-confirmed,1
-"Pembina, North Dakota",38067,county,2026-02-24,case_lab-confirmed,2
+"Pembina, North Dakota",38067,county,2026-02-24,case_lab-confirmed,3
 "Pembina, North Dakota",38067,county,2026-02-25,case_lab-confirmed,2
-"Pembina, North Dakota",38067,county,2026-03-05,case_lab-confirmed,1
-"Pembina, North Dakota",38067,county,2026-03-12,case_lab-confirmed,1
+"Pembina, North Dakota",38067,county,2026-03-05,case_lab-confirmed,2
 "Pennington, South Dakota",46103,county,2025-05-31,case_lab-confirmed,1
 "Pennington, South Dakota",46103,county,2025-06-07,case_lab-confirmed,1
 "Penobscot, Maine",23019,county,2026-02-06,case_lab-confirmed,1
@@ -677,10 +691,10 @@ location_name,location_id,location_type,date,outcome_type,value
 "Rockland, New York",36087,county,2025-12-16,case_lab-confirmed,1
 "Rockland, New York",36087,county,2025-12-19,case_lab-confirmed,3
 "Rockland, New York",36087,county,2026-03-02,case_lab-confirmed,3
+"Rockland, New York",36087,county,2026-03-13,case_lab-confirmed,1
 "Rockwall, Texas",48397,county,2025-03-20,case_lab-confirmed,1
 "Rockwall, Texas",48397,county,2025-04-23,case_lab-confirmed,1
 "Rockwall, Texas",48397,county,2026-02-23,case_lab-confirmed,6
-"Rockwall, Texas",48397,county,2026-03-13,case_lab-confirmed,6
 "Rutherford, North Carolina",37161,county,2025-01-23,case_lab-confirmed,1
 "Sacramento, California",6067,county,2025-06-16,case_lab-confirmed,1
 "Sacramento, California",6067,county,2026-03-04,case_lab-confirmed,2
@@ -699,6 +713,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Salt Lake, Utah",49035,county,2026-02-24,case_lab-confirmed,2
 "Salt Lake, Utah",49035,county,2026-03-03,case_lab-confirmed,10
 "Salt Lake, Utah",49035,county,2026-03-10,case_lab-confirmed,4
+"Salt Lake, Utah",49035,county,2026-03-17,case_lab-confirmed,4
 "San Diego, California",6073,county,2025-08-11,case_lab-confirmed,1
 "San Juan, New Mexico",35045,county,2025-06-03,case_lab-confirmed,1
 "San Juan, Utah",49037,county,2026-02-03,case_lab-confirmed,3
@@ -771,6 +786,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Southwest Health District, Utah",0,county,2026-02-24,case_lab-confirmed,3
 "Southwest Health District, Utah",0,county,2026-03-03,case_lab-confirmed,6
 "Southwest Health District, Utah",0,county,2026-03-10,case_lab-confirmed,5
+"Southwest Health District, Utah",0,county,2026-03-17,case_lab-confirmed,11
 "Southwest Region, Virginia",,county,2026-03-06,case_lab-confirmed,3
 "Southwest Region, Virginia",,county,2026-03-13,case_lab-confirmed,1
 "Spokane, Washington",53063,county,2025-08-25,case_lab-confirmed,1
@@ -785,6 +801,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Stevens, Washington",53065,county,2026-02-13,case_lab-confirmed,2
 "Suffolk, New York",36103,county,2025-03-11,case_lab-confirmed,1
 "Summit, Utah",49043,county,2026-01-13,case_lab-confirmed,1
+"Summit, Utah",49043,county,2026-03-17,case_lab-confirmed,2
 "Sumter, South Carolina",45085,county,2025-11-25,case_lab-confirmed,3
 "Taney, Missouri",29213,county,2025-04-18,case_lab-confirmed,1
 "Tarrant, Texas",48439,county,2025-05-06,case_lab-confirmed,2
@@ -812,6 +829,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Travis, Texas",48453,county,2025-05-02,case_lab-confirmed,1
 "Tricounty, Utah",0,county,2026-03-03,case_lab-confirmed,2
 "Tricounty, Utah",0,county,2026-03-10,case_lab-confirmed,3
+"Tricounty, Utah",0,county,2026-03-17,case_lab-confirmed,8
 "Tulare, California",6107,county,2025-07-22,case_lab-confirmed,1
 "Tulare, California",6107,county,2025-07-24,case_lab-confirmed,1
 "Tuolumne, California",6109,county,2025-03-19,case_lab-confirmed,2
@@ -822,7 +840,6 @@ location_name,location_id,location_type,date,outcome_type,value
 "Unknown County, California",6,county,2025-10-13,case_lab-confirmed,1
 "Unknown County, California",6,county,2025-12-08,case_lab-confirmed,1
 "Unknown County, California",6,county,2026-01-06,case_lab-confirmed,1
-"Unknown County, California",6,county,2026-02-23,case_lab-confirmed,1
 "Unknown County, Idaho",16,county,2025-09-30,case_lab-confirmed,2
 "Unknown County, Illinois",17,county,2025-10-22,case_lab-confirmed,2
 "Unknown County, Illinois",17,county,2026-02-18,case_lab-confirmed,1
@@ -863,6 +880,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Unknown County, Oklahoma",40109,county,2025-06-13,case_lab-confirmed,1
 "Unknown County, Oklahoma",40109,county,2026-01-30,case_lab-confirmed,1
 "Unknown County, Oregon",41,county,2026-01-29,case_lab-confirmed,2
+"Unknown County, Oregon",41,county,2026-03-19,case_lab-confirmed,4
 "Unknown County, Pennsylvania",42,county,2025-08-21,case_lab-confirmed,1
 "Unknown County, Texas",48,county,2025-10-30,case_lab-confirmed,1
 "Unknown County, Vermont",,county,2025-08-28,case_lab-confirmed,1
@@ -917,6 +935,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Upstate, South Carolina",0,county,2026-03-06,case_lab-confirmed,1
 "Upstate, South Carolina",0,county,2026-03-10,case_lab-confirmed,2
 "Upstate, South Carolina",0,county,2026-03-13,case_lab-confirmed,3
+"Upstate, South Carolina",0,county,2026-03-17,case_lab-confirmed,1
 "Utah, Utah",49049,county,2025-06-20,case_lab-confirmed,1
 "Utah, Utah",49049,county,2025-06-24,case_lab-confirmed,1
 "Utah, Utah",49049,county,2025-06-26,case_lab-confirmed,1
@@ -935,6 +954,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Utah, Utah",49049,county,2026-02-24,case_lab-confirmed,5
 "Utah, Utah",49049,county,2026-03-03,case_lab-confirmed,4
 "Utah, Utah",49049,county,2026-03-10,case_lab-confirmed,17
+"Utah, Utah",49049,county,2026-03-17,case_lab-confirmed,8
 "Walsh, North Dakota",38099,county,2026-02-19,case_lab-confirmed,1
 "Wasatch, Utah",49051,county,2025-11-25,case_lab-confirmed,8
 "Wasatch, Utah",49051,county,2025-12-09,case_lab-confirmed,1
@@ -942,10 +962,14 @@ location_name,location_id,location_type,date,outcome_type,value
 "Washington, Minnesota",27163,county,2025-06-02,case_lab-confirmed,1
 "Washington, Vermont",50023,county,2026-02-12,case_lab-confirmed,1
 "Washoe, Nevada",32031,county,2025-12-27,case_lab-confirmed,1
+"Washtenaw, Michigan",26161,county,2026-03-11,case_lab-confirmed,1
+"Washtenaw, Michigan",26161,county,2026-03-12,case_lab-confirmed,1
+"Washtenaw, Michigan",26161,county,2026-03-19,case_lab-confirmed,1
 "Waukesha, Wisconsin",55133,county,2026-01-18,case_lab-confirmed,1
 "Weber-Morgan, Utah",49057,county,2026-01-20,case_lab-confirmed,2
 "Weld, Colorado",8123,county,2025-12-15,case_lab-confirmed,1
 "Weld, Colorado",8123,county,2026-03-06,case_lab-confirmed,1
+"Weld, Colorado",8123,county,2026-03-18,case_lab-confirmed,1
 "Western, Iowa",19,county,2025-07-22,case_lab-confirmed,1
 "Whatcom, Washington",53073,county,2025-06-20,case_lab-confirmed,1
 "Whatcom, Washington",53073,county,2025-06-23,case_lab-confirmed,1
