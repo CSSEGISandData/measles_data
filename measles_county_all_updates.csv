@@ -119,6 +119,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Central, Utah",0,county,2026-03-17,case_lab-confirmed,1
 "Central, Utah",0,county,2026-03-24,case_lab-confirmed,7
 "Central, Utah",0,county,2026-03-31,case_lab-confirmed,10
+"Central, Utah",0,county,2026-04-07,case_lab-confirmed,4
 "Chaves, New Mexico",35005,county,2025-04-08,case_lab-confirmed,1
 "Chester, Pennsylvania",42029,county,2026-02-17,case_lab-confirmed,1
 "Clackamas, Oregon",41005,county,2026-01-16,case_lab-confirmed,1
@@ -391,6 +392,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Holmes, Ohio",39075,county,2025-04-02,case_lab-confirmed,1
 "Honolulu, Hawaii",15003,county,2025-04-08,case_lab-confirmed,1
 "Honolulu, Hawaii",15003,county,2025-04-17,case_lab-confirmed,1
+"Honolulu, Hawaii",15003,county,2026-03-07,case_lab-confirmed,1
 "Howard, Maryland",24027,county,2025-03-09,case_lab-confirmed,1
 "Hudson, New Jersey",34017,county,2025-07-03,case_lab-confirmed,1
 "Hudson, New Jersey",34017,county,2025-08-22,case_lab-confirmed,1
@@ -398,6 +400,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Hudspeth, Texas",48229,county,2026-03-18,case_lab-confirmed,9
 "Hudspeth, Texas",48229,county,2026-03-25,case_lab-confirmed,22
 "Hudspeth, Texas",48229,county,2026-04-01,case_lab-confirmed,5
+"Hudspeth, Texas",48229,county,2026-04-08,case_lab-confirmed,1
 "Ingham, Michigan",26065,county,2025-04-15,case_lab-confirmed,1
 "Jackson, Missouri",29095,county,2026-03-03,case_lab-confirmed,1
 "Jefferson, Kentucky",21111,county,2025-07-14,case_lab-confirmed,1
@@ -419,6 +422,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "King, Washington",53033,county,2026-04-01,case_lab-confirmed,2
 "Kiowa, Kansas",20097,county,2025-03-31,case_lab-confirmed,6
 "Kittitas, Washington",53037,county,2026-01-16,case_lab-confirmed,1
+"Kittitas, Washington",53037,county,2026-04-09,case_lab-confirmed,1
 "Knox, Ohio",39083,county,2025-03-31,case_lab-confirmed,6
 "Knox, Ohio",39083,county,2025-04-02,case_lab-confirmed,1
 "Knox, Ohio",39083,county,2025-04-06,case_lab-confirmed,1
@@ -574,6 +578,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Mohave, Arizona",4015,county,2026-03-17,case_lab-confirmed,2
 "Mohave, Arizona",4015,county,2026-03-24,case_lab-confirmed,1
 "Mohave, Arizona",4015,county,2026-03-31,case_lab-confirmed,10
+"Mohave, Arizona",4015,county,2026-04-07,case_lab-confirmed,1
 "Monroe, Michigan",26115,county,2026-04-02,case_lab-confirmed,1
 "Montcalm, Michigan",26117,county,2025-04-10,case_lab-confirmed,1
 "Montcalm, Michigan",26117,county,2025-04-17,case_lab-confirmed,2
@@ -700,7 +705,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Randall, Texas",48381,county,2025-05-23,case_lab-confirmed,1
 "Ransom, North Dakota",38073,county,2026-03-23,case_lab-confirmed,1
 "Ransom, North Dakota",38073,county,2026-03-30,case_lab-confirmed,1
-"Ransom, North Dakota",38073,county,2026-03-31,case_lab-confirmed,1
+"Ransom, North Dakota",38073,county,2026-03-31,case_lab-confirmed,2
 "Ransom, North Dakota",38073,county,2026-04-01,case_lab-confirmed,2
 "Reeves, Texas",48389,county,2025-04-15,case_lab-confirmed,1
 "Reeves, Texas",48389,county,2025-05-30,case_lab-confirmed,1
@@ -728,6 +733,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Rutherford, North Carolina",37161,county,2025-01-23,case_lab-confirmed,1
 "Sacramento, California",6067,county,2025-06-16,case_lab-confirmed,1
 "Sacramento, California",6067,county,2026-03-04,case_lab-confirmed,2
+"Sacramento, California",6067,county,2026-04-06,case_lab-confirmed,2
 "Saguache, Colorado",8109,county,2026-03-30,case_lab-confirmed,1
 "Saline, Arkansas",5125,county,2025-04-10,case_lab-confirmed,1
 "Salt Lake, Utah",49035,county,2025-11-18,case_lab-confirmed,1
@@ -747,6 +753,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Salt Lake, Utah",49035,county,2026-03-17,case_lab-confirmed,4
 "Salt Lake, Utah",49035,county,2026-03-24,case_lab-confirmed,1
 "Salt Lake, Utah",49035,county,2026-03-31,case_lab-confirmed,7
+"Salt Lake, Utah",49035,county,2026-04-07,case_lab-confirmed,2
 "San Diego, California",6073,county,2025-08-11,case_lab-confirmed,1
 "San Juan, New Mexico",35045,county,2025-06-03,case_lab-confirmed,1
 "San Juan, Utah",49037,county,2026-02-03,case_lab-confirmed,3
@@ -824,6 +831,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Southwest Health District, Utah",0,county,2026-03-17,case_lab-confirmed,11
 "Southwest Health District, Utah",0,county,2026-03-24,case_lab-confirmed,14
 "Southwest Health District, Utah",0,county,2026-03-31,case_lab-confirmed,9
+"Southwest Health District, Utah",0,county,2026-04-07,case_lab-confirmed,7
 "Southwest Region, Virginia",,county,2026-03-06,case_lab-confirmed,3
 "Southwest Region, Virginia",,county,2026-03-13,case_lab-confirmed,1
 "Southwest Region, Virginia",,county,2026-03-25,case_lab-confirmed,2
@@ -865,6 +873,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Tooele, Utah",49045,county,2026-02-24,case_lab-confirmed,4
 "Tooele, Utah",49045,county,2026-03-10,case_lab-confirmed,5
 "Tooele, Utah",49045,county,2026-03-24,case_lab-confirmed,5
+"Tooele, Utah",49045,county,2026-04-07,case_lab-confirmed,2
 "Traill, North Dakota",38097,county,2026-03-05,case_lab-confirmed,1
 "Travis, Texas",48453,county,2025-03-20,case_lab-confirmed,1
 "Travis, Texas",48453,county,2025-05-02,case_lab-confirmed,1
@@ -873,6 +882,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Tricounty, Utah",0,county,2026-03-17,case_lab-confirmed,8
 "Tricounty, Utah",0,county,2026-03-24,case_lab-confirmed,10
 "Tricounty, Utah",0,county,2026-03-31,case_lab-confirmed,33
+"Tricounty, Utah",0,county,2026-04-07,case_lab-confirmed,3
 "Tulare, California",6107,county,2025-07-22,case_lab-confirmed,1
 "Tulare, California",6107,county,2025-07-24,case_lab-confirmed,1
 "Tuolumne, California",6109,county,2025-03-19,case_lab-confirmed,2
@@ -882,7 +892,6 @@ location_name,location_id,location_type,date,outcome_type,value
 "Unknown County, California",6,county,2025-06-16,case_lab-confirmed,1
 "Unknown County, California",6,county,2025-10-13,case_lab-confirmed,1
 "Unknown County, California",6,county,2025-12-08,case_lab-confirmed,1
-"Unknown County, California",6,county,2026-01-06,case_lab-confirmed,1
 "Unknown County, Idaho",16,county,2025-09-30,case_lab-confirmed,2
 "Unknown County, Illinois",17,county,2025-10-22,case_lab-confirmed,2
 "Unknown County, Illinois",17,county,2026-02-18,case_lab-confirmed,1
@@ -928,6 +937,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Unknown County, Oregon",41,county,2026-03-19,case_lab-confirmed,4
 "Unknown County, Oregon",41,county,2026-03-26,case_lab-confirmed,1
 "Unknown County, Oregon",41,county,2026-04-02,case_lab-confirmed,2
+"Unknown County, Oregon",41,county,2026-04-09,case_lab-confirmed,1
 "Unknown County, Pennsylvania",42,county,2025-08-21,case_lab-confirmed,1
 "Unknown County, Texas",48,county,2025-10-30,case_lab-confirmed,1
 "Unknown County, Vermont",,county,2025-08-28,case_lab-confirmed,1
@@ -1004,6 +1014,8 @@ location_name,location_id,location_type,date,outcome_type,value
 "Utah, Utah",49049,county,2026-03-17,case_lab-confirmed,8
 "Utah, Utah",49049,county,2026-03-24,case_lab-confirmed,3
 "Utah, Utah",49049,county,2026-03-31,case_lab-confirmed,9
+"Utah, Utah",49049,county,2026-04-07,case_lab-confirmed,6
+"Walla Walla, Washington",53071,county,2026-04-09,case_lab-confirmed,1
 "Walsh, North Dakota",38099,county,2026-02-19,case_lab-confirmed,1
 "Wasatch, Utah",49051,county,2025-11-25,case_lab-confirmed,8
 "Wasatch, Utah",49051,county,2025-12-09,case_lab-confirmed,1
@@ -1020,6 +1032,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Weld, Colorado",8123,county,2025-12-15,case_lab-confirmed,1
 "Weld, Colorado",8123,county,2026-03-06,case_lab-confirmed,1
 "Weld, Colorado",8123,county,2026-03-18,case_lab-confirmed,1
+"Weld, Colorado",8123,county,2026-04-08,case_lab-confirmed,2
 "Western, Iowa",19,county,2025-07-22,case_lab-confirmed,1
 "Whatcom, Washington",53073,county,2025-06-20,case_lab-confirmed,1
 "Whatcom, Washington",53073,county,2025-06-23,case_lab-confirmed,1
