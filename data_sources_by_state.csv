@@ -108,6 +108,7 @@ Maine,https://www.maine.gov/dhhs/news/maine-cdc-announces-another-four-measles-c
 Maine,https://www.maine.gov/dhhs/news/maine-cdc-confirms-case-measles-maine-2026-02-06
 Maryland,https://health.maryland.gov/newsroom/Pages/One%20case%20of%20measles%20confirmed%20in%20Maryland%20resident%20with%20recent%20international%20travel.aspx
 Maryland,https://health.maryland.gov/newsroom/Pages/One-Case-of-Measles-Confirmed-in-Maryland.aspx
+Maryland,https://health.maryland.gov/newsroom/Pages/Two%20cases%20of%20measles%20confirmed%20in%20Maryland%20residents%20with%20recent%20out%20of%20state%20travel.aspx
 Maryland,https://health.maryland.gov/newsroom/Pages/Two-cases-of-measles-confirmed-in-Maryland-residents-with-recent-international-travel.aspx
 Massachusetts,https://www.mass.gov/news/state-public-health-officials-announce-first-two-confirmed-measles-cases-in-massachusetts-this-year
 Michigan,https://cms4files.revize.com/marquettemi/HealthDept/NewsRelease/PressReleaseMeaslesMQT.pdf
@@ -217,6 +218,8 @@ Pennsylvania,https://www.pennlive.com/health/2025/03/2-cases-of-measles-reported
 Pennsylvania,https://www.pennlive.com/news/2025/12/pa-confirms-16-cases-of-measles-in-2025-as-officials-monitor-outbreaks-in-other-states.html
 Pennsylvania,https://www.phila.gov/2025-04-11-health-department-issues-notification-about-potential-measles-exposure-4/
 Rhode Island,https://www.ri.gov/press/view/48669
+Rhode Island,https://www.ri.gov/press/view/50752
+Rhode Island,https://www.ri.gov/press/view/50787
 South Carolina,https://dph.sc.gov/diseases-conditions/infectious-diseases/measles-rubeola/2025-measles-outbreak
 South Carolina,https://dph.sc.gov/diseases-conditions/infectious-diseases/measles-rubeola/measles-dashboard
 South Carolina,https://dph.sc.gov/news/dph-announces-measles-case-midlands-unrelated-upstate-outbreak
@@ -228,34 +231,28 @@ South Carolina,https://dph.sc.gov/news/friday-measles-update-dph-confirms-additi
 South Carolina,https://dph.sc.gov/news/friday-measles-update-dph-increases-measles-case-count-four-37-total-2025-34-related-upstate
 South Carolina,https://dph.sc.gov/news/friday-measles-update-dph-reports-124-new-measles-cases-upstate-bringing-outbreak-total-558
 South Carolina,https://dph.sc.gov/news/friday-measles-update-dph-reports-15-new-measles-cases-upstate-bringing-outbreak-total-126-11
-South Carolina,https://dph.sc.gov/news/friday-measles-update-dph-reports-17-new-measles-cases-upstate-bringing-outbreak-total-950
 South Carolina,https://dph.sc.gov/news/friday-measles-update-dph-reports-44-new-measles-cases-upstate-bringing-outbreak-total-920
 South Carolina,https://dph.sc.gov/news/friday-measles-update-dph-reports-54-new-measles-cases-upstate-bringing-outbreak-total-700
 South Carolina,https://dph.sc.gov/news/friday-measles-update-dph-reports-8-new-measles-cases-upstate-bringing-outbreak-total-84
 South Carolina,https://dph.sc.gov/news/friday-measles-update-dph-reports-9-new-measles-cases-upstate-bringing-outbreak-total-144
 South Carolina,https://dph.sc.gov/news/friday-measles-update-dph-reports-99-new-measles-cases-upstate-bringing-outbreak-total-310
-South Carolina,https://dph.sc.gov/news/friday-measles-update-dph-reports-one-new-measles-case-upstate-bringing-outbreak-total-991
 South Carolina,https://dph.sc.gov/news/friday-measles-update-dph-reports-seven-new-measles-cases-upstate-bringing-outbreak-total-62
-South Carolina,https://dph.sc.gov/news/friday-measles-update-dph-reports-three-new-measles-case-upstate-bringing-outbreak-total-996
 South Carolina,https://dph.sc.gov/news/friday-measles-update-dph-reports-three-new-measles-cases-upstate-bringing-outbreak-total-156
 South Carolina,https://dph.sc.gov/news/friday-update-dph-increases-measles-case-count-19-total-2025-15-related-upstate-outbreak
 South Carolina,https://dph.sc.gov/news/friday-update-dph-increases-measles-case-count-25-total-2025-22-related-upstate-outbreak
 South Carolina,https://dph.sc.gov/news/tuesday-measles-update-dph-increases-measles-case-count-16-total-2025-12-related-upstate
 South Carolina,https://dph.sc.gov/news/tuesday-measles-update-dph-increases-measles-case-count-eight-33-total-2025-30-related-upstate
 South Carolina,https://dph.sc.gov/news/tuesday-measles-update-dph-increases-measles-case-count-four-23-total-2025-20-now-related
-South Carolina,https://dph.sc.gov/news/tuesday-measles-update-dph-reports-12-new-measles-cases-bringing-outbreak-total-962-additional
 South Carolina,https://dph.sc.gov/news/tuesday-measles-update-dph-reports-124-new-measles-cases-upstate-new-public-exposures-and
 South Carolina,https://dph.sc.gov/news/tuesday-measles-update-dph-reports-13-new-measles-cases-bringing-outbreak-total-933-case
 South Carolina,https://dph.sc.gov/news/tuesday-measles-update-dph-reports-14-new-measles-cases-upstate-bringing-outbreak-total-76
 South Carolina,https://dph.sc.gov/news/tuesday-measles-update-dph-reports-20-new-measles-cases-upstate-bringing-outbreak-total-176
 South Carolina,https://dph.sc.gov/news/tuesday-measles-update-dph-reports-27-new-measles-cases-upstate-bringing-outbreak-total-111
 South Carolina,https://dph.sc.gov/news/tuesday-measles-update-dph-reports-29-new-measles-cases-bringing-outbreak-total-876-new-case
-South Carolina,https://dph.sc.gov/news/tuesday-measles-update-dph-reports-5-new-measles-cases-bringing-outbreak-total-990-additional
 South Carolina,https://dph.sc.gov/news/tuesday-measles-update-dph-reports-88-new-measles-cases-upstate-bringing-outbreak-total-646
 South Carolina,https://dph.sc.gov/news/tuesday-measles-update-dph-reports-nine-new-measles-cases-upstate-bringing-outbreak-total-135
 South Carolina,https://dph.sc.gov/news/tuesday-measles-update-dph-reports-nine-new-measles-cases-upstate-bringing-outbreak-total-153
 South Carolina,https://dph.sc.gov/news/tuesday-measles-update-dph-reports-three-new-measles-cases-upstate-bringing-outbreak-total-55
-South Carolina,https://dph.sc.gov/news/tuesday-measles-update-dph-reports-two-new-measles-cases-bringing-outbreak-total-993
 South Dakota,https://doh.sd.gov/diseases/measles/
 South Dakota,https://doh.sd.gov/news/department-of-health-reports-first-measles-case-in-south-dakota/
 South Dakota,https://doh.sd.gov/news/public-health-notice-measles-exposure-possible-at-rapid-city-locations/

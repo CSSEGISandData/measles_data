@@ -34,6 +34,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Atascosa, Texas",48013,county,2025-04-25,case_lab-confirmed,1
 "Bailey, Texas",48017,county,2025-04-23,case_lab-confirmed,2
 "Baltimore, Maryland",24510,county,2026-04-19,case_lab-confirmed,1
+"Baltimore, Maryland",24510,county,2026-04-24,case_lab-confirmed,2
 "Bandera, Texas",48019,county,2026-03-11,case_lab-confirmed,5
 "Bear River, Utah",0,county,2025-09-22,case_lab-confirmed,1
 "Bear River, Utah",0,county,2025-09-25,case_lab-confirmed,3
@@ -72,6 +73,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Broward, Florida",12011,county,2026-01-25,case_lab-confirmed,1
 "Broward, Florida",12011,county,2026-02-21,case_lab-confirmed,1
 "Broward, Florida",12011,county,2026-03-14,case_lab-confirmed,1
+"Broward, Florida",12011,county,2026-04-25,case_lab-confirmed,2
 "Brown, South Dakota",46013,county,2026-03-14,case_lab-confirmed,1
 "Brown, Texas",48049,county,2025-04-04,case_lab-confirmed,1
 "Bryan, Georgia",13029,county,2026-02-22,case_lab-confirmed,1
@@ -123,7 +125,9 @@ location_name,location_id,location_type,date,outcome_type,value
 "Central, Utah",0,county,2026-03-31,case_lab-confirmed,10
 "Central, Utah",0,county,2026-04-07,case_lab-confirmed,4
 "Central, Utah",0,county,2026-04-21,case_lab-confirmed,2
+"Central, Utah",0,county,2026-04-28,case_lab-confirmed,13
 "Chaves, New Mexico",35005,county,2025-04-08,case_lab-confirmed,1
+"Cherokee, South Carolina",45021,county,2026-03-19,case_lab-confirmed,36
 "Chester, Pennsylvania",42029,county,2026-02-17,case_lab-confirmed,1
 "Clackamas, Oregon",41005,county,2026-01-16,case_lab-confirmed,1
 "Clackamas, Oregon",41005,county,2026-02-26,case_lab-confirmed,1
@@ -205,6 +209,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Dona Ana, New Mexico",35013,county,2025-05-02,case_lab-confirmed,1
 "Dona Ana, New Mexico",35013,county,2026-02-26,case_lab-confirmed,2
 "Dona Ana, New Mexico",35013,county,2026-03-12,case_lab-confirmed,1
+"Dunn, North Dakota",38025,county,2026-04-30,case_lab-confirmed,1
 "Duval, Florida",12031,county,2025-08-16,case_lab-confirmed,1
 "Duval, Florida",12031,county,2026-01-21,case_lab-confirmed,4
 "Duval, Florida",12031,county,2026-02-07,case_lab-confirmed,2
@@ -283,6 +288,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Franklin, Ohio",39049,county,2026-02-18,case_lab-confirmed,1
 "Franklin, Ohio",39049,county,2026-03-11,case_lab-confirmed,1
 "Fremont, Wyoming",56013,county,2025-12-18,case_lab-confirmed,5
+"Fremont, Wyoming",56013,county,2026-05-01,case_lab-confirmed,1
 "Fresno, California",6019,county,2025-03-11,case_lab-confirmed,1
 "Fresno, California",6019,county,2025-03-19,case_lab-confirmed,1
 "Frio, Texas",48163,county,2026-03-13,case_lab-confirmed,2
@@ -346,7 +352,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Grand Forks, North Dakota",38035,county,2025-05-28,case_lab-confirmed,2
 "Grand Forks, North Dakota",38035,county,2025-05-30,case_lab-confirmed,1
 "Grand Forks, North Dakota",38035,county,2026-04-12,case_lab-confirmed,1
-"Grand Forks, North Dakota",38035,county,2026-04-15,case_lab-confirmed,1
+"Grand Forks, North Dakota",38035,county,2026-04-15,case_lab-confirmed,2
 "Grand Traverse, Michigan",26055,county,2025-06-18,case_lab-confirmed,1
 "Grand Traverse, Michigan",26055,county,2025-06-20,case_lab-confirmed,1
 "Grand Traverse, Michigan",26055,county,2025-06-23,case_lab-confirmed,1
@@ -362,6 +368,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Gray, Kansas",20069,county,2025-07-02,case_lab-confirmed,2
 "Gray, Kansas",20069,county,2025-07-14,case_lab-confirmed,1
 "Greater Boston, Massachusetts",25025,county,2026-02-27,case_lab-confirmed,1
+"Greenville, South Carolina",45045,county,2026-03-19,case_lab-confirmed,8
 "Guilford, North Carolina",37081,county,2025-06-24,case_lab-confirmed,1
 "Hale, Texas",48189,county,2025-03-20,case_lab-confirmed,1
 "Hale, Texas",48189,county,2025-04-04,case_lab-confirmed,2
@@ -391,6 +398,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Hill, Montana",30041,county,2025-06-06,case_lab-confirmed,1
 "Hillsborough, Florida",12057,county,2026-01-08,case_lab-confirmed,1
 "Hillsborough, Florida",12057,county,2026-02-07,case_lab-confirmed,1
+"Hillsborough, Florida",12057,county,2026-04-25,case_lab-confirmed,1
 "Hockley, Texas",48219,county,2025-03-20,case_lab-confirmed,1
 "Hockley, Texas",48219,county,2025-03-31,case_lab-confirmed,1
 "Hockley, Texas",48219,county,2025-04-04,case_lab-confirmed,1
@@ -435,6 +443,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Kittitas, Washington",53037,county,2026-04-03,case_lab-confirmed,1
 "Kittitas, Washington",53037,county,2026-04-13,case_lab-confirmed,2
 "Kittitas, Washington",53037,county,2026-04-14,case_lab-confirmed,1
+"Kittitas, Washington",53037,county,2026-04-29,case_lab-confirmed,2
 "Knox, Ohio",39083,county,2025-03-31,case_lab-confirmed,6
 "Knox, Ohio",39083,county,2025-04-02,case_lab-confirmed,1
 "Knox, Ohio",39083,county,2025-04-06,case_lab-confirmed,1
@@ -535,6 +544,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Maricopa, Arizona",4013,county,2026-02-17,case_lab-confirmed,1
 "Maricopa, Arizona",4013,county,2026-04-14,case_lab-confirmed,1
 "Maricopa, Arizona",4013,county,2026-04-21,case_lab-confirmed,4
+"Maricopa, Arizona",4013,county,2026-04-28,case_lab-confirmed,1
 "Marquette, Michigan",26103,county,2025-05-30,case_lab-confirmed,1
 "Marquette, Michigan",26103,county,2025-06-02,case_lab-confirmed,1
 "Martin, Texas",48317,county,2025-02-25,case_lab-confirmed,3
@@ -582,8 +592,8 @@ location_name,location_id,location_type,date,outcome_type,value
 "Mohave, Arizona",4015,county,2025-12-16,case_lab-confirmed,14
 "Mohave, Arizona",4015,county,2025-12-23,case_lab-confirmed,5
 "Mohave, Arizona",4015,county,2025-12-30,case_lab-confirmed,9
-"Mohave, Arizona",4015,county,2025-12-31,case_lab-confirmed,14
-"Mohave, Arizona",4015,county,2026-01-13,case_lab-confirmed,3
+"Mohave, Arizona",4015,county,2025-12-31,case_lab-confirmed,15
+"Mohave, Arizona",4015,county,2026-01-13,case_lab-confirmed,2
 "Mohave, Arizona",4015,county,2026-01-20,case_lab-confirmed,5
 "Mohave, Arizona",4015,county,2026-01-27,case_lab-confirmed,9
 "Mohave, Arizona",4015,county,2026-02-03,case_lab-confirmed,8
@@ -647,6 +657,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Northwest Region, Virginia",0,county,2025-05-23,case_lab-confirmed,1
 "Northwest Region, Virginia",0,county,2025-06-05,case_lab-confirmed,1
 "Northwest Region, Virginia",0,county,2026-04-21,case_lab-confirmed,2
+"Northwest Region, Virginia",0,county,2026-04-29,case_lab-confirmed,2
 "Oakland, Michigan",26125,county,2025-03-14,case_lab-confirmed,1
 "Oakland, Michigan",26125,county,2025-12-16,case_lab-confirmed,1
 "Ocean, New Jersey",34029,county,2025-07-10,case_lab-confirmed,1
@@ -672,6 +683,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Osceola, Michigan",26133,county,2025-07-31,case_lab-confirmed,5
 "Ottawa, Michigan",26139,county,2026-04-23,case_lab-confirmed,1
 "Ottawa, Ohio",39123,county,2026-03-09,case_lab-confirmed,1
+"Palm Beach, Florida",12099,county,2026-04-25,case_lab-confirmed,1
 "Park, Wyoming",56029,county,2025-12-19,case_lab-confirmed,1
 "Parmer, Texas",48369,county,2025-04-18,case_lab-confirmed,4
 "Parmer, Texas",48369,county,2025-05-06,case_lab-confirmed,1
@@ -695,11 +707,13 @@ location_name,location_id,location_type,date,outcome_type,value
 "Penobscot, Maine",23019,county,2026-02-17,case_lab-confirmed,4
 "Philadelphia, Pennsylvania",42101,county,2025-03-31,case_lab-confirmed,1
 "Philadelphia, Pennsylvania",42101,county,2025-04-11,case_lab-confirmed,1
+"Pickens, South Carolina",45077,county,2026-03-19,case_lab-confirmed,6
 "Pima, Arizona",4019,county,2025-12-31,case_lab-confirmed,1
 "Pima, Arizona",4019,county,2026-01-20,case_lab-confirmed,1
 "Pima, Arizona",4019,county,2026-02-10,case_lab-confirmed,1
 "Pinal, Arizona",4021,county,2026-01-20,case_lab-confirmed,2
 "Pinal, Arizona",4021,county,2026-01-27,case_lab-confirmed,1
+"Pinal, Arizona",4021,county,2026-04-28,case_lab-confirmed,1
 "Pinellas, Florida",12103,county,2026-02-07,case_lab-confirmed,1
 "Pinellas, Florida",12103,county,2026-02-14,case_lab-confirmed,2
 "Pinellas, Florida",12103,county,2026-02-21,case_lab-confirmed,2
@@ -717,6 +731,8 @@ location_name,location_id,location_type,date,outcome_type,value
 "Potter, Texas",48375,county,2025-04-18,case_lab-confirmed,1
 "Prince George's, Maryland",24033,county,2025-03-10,case_lab-confirmed,2
 "Providence, Rhode Island",44007,county,2025-01-18,case_lab-confirmed,1
+"Providence, Rhode Island",44007,county,2026-04-18,case_lab-confirmed,1
+"Providence, Rhode Island",44007,county,2026-04-25,case_lab-confirmed,1
 "Pueblo, Colorado",8101,county,2025-03-31,case_lab-confirmed,1
 "Putnam, Indiana",18133,county,2025-07-08,case_lab-confirmed,1
 "Putnam, New York",36079,county,2025-06-03,case_lab-confirmed,1
@@ -737,6 +753,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Riverside, California",6065,county,2025-04-03,case_lab-confirmed,1
 "Riverside, California",6065,county,2026-02-09,case_lab-confirmed,1
 "Riverside, California",6065,county,2026-02-13,case_lab-confirmed,2
+"Riverside, California",6065,county,2026-04-27,case_lab-confirmed,2
 "Rockland, New York",36087,county,2025-08-25,case_lab-confirmed,1
 "Rockland, New York",36087,county,2025-10-24,case_lab-confirmed,1
 "Rockland, New York",36087,county,2025-11-07,case_lab-confirmed,1
@@ -758,6 +775,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Sacramento, California",6067,county,2026-04-06,case_lab-confirmed,2
 "Sacramento, California",6067,county,2026-04-13,case_lab-confirmed,4
 "Sacramento, California",6067,county,2026-04-20,case_lab-confirmed,3
+"Sacramento, California",6067,county,2026-04-27,case_lab-confirmed,1
 "Saguache, Colorado",8109,county,2026-03-30,case_lab-confirmed,1
 "Saline, Arkansas",5125,county,2025-04-10,case_lab-confirmed,1
 "Salt Lake, Utah",49035,county,2025-11-18,case_lab-confirmed,1
@@ -860,9 +878,46 @@ location_name,location_id,location_type,date,outcome_type,value
 "Southwest Health District, Utah",0,county,2026-04-07,case_lab-confirmed,7
 "Southwest Health District, Utah",0,county,2026-04-14,case_lab-confirmed,7
 "Southwest Health District, Utah",0,county,2026-04-21,case_lab-confirmed,2
+"Southwest Health District, Utah",0,county,2026-04-28,case_lab-confirmed,2
 "Southwest Region, Virginia",,county,2026-03-06,case_lab-confirmed,3
 "Southwest Region, Virginia",,county,2026-03-13,case_lab-confirmed,1
 "Southwest Region, Virginia",,county,2026-03-25,case_lab-confirmed,2
+"Spartanburg, South Carolina",0,county,2025-09-08,case_lab-confirmed,1
+"Spartanburg, South Carolina",0,county,2025-09-26,case_lab-confirmed,1
+"Spartanburg, South Carolina",0,county,2025-10-02,case_lab-confirmed,4
+"Spartanburg, South Carolina",0,county,2025-10-07,case_lab-confirmed,2
+"Spartanburg, South Carolina",0,county,2025-10-14,case_lab-confirmed,6
+"Spartanburg, South Carolina",0,county,2025-10-17,case_lab-confirmed,1
+"Spartanburg, South Carolina",0,county,2025-10-21,case_lab-confirmed,4
+"Spartanburg, South Carolina",0,county,2025-10-24,case_lab-confirmed,2
+"Spartanburg, South Carolina",0,county,2025-10-28,case_lab-confirmed,8
+"Spartanburg, South Carolina",0,county,2025-10-31,case_lab-confirmed,4
+"Spartanburg, South Carolina",0,county,2025-11-07,case_lab-confirmed,1
+"Spartanburg, South Carolina",0,county,2025-11-14,case_lab-confirmed,10
+"Spartanburg, South Carolina",0,county,2025-11-21,case_lab-confirmed,8
+"Spartanburg, South Carolina",0,county,2025-11-25,case_lab-confirmed,3
+"Spartanburg, South Carolina",0,county,2025-11-28,case_lab-confirmed,7
+"Spartanburg, South Carolina",0,county,2025-12-03,case_lab-confirmed,14
+"Spartanburg, South Carolina",0,county,2025-12-05,case_lab-confirmed,8
+"Spartanburg, South Carolina",0,county,2025-12-09,case_lab-confirmed,27
+"Spartanburg, South Carolina",0,county,2025-12-12,case_lab-confirmed,15
+"Spartanburg, South Carolina",0,county,2025-12-16,case_lab-confirmed,9
+"Spartanburg, South Carolina",0,county,2025-12-19,case_lab-confirmed,9
+"Spartanburg, South Carolina",0,county,2025-12-23,case_lab-confirmed,9
+"Spartanburg, South Carolina",0,county,2025-12-26,case_lab-confirmed,3
+"Spartanburg, South Carolina",0,county,2025-12-30,case_lab-confirmed,20
+"Spartanburg, South Carolina",0,county,2025-12-31,case_lab-confirmed,123
+"Spartanburg, South Carolina",0,county,2026-01-09,case_lab-confirmed,11
+"Spartanburg, South Carolina",0,county,2026-01-13,case_lab-confirmed,124
+"Spartanburg, South Carolina",0,county,2026-01-16,case_lab-confirmed,124
+"Spartanburg, South Carolina",0,county,2026-01-20,case_lab-confirmed,88
+"Spartanburg, South Carolina",0,county,2026-01-23,case_lab-confirmed,54
+"Spartanburg, South Carolina",0,county,2026-01-27,case_lab-confirmed,89
+"Spartanburg, South Carolina",0,county,2026-01-30,case_lab-confirmed,58
+"Spartanburg, South Carolina",0,county,2026-02-03,case_lab-confirmed,29
+"Spartanburg, South Carolina",0,county,2026-02-06,case_lab-confirmed,44
+"Spartanburg, South Carolina",0,county,2026-02-10,case_lab-confirmed,13
+"Spartanburg, South Carolina",45083,county,2026-03-19,case_lab-confirmed,7
 "Spokane, Washington",53063,county,2025-08-25,case_lab-confirmed,1
 "Spokane, Washington",53063,county,2026-03-27,case_lab-confirmed,1
 "St. Johns, Florida",12109,county,2026-01-10,case_lab-confirmed,1
@@ -913,6 +968,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Tricounty, Utah",0,county,2026-04-07,case_lab-confirmed,3
 "Tricounty, Utah",0,county,2026-04-14,case_lab-confirmed,10
 "Tricounty, Utah",0,county,2026-04-21,case_lab-confirmed,1
+"Tricounty, Utah",0,county,2026-04-28,case_lab-confirmed,1
 "Tulare, California",6107,county,2025-07-22,case_lab-confirmed,1
 "Tulare, California",6107,county,2025-07-24,case_lab-confirmed,1
 "Tuolumne, California",6109,county,2025-03-19,case_lab-confirmed,2
@@ -949,6 +1005,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Unknown County, Minnesota",27,county,2026-03-12,case_lab-confirmed,2
 "Unknown County, Minnesota",27,county,2026-04-02,case_lab-confirmed,1
 "Unknown County, Minnesota",27,county,2026-04-16,case_lab-confirmed,1
+"Unknown County, Minnesota",27,county,2026-04-30,case_lab-confirmed,1
 "Unknown County, Nebraska",31,county,2025-12-31,case_lab-confirmed,1
 "Unknown County, Nebraska",31,county,2026-01-08,case_lab-confirmed,2
 "Unknown County, New Jersey",34,county,2025-08-29,case_lab-confirmed,2
@@ -970,7 +1027,9 @@ location_name,location_id,location_type,date,outcome_type,value
 "Unknown County, Oregon",41,county,2026-04-02,case_lab-confirmed,2
 "Unknown County, Oregon",41,county,2026-04-09,case_lab-confirmed,1
 "Unknown County, Oregon",41,county,2026-04-16,case_lab-confirmed,6
+"Unknown County, Oregon",41,county,2026-04-30,case_lab-confirmed,2
 "Unknown County, Pennsylvania",42,county,2025-08-21,case_lab-confirmed,1
+"Unknown County, South Carolina",45,county,2026-03-19,case_lab-confirmed,7
 "Unknown County, Texas",48,county,2025-10-30,case_lab-confirmed,1
 "Unknown County, Vermont",,county,2025-08-28,case_lab-confirmed,1
 "Upper Cumberland Region, Tennessee",0,county,2025-03-30,case_lab-confirmed,1
@@ -980,51 +1039,6 @@ location_name,location_id,location_type,date,outcome_type,value
 "Upshur, Texas",48459,county,2025-04-18,case_lab-confirmed,1
 "Upshur, Texas",48459,county,2025-04-25,case_lab-confirmed,1
 "Upshur, Texas",48459,county,2025-05-02,case_lab-confirmed,3
-"Upstate, South Carolina",0,county,2025-09-08,case_lab-confirmed,1
-"Upstate, South Carolina",0,county,2025-09-26,case_lab-confirmed,1
-"Upstate, South Carolina",0,county,2025-10-02,case_lab-confirmed,4
-"Upstate, South Carolina",0,county,2025-10-07,case_lab-confirmed,2
-"Upstate, South Carolina",0,county,2025-10-14,case_lab-confirmed,6
-"Upstate, South Carolina",0,county,2025-10-17,case_lab-confirmed,1
-"Upstate, South Carolina",0,county,2025-10-21,case_lab-confirmed,4
-"Upstate, South Carolina",0,county,2025-10-24,case_lab-confirmed,2
-"Upstate, South Carolina",0,county,2025-10-28,case_lab-confirmed,8
-"Upstate, South Carolina",0,county,2025-10-31,case_lab-confirmed,4
-"Upstate, South Carolina",0,county,2025-11-07,case_lab-confirmed,1
-"Upstate, South Carolina",0,county,2025-11-14,case_lab-confirmed,10
-"Upstate, South Carolina",0,county,2025-11-21,case_lab-confirmed,8
-"Upstate, South Carolina",0,county,2025-11-25,case_lab-confirmed,3
-"Upstate, South Carolina",0,county,2025-11-28,case_lab-confirmed,7
-"Upstate, South Carolina",0,county,2025-12-03,case_lab-confirmed,14
-"Upstate, South Carolina",0,county,2025-12-05,case_lab-confirmed,8
-"Upstate, South Carolina",0,county,2025-12-09,case_lab-confirmed,27
-"Upstate, South Carolina",0,county,2025-12-12,case_lab-confirmed,15
-"Upstate, South Carolina",0,county,2025-12-16,case_lab-confirmed,9
-"Upstate, South Carolina",0,county,2025-12-19,case_lab-confirmed,9
-"Upstate, South Carolina",0,county,2025-12-23,case_lab-confirmed,9
-"Upstate, South Carolina",0,county,2025-12-26,case_lab-confirmed,3
-"Upstate, South Carolina",0,county,2025-12-30,case_lab-confirmed,20
-"Upstate, South Carolina",0,county,2025-12-31,case_lab-confirmed,123
-"Upstate, South Carolina",0,county,2026-01-09,case_lab-confirmed,11
-"Upstate, South Carolina",0,county,2026-01-13,case_lab-confirmed,124
-"Upstate, South Carolina",0,county,2026-01-16,case_lab-confirmed,124
-"Upstate, South Carolina",0,county,2026-01-20,case_lab-confirmed,88
-"Upstate, South Carolina",0,county,2026-01-23,case_lab-confirmed,54
-"Upstate, South Carolina",0,county,2026-01-27,case_lab-confirmed,89
-"Upstate, South Carolina",0,county,2026-01-30,case_lab-confirmed,58
-"Upstate, South Carolina",0,county,2026-02-03,case_lab-confirmed,29
-"Upstate, South Carolina",0,county,2026-02-06,case_lab-confirmed,44
-"Upstate, South Carolina",0,county,2026-02-10,case_lab-confirmed,13
-"Upstate, South Carolina",0,county,2026-02-13,case_lab-confirmed,17
-"Upstate, South Carolina",0,county,2026-02-17,case_lab-confirmed,12
-"Upstate, South Carolina",0,county,2026-02-20,case_lab-confirmed,11
-"Upstate, South Carolina",0,county,2026-02-24,case_lab-confirmed,6
-"Upstate, South Carolina",0,county,2026-02-27,case_lab-confirmed,6
-"Upstate, South Carolina",0,county,2026-03-03,case_lab-confirmed,5
-"Upstate, South Carolina",0,county,2026-03-06,case_lab-confirmed,1
-"Upstate, South Carolina",0,county,2026-03-10,case_lab-confirmed,2
-"Upstate, South Carolina",0,county,2026-03-13,case_lab-confirmed,3
-"Upstate, South Carolina",0,county,2026-03-17,case_lab-confirmed,1
 "Utah, Utah",49049,county,2025-06-20,case_lab-confirmed,1
 "Utah, Utah",49049,county,2025-06-24,case_lab-confirmed,1
 "Utah, Utah",49049,county,2025-06-26,case_lab-confirmed,1
@@ -1048,7 +1062,9 @@ location_name,location_id,location_type,date,outcome_type,value
 "Utah, Utah",49049,county,2026-03-31,case_lab-confirmed,9
 "Utah, Utah",49049,county,2026-04-07,case_lab-confirmed,6
 "Utah, Utah",49049,county,2026-04-14,case_lab-confirmed,2
+"Utah, Utah",49049,county,2026-04-28,case_lab-confirmed,2
 "Walla Walla, Washington",53071,county,2026-04-09,case_lab-confirmed,1
+"Walla Walla, Washington",53071,county,2026-04-29,case_lab-confirmed,1
 "Walsh, North Dakota",38099,county,2026-02-19,case_lab-confirmed,1
 "Wasatch, Utah",49051,county,2025-11-25,case_lab-confirmed,8
 "Wasatch, Utah",49051,county,2025-12-09,case_lab-confirmed,1
