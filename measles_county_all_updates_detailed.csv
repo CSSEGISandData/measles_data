@@ -272,6 +272,9 @@ location_name,location_id,location_type,date,outcome_type,value
 "Cass, North Dakota",38017,county,2025-05-17,case_lab-confirmed,1
 "Cass, North Dakota",38017,county,2025-05-17,case_local,1
 "Cass, North Dakota",38017,county,2025-05-17,case_unvaccinated,1
+"Cass, North Dakota",38017,county,2026-05-14,case_lab-confirmed,1
+"Cass, North Dakota",38017,county,2026-05-14,case_local,1
+"Cass, North Dakota",38017,county,2026-05-14,case_unvaccinated,1
 "Cedar, Missouri",29039,county,2025-06-23,case_lab-confirmed,1
 "Cedar, Missouri",29039,county,2025-06-23,case_local,1
 "Cedar, Missouri",29039,county,2025-06-23,case_unvaccinated,1
@@ -285,6 +288,8 @@ location_name,location_id,location_type,date,outcome_type,value
 "Central Region, Virginia",0,county,2025-12-24,case_local,1
 "Central Region, Virginia",0,county,2026-01-06,case_lab-confirmed,1
 "Central Region, Virginia",0,county,2026-01-06,case_local,1
+"Central Region, Virginia",0,county,2026-05-13,case_lab-confirmed,12
+"Central Region, Virginia",0,county,2026-05-13,case_local,12
 "Central, Iowa",19,county,2025-05-23,case_lab-confirmed,1
 "Central, Iowa",19,county,2025-05-23,case_local,1
 "Central, Iowa",19,county,2025-05-23,case_unvaccinated,1
@@ -319,6 +324,8 @@ location_name,location_id,location_type,date,outcome_type,value
 "Central, Utah",0,county,2026-04-28,case_local,13
 "Central, Utah",0,county,2026-05-05,case_lab-confirmed,5
 "Central, Utah",0,county,2026-05-05,case_local,5
+"Central, Utah",0,county,2026-05-12,case_lab-confirmed,13
+"Central, Utah",0,county,2026-05-12,case_local,13
 "Chaves, New Mexico",35005,county,2025-04-08,case_lab-confirmed,1
 "Chaves, New Mexico",35005,county,2025-04-08,case_local,1
 "Cherokee, South Carolina",45021,county,2026-03-19,case_lab-confirmed,36
@@ -811,6 +818,9 @@ location_name,location_id,location_type,date,outcome_type,value
 "Grand Forks, North Dakota",38035,county,2026-04-15,case_local,2
 "Grand Forks, North Dakota",38035,county,2026-04-15,case_unvaccinated,1
 "Grand Forks, North Dakota",38035,county,2026-04-15,case_vaccinated,1
+"Grand Forks, North Dakota",38035,county,2026-05-11,case_lab-confirmed,1
+"Grand Forks, North Dakota",38035,county,2026-05-11,case_local,1
+"Grand Forks, North Dakota",38035,county,2026-05-11,case_unvaccinated,1
 "Grand Traverse, Michigan",26055,county,2025-06-18,case_lab-confirmed,1
 "Grand Traverse, Michigan",26055,county,2025-06-18,case_local,1
 "Grand Traverse, Michigan",26055,county,2025-06-20,case_lab-confirmed,1
@@ -1229,6 +1239,8 @@ location_name,location_id,location_type,date,outcome_type,value
 "Maricopa, Arizona",4013,county,2026-04-21,case_local,4
 "Maricopa, Arizona",4013,county,2026-04-28,case_lab-confirmed,1
 "Maricopa, Arizona",4013,county,2026-04-28,case_local,1
+"Maricopa, Arizona",4013,county,2026-05-12,case_lab-confirmed,4
+"Maricopa, Arizona",4013,county,2026-05-12,case_local,4
 "Marquette, Michigan",26103,county,2025-05-30,case_lab-confirmed,1
 "Marquette, Michigan",26103,county,2025-05-30,case_local,1
 "Marquette, Michigan",26103,county,2025-06-02,case_lab-confirmed,1
@@ -2005,6 +2017,8 @@ location_name,location_id,location_type,date,outcome_type,value
 "Southwest Health District, Utah",0,county,2026-04-28,case_vaccinated,2
 "Southwest Health District, Utah",0,county,2026-05-05,case_lab-confirmed,2
 "Southwest Health District, Utah",0,county,2026-05-05,case_local,2
+"Southwest Health District, Utah",0,county,2026-05-12,case_lab-confirmed,1
+"Southwest Health District, Utah",0,county,2026-05-12,case_local,1
 "Southwest Region, Virginia",,county,2026-03-06,case_lab-confirmed,3
 "Southwest Region, Virginia",,county,2026-03-06,case_local,3
 "Southwest Region, Virginia",,county,2026-03-13,case_lab-confirmed,1
@@ -2415,12 +2429,16 @@ location_name,location_id,location_type,date,outcome_type,value
 "Utah, Utah",49049,county,2026-04-28,case_local,2
 "Utah, Utah",49049,county,2026-05-05,case_lab-confirmed,2
 "Utah, Utah",49049,county,2026-05-05,case_local,2
+"Utah, Utah",49049,county,2026-05-12,case_lab-confirmed,10
+"Utah, Utah",49049,county,2026-05-12,case_local,10
 "Walla Walla, Washington",53071,county,2026-04-09,case_lab-confirmed,1
 "Walla Walla, Washington",53071,county,2026-04-09,case_local,1
 "Walla Walla, Washington",53071,county,2026-04-29,case_lab-confirmed,1
 "Walla Walla, Washington",53071,county,2026-04-29,case_local,1
 "Walla Walla, Washington",53071,county,2026-05-08,case_lab-confirmed,3
 "Walla Walla, Washington",53071,county,2026-05-08,case_local,3
+"Walla Walla, Washington",53071,county,2026-05-13,case_lab-confirmed,1
+"Walla Walla, Washington",53071,county,2026-05-13,case_local,1
 "Walsh, North Dakota",38099,county,2026-02-19,case_lab-confirmed,1
 "Walsh, North Dakota",38099,county,2026-02-19,case_local,1
 "Wasatch, Utah",49051,county,2025-11-25,case_lab-confirmed,8
@@ -2428,6 +2446,8 @@ location_name,location_id,location_type,date,outcome_type,value
 "Wasatch, Utah",49051,county,2025-11-25,case_unvaccinated,8
 "Wasatch, Utah",49051,county,2025-12-09,case_lab-confirmed,1
 "Wasatch, Utah",49051,county,2025-12-09,case_local,1
+"Wasatch, Utah",49051,county,2026-05-12,case_lab-confirmed,1
+"Wasatch, Utah",49051,county,2026-05-12,case_local,1
 "Washington, District of Columbia",11001,county,2025-06-14,case_imported,1
 "Washington, District of Columbia",11001,county,2025-06-14,case_lab-confirmed,1
 "Washington, Minnesota",27163,county,2025-06-02,case_imported,1
