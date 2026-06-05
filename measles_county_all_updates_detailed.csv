@@ -123,6 +123,8 @@ location_name,location_id,location_type,date,outcome_type,value
 "Bergen, New Jersey",34003,county,2025-02-17,case_unvaccinated,2
 "Bergen, New Jersey",34003,county,2025-09-03,case_lab-confirmed,1
 "Bergen, New Jersey",34003,county,2025-09-03,case_local,1
+"Berks, Pennsylvania",42011,county,2026-06-05,case_lab-confirmed,1
+"Berks, Pennsylvania",42011,county,2026-06-05,case_local,1
 "Bexar, Texas",48029,county,2025-07-01,case_lab-confirmed,1
 "Bexar, Texas",48029,county,2025-07-01,case_local,1
 "Bexar, Texas",48029,county,2025-08-12,case_lab-confirmed,1
@@ -298,6 +300,8 @@ location_name,location_id,location_type,date,outcome_type,value
 "Central Region, Virginia",0,county,2026-05-20,case_local,5
 "Central Region, Virginia",0,county,2026-05-28,case_lab-confirmed,24
 "Central Region, Virginia",0,county,2026-05-28,case_local,24
+"Central Region, Virginia",0,county,2026-06-02,case_lab-confirmed,27
+"Central Region, Virginia",0,county,2026-06-02,case_local,27
 "Central, Iowa",19,county,2025-05-23,case_lab-confirmed,1
 "Central, Iowa",19,county,2025-05-23,case_local,1
 "Central, Iowa",19,county,2025-05-23,case_unvaccinated,1
@@ -336,6 +340,8 @@ location_name,location_id,location_type,date,outcome_type,value
 "Central, Utah",0,county,2026-05-12,case_local,13
 "Central, Utah",0,county,2026-05-19,case_lab-confirmed,4
 "Central, Utah",0,county,2026-05-19,case_local,4
+"Central, Utah",0,county,2026-06-02,case_lab-confirmed,1
+"Central, Utah",0,county,2026-06-02,case_local,1
 "Chaves, New Mexico",35005,county,2025-04-08,case_lab-confirmed,1
 "Chaves, New Mexico",35005,county,2025-04-08,case_local,1
 "Cherokee, South Carolina",45021,county,2026-03-19,case_lab-confirmed,36
@@ -455,6 +461,8 @@ location_name,location_id,location_type,date,outcome_type,value
 "Dane, Wisconsin",55025,county,2026-01-25,case_lab-confirmed,1
 "Dauphin, Pennsylvania",42043,county,2026-05-27,case_lab-confirmed,1
 "Dauphin, Pennsylvania",42043,county,2026-05-27,case_local,1
+"Dauphin, Pennsylvania",42043,county,2026-06-05,case_lab-confirmed,1
+"Dauphin, Pennsylvania",42043,county,2026-06-05,case_local,1
 "Davis, Utah",49011,county,2025-12-02,case_lab-confirmed,1
 "Davis, Utah",49011,county,2025-12-02,case_local,1
 "Davis, Utah",49011,county,2025-12-09,case_lab-confirmed,1
@@ -495,6 +503,8 @@ location_name,location_id,location_type,date,outcome_type,value
 "Dawson, Texas",48115,county,2025-05-02,case_local,1
 "Defiance, Ohio",39039,county,2025-04-13,case_imported,1
 "Defiance, Ohio",39039,county,2025-04-13,case_lab-confirmed,1
+"Delta, Colorado",8029,county,2026-05-30,case_lab-confirmed,1
+"Delta, Colorado",8029,county,2026-05-30,case_local,1
 "Denton, Texas",48121,county,2025-05-02,case_lab-confirmed,1
 "Denton, Texas",48121,county,2025-05-02,case_local,1
 "Denton, Texas",48121,county,2025-05-23,case_lab-confirmed,1
@@ -617,6 +627,8 @@ location_name,location_id,location_type,date,outcome_type,value
 "El Paso, Texas",48141,county,2026-03-25,case_local,1
 "Erath, Texas",48143,county,2025-03-20,case_lab-confirmed,1
 "Erath, Texas",48143,county,2025-03-20,case_local,1
+"Erie, New York",36029,county,2026-06-04,case_imported,1
+"Erie, New York",36029,county,2026-06-04,case_lab-confirmed,1
 "Erie, Pennsylvania",42049,county,2025-03-25,case_imported,2
 "Erie, Pennsylvania",42049,county,2025-03-25,case_lab-confirmed,2
 "Erie, Pennsylvania",42049,county,2025-03-30,case_lab-confirmed,1
@@ -1102,6 +1114,8 @@ location_name,location_id,location_type,date,outcome_type,value
 "Lancaster, Pennsylvania",42071,county,2026-02-25,case_local,1
 "Lancaster, Pennsylvania",42071,county,2026-05-27,case_lab-confirmed,10
 "Lancaster, Pennsylvania",42071,county,2026-05-27,case_local,10
+"Lancaster, Pennsylvania",42071,county,2026-06-05,case_lab-confirmed,16
+"Lancaster, Pennsylvania",42071,county,2026-06-05,case_local,16
 "Lea, New Mexico",35025,county,2025-02-11,case_lab-confirmed,1
 "Lea, New Mexico",35025,county,2025-02-11,case_local,1
 "Lea, New Mexico",35025,county,2025-02-11,case_unvaccinated,1
@@ -1135,6 +1149,8 @@ location_name,location_id,location_type,date,outcome_type,value
 "Lebanon, Pennsylvania",42075,county,2026-05-06,case_unvaccinated,11
 "Lebanon, Pennsylvania",42075,county,2026-05-27,case_lab-confirmed,3
 "Lebanon, Pennsylvania",42075,county,2026-05-27,case_local,3
+"Lebanon, Pennsylvania",42075,county,2026-06-05,case_lab-confirmed,5
+"Lebanon, Pennsylvania",42075,county,2026-06-05,case_local,5
 "Lee, Florida",12071,county,2026-01-30,case_lab-confirmed,1
 "Lee, Florida",12071,county,2026-01-30,case_local,1
 "Lee, Florida",12071,county,2026-02-21,case_lab-confirmed,1
@@ -1231,6 +1247,8 @@ location_name,location_id,location_type,date,outcome_type,value
 "Luna, New Mexico",35029,county,2026-03-11,case_local,3
 "Luna, New Mexico",35029,county,2026-03-22,case_lab-confirmed,3
 "Luna, New Mexico",35029,county,2026-03-22,case_local,3
+"Luna, New Mexico",35029,county,2026-05-26,case_lab-confirmed,1
+"Luna, New Mexico",35029,county,2026-05-26,case_local,1
 "Lynn, Texas",48305,county,2025-02-14,case_lab-confirmed,1
 "Lynn, Texas",48305,county,2025-02-14,case_local,1
 "Lynn, Texas",48305,county,2025-02-28,case_lab-confirmed,1
@@ -2252,6 +2270,8 @@ location_name,location_id,location_type,date,outcome_type,value
 "Tricounty, Utah",0,county,2026-04-28,case_local,1
 "Tricounty, Utah",0,county,2026-05-05,case_lab-confirmed,2
 "Tricounty, Utah",0,county,2026-05-05,case_local,2
+"Tricounty, Utah",0,county,2026-06-02,case_lab-confirmed,1
+"Tricounty, Utah",0,county,2026-06-02,case_local,1
 "Tulare, California",6107,county,2025-07-22,case_lab-confirmed,1
 "Tulare, California",6107,county,2025-07-22,case_local,1
 "Tulare, California",6107,county,2025-07-22,case_unvaccinated,1
