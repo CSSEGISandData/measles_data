@@ -166,6 +166,9 @@ location_name,location_id,location_type,date,outcome_type,value
 "Brewster, Texas",48043,county,2025-05-23,case_local,1
 "Brookings, South Dakota",46011,county,2026-02-21,case_lab-confirmed,1
 "Brookings, South Dakota",46011,county,2026-02-21,case_local,1
+"Brookings, South Dakota",46011,county,2026-05-30,case_lab-confirmed,2
+"Brookings, South Dakota",46011,county,2026-05-30,case_local,2
+"Brookings, South Dakota",46011,county,2026-05-30,case_unvaccinated,2
 "Broomfield, Colorado",8014,county,2026-03-06,case_lab-confirmed,1
 "Broomfield, Colorado",8014,county,2026-03-06,case_local,1
 "Broomfield, Colorado",8014,county,2026-03-06,case_unvaccinated,1
@@ -198,8 +201,6 @@ location_name,location_id,location_type,date,outcome_type,value
 "Bucks, Pennsylvania",42017,county,2025-03-27,case_imported,1
 "Bucks, Pennsylvania",42017,county,2025-03-27,case_lab-confirmed,1
 "Bucks, Pennsylvania",42017,county,2025-03-27,case_unvaccinated,1
-"Bucks, Pennsylvania",42017,county,2026-05-27,case_lab-confirmed,1
-"Bucks, Pennsylvania",42017,county,2026-05-27,case_local,1
 "Buncombe, North Carolina",37021,county,2026-01-06,case_imported,3
 "Buncombe, North Carolina",37021,county,2026-01-06,case_lab-confirmed,3
 "Buncombe, North Carolina",37021,county,2026-01-15,case_lab-confirmed,2
@@ -302,6 +303,8 @@ location_name,location_id,location_type,date,outcome_type,value
 "Central Region, Virginia",0,county,2026-05-28,case_local,24
 "Central Region, Virginia",0,county,2026-06-02,case_lab-confirmed,27
 "Central Region, Virginia",0,county,2026-06-02,case_local,27
+"Central Region, Virginia",0,county,2026-06-11,case_lab-confirmed,20
+"Central Region, Virginia",0,county,2026-06-11,case_local,20
 "Central, Iowa",19,county,2025-05-23,case_lab-confirmed,1
 "Central, Iowa",19,county,2025-05-23,case_local,1
 "Central, Iowa",19,county,2025-05-23,case_unvaccinated,1
@@ -342,6 +345,8 @@ location_name,location_id,location_type,date,outcome_type,value
 "Central, Utah",0,county,2026-05-19,case_local,4
 "Central, Utah",0,county,2026-06-02,case_lab-confirmed,1
 "Central, Utah",0,county,2026-06-02,case_local,1
+"Central, Utah",0,county,2026-06-09,case_lab-confirmed,1
+"Central, Utah",0,county,2026-06-09,case_local,1
 "Chaves, New Mexico",35005,county,2025-04-08,case_lab-confirmed,1
 "Chaves, New Mexico",35005,county,2025-04-08,case_local,1
 "Cherokee, South Carolina",45021,county,2026-03-19,case_lab-confirmed,36
@@ -629,6 +634,8 @@ location_name,location_id,location_type,date,outcome_type,value
 "Erath, Texas",48143,county,2025-03-20,case_local,1
 "Erie, New York",36029,county,2026-06-04,case_imported,1
 "Erie, New York",36029,county,2026-06-04,case_lab-confirmed,1
+"Erie, New York",36029,county,2026-06-10,case_lab-confirmed,1
+"Erie, New York",36029,county,2026-06-10,case_local,1
 "Erie, Pennsylvania",42049,county,2025-03-25,case_imported,2
 "Erie, Pennsylvania",42049,county,2025-03-25,case_lab-confirmed,2
 "Erie, Pennsylvania",42049,county,2025-03-30,case_lab-confirmed,1
@@ -1116,6 +1123,8 @@ location_name,location_id,location_type,date,outcome_type,value
 "Lancaster, Pennsylvania",42071,county,2026-05-27,case_local,10
 "Lancaster, Pennsylvania",42071,county,2026-06-05,case_lab-confirmed,16
 "Lancaster, Pennsylvania",42071,county,2026-06-05,case_local,16
+"Lancaster, Pennsylvania",42071,county,2026-06-12,case_lab-confirmed,4
+"Lancaster, Pennsylvania",42071,county,2026-06-12,case_local,4
 "Lea, New Mexico",35025,county,2025-02-11,case_lab-confirmed,1
 "Lea, New Mexico",35025,county,2025-02-11,case_local,1
 "Lea, New Mexico",35025,county,2025-02-11,case_unvaccinated,1
@@ -1706,6 +1715,8 @@ location_name,location_id,location_type,date,outcome_type,value
 "Platte, Nebraska",31141,county,2025-12-30,case_imported,1
 "Platte, Nebraska",31141,county,2025-12-30,case_lab-confirmed,1
 "Platte, Nebraska",31141,county,2025-12-30,case_unvaccinated,1
+"Polk, Florida",12105,county,2026-06-06,case_lab-confirmed,1
+"Polk, Florida",12105,county,2026-06-06,case_local,1
 "Polk, North Carolina",37149,county,2025-12-31,case_imported,1
 "Polk, North Carolina",37149,county,2025-12-31,case_lab-confirmed,1
 "Polk, North Carolina",37149,county,2025-12-31,case_unvaccinated,1
@@ -2157,7 +2168,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Spartanburg, South Carolina",45083,county,2026-02-10,case_lab-confirmed,13
 "Spartanburg, South Carolina",45083,county,2026-02-10,case_local,13
 "Spartanburg, South Carolina",45083,county,2026-03-19,case_lab-confirmed,7
-"Spartanburg, South Carolina",45083,county,2026-03-19,case_local,12
+"Spartanburg, South Carolina",45083,county,2026-03-19,case_local,7
 "Spartanburg, South Carolina",45083,county,2026-03-19,case_unvaccinated,845
 "Spartanburg, South Carolina",45083,county,2026-03-19,case_vaccinated,44
 "Spokane, Washington",53063,county,2025-08-25,case_imported,1
@@ -2498,6 +2509,8 @@ location_name,location_id,location_type,date,outcome_type,value
 "Utah, Utah",49049,county,2026-05-19,case_local,1
 "Utah, Utah",49049,county,2026-05-26,case_lab-confirmed,1
 "Utah, Utah",49049,county,2026-05-26,case_local,1
+"Utah, Utah",49049,county,2026-06-09,case_lab-confirmed,3
+"Utah, Utah",49049,county,2026-06-09,case_local,3
 "Walla Walla, Washington",53071,county,2026-04-09,case_lab-confirmed,1
 "Walla Walla, Washington",53071,county,2026-04-09,case_local,1
 "Walla Walla, Washington",53071,county,2026-04-29,case_lab-confirmed,1
