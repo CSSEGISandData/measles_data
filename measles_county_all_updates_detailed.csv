@@ -111,6 +111,8 @@ location_name,location_id,location_type,date,outcome_type,value
 "Bear River, Utah",0,county,2026-03-31,case_local,1
 "Bear River, Utah",0,county,2026-05-19,case_lab-confirmed,1
 "Bear River, Utah",0,county,2026-05-19,case_local,1
+"Beaufort, South Carolina",45013,county,2026-06-11,case_lab-confirmed,1
+"Beaufort, South Carolina",45013,county,2026-06-11,case_local,1
 "Bell, Texas",48027,county,2025-06-17,case_lab-confirmed,1
 "Bell, Texas",48027,county,2025-06-17,case_local,1
 "Benton, Arkansas",5007,county,2025-06-16,case_lab-confirmed,1
@@ -305,6 +307,8 @@ location_name,location_id,location_type,date,outcome_type,value
 "Central Region, Virginia",0,county,2026-06-02,case_local,27
 "Central Region, Virginia",0,county,2026-06-11,case_lab-confirmed,20
 "Central Region, Virginia",0,county,2026-06-11,case_local,20
+"Central Region, Virginia",0,county,2026-06-18,case_lab-confirmed,18
+"Central Region, Virginia",0,county,2026-06-18,case_local,18
 "Central, Iowa",19,county,2025-05-23,case_lab-confirmed,1
 "Central, Iowa",19,county,2025-05-23,case_local,1
 "Central, Iowa",19,county,2025-05-23,case_unvaccinated,1
@@ -347,6 +351,8 @@ location_name,location_id,location_type,date,outcome_type,value
 "Central, Utah",0,county,2026-06-02,case_local,1
 "Central, Utah",0,county,2026-06-09,case_lab-confirmed,1
 "Central, Utah",0,county,2026-06-09,case_local,1
+"Central, Utah",0,county,2026-06-16,case_lab-confirmed,8
+"Central, Utah",0,county,2026-06-16,case_local,8
 "Chaves, New Mexico",35005,county,2025-04-08,case_lab-confirmed,1
 "Chaves, New Mexico",35005,county,2025-04-08,case_local,1
 "Cherokee, South Carolina",45021,county,2026-03-19,case_lab-confirmed,36
@@ -897,6 +903,9 @@ location_name,location_id,location_type,date,outcome_type,value
 "Hale, Texas",48189,county,2025-04-04,case_local,2
 "Hale, Texas",48189,county,2025-04-08,case_lab-confirmed,2
 "Hale, Texas",48189,county,2025-04-08,case_local,2
+"Hampton, South Carolina",45049,county,2026-06-03,case_imported,1
+"Hampton, South Carolina",45049,county,2026-06-03,case_lab-confirmed,1
+"Hampton, South Carolina",45049,county,2026-06-03,case_unvaccinated,1
 "Hardeman, Texas",48197,county,2025-05-02,case_lab-confirmed,1
 "Hardeman, Texas",48197,county,2025-05-02,case_local,1
 "Harris, Texas",48201,county,2025-01-23,case_imported,2
@@ -913,6 +922,9 @@ location_name,location_id,location_type,date,outcome_type,value
 "Harris, Texas",48201,county,2026-04-29,case_local,1
 "Harrison, Texas",48203,county,2025-05-20,case_lab-confirmed,1
 "Harrison, Texas",48203,county,2025-05-20,case_local,1
+"Hartford, Connecticut",9003,county,2026-06-15,case_imported,1
+"Hartford, Connecticut",9003,county,2026-06-15,case_lab-confirmed,1
+"Hartford, Connecticut",9003,county,2026-06-15,case_unvaccinated,1
 "Haskell, Kansas",20081,county,2025-04-09,case_lab-confirmed,8
 "Haskell, Kansas",20081,county,2025-04-09,case_local,8
 "Haskell, Kansas",20081,county,2025-05-21,case_lab-confirmed,2
@@ -1125,6 +1137,8 @@ location_name,location_id,location_type,date,outcome_type,value
 "Lancaster, Pennsylvania",42071,county,2026-06-05,case_local,16
 "Lancaster, Pennsylvania",42071,county,2026-06-12,case_lab-confirmed,4
 "Lancaster, Pennsylvania",42071,county,2026-06-12,case_local,4
+"Lancaster, Pennsylvania",42071,county,2026-06-18,case_lab-confirmed,2
+"Lancaster, Pennsylvania",42071,county,2026-06-18,case_local,2
 "Lea, New Mexico",35025,county,2025-02-11,case_lab-confirmed,1
 "Lea, New Mexico",35025,county,2025-02-11,case_local,1
 "Lea, New Mexico",35025,county,2025-02-11,case_unvaccinated,1
@@ -1160,6 +1174,8 @@ location_name,location_id,location_type,date,outcome_type,value
 "Lebanon, Pennsylvania",42075,county,2026-05-27,case_local,3
 "Lebanon, Pennsylvania",42075,county,2026-06-05,case_lab-confirmed,5
 "Lebanon, Pennsylvania",42075,county,2026-06-05,case_local,5
+"Lebanon, Pennsylvania",42075,county,2026-06-18,case_lab-confirmed,1
+"Lebanon, Pennsylvania",42075,county,2026-06-18,case_local,1
 "Lee, Florida",12071,county,2026-01-30,case_lab-confirmed,1
 "Lee, Florida",12071,county,2026-01-30,case_local,1
 "Lee, Florida",12071,county,2026-02-21,case_lab-confirmed,1
@@ -1909,6 +1925,8 @@ location_name,location_id,location_type,date,outcome_type,value
 "Santa Clara, California",6085,county,2025-05-25,case_lab-confirmed,1
 "Santa Clara, California",6085,county,2026-02-25,case_imported,1
 "Santa Clara, California",6085,county,2026-02-25,case_lab-confirmed,1
+"Santa Clara, California",6085,county,2026-06-08,case_lab-confirmed,1
+"Santa Clara, California",6085,county,2026-06-08,case_local,1
 "Santa Fe, New Mexico",35049,county,2025-07-22,case_imported,1
 "Santa Fe, New Mexico",35049,county,2025-07-22,case_lab-confirmed,1
 "Santa Fe, New Mexico",35049,county,2025-07-22,case_unvaccinated,1

@@ -45,6 +45,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Bear River, Utah",0,county,2026-03-24,case_lab-confirmed,1
 "Bear River, Utah",0,county,2026-03-31,case_lab-confirmed,1
 "Bear River, Utah",0,county,2026-05-19,case_lab-confirmed,1
+"Beaufort, South Carolina",45013,county,2026-06-11,case_lab-confirmed,1
 "Bell, Texas",48027,county,2025-06-17,case_lab-confirmed,1
 "Benton, Arkansas",5007,county,2025-06-16,case_lab-confirmed,1
 "Bergen, New Jersey",34003,county,2025-02-14,case_lab-confirmed,1
@@ -120,6 +121,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Central Region, Virginia",0,county,2026-05-28,case_lab-confirmed,24
 "Central Region, Virginia",0,county,2026-06-02,case_lab-confirmed,27
 "Central Region, Virginia",0,county,2026-06-11,case_lab-confirmed,20
+"Central Region, Virginia",0,county,2026-06-18,case_lab-confirmed,18
 "Central, Iowa",19,county,2025-05-23,case_lab-confirmed,1
 "Central, Iowa",19,county,2025-12-16,case_lab-confirmed,1
 "Central, Utah",0,county,2025-11-18,case_lab-confirmed,2
@@ -140,6 +142,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Central, Utah",0,county,2026-05-19,case_lab-confirmed,4
 "Central, Utah",0,county,2026-06-02,case_lab-confirmed,1
 "Central, Utah",0,county,2026-06-09,case_lab-confirmed,1
+"Central, Utah",0,county,2026-06-16,case_lab-confirmed,8
 "Chaves, New Mexico",35005,county,2025-04-08,case_lab-confirmed,1
 "Cherokee, South Carolina",45021,county,2026-03-19,case_lab-confirmed,36
 "Chester, Pennsylvania",42029,county,2026-02-17,case_lab-confirmed,1
@@ -394,6 +397,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Hale, Texas",48189,county,2025-03-20,case_lab-confirmed,1
 "Hale, Texas",48189,county,2025-04-04,case_lab-confirmed,2
 "Hale, Texas",48189,county,2025-04-08,case_lab-confirmed,2
+"Hampton, South Carolina",45049,county,2026-06-03,case_lab-confirmed,1
 "Hardeman, Texas",48197,county,2025-05-02,case_lab-confirmed,1
 "Harris, Texas",48201,county,2025-01-23,case_lab-confirmed,2
 "Harris, Texas",48201,county,2025-03-20,case_lab-confirmed,1
@@ -402,6 +406,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Harris, Texas",48201,county,2026-04-15,case_lab-confirmed,4
 "Harris, Texas",48201,county,2026-04-29,case_lab-confirmed,1
 "Harrison, Texas",48203,county,2025-05-20,case_lab-confirmed,1
+"Hartford, Connecticut",9003,county,2026-06-15,case_lab-confirmed,1
 "Haskell, Kansas",20081,county,2025-04-09,case_lab-confirmed,8
 "Haskell, Kansas",20081,county,2025-05-21,case_lab-confirmed,2
 "Haskell, Kansas",20081,county,2025-06-02,case_lab-confirmed,1
@@ -498,6 +503,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Lancaster, Pennsylvania",42071,county,2026-05-27,case_lab-confirmed,10
 "Lancaster, Pennsylvania",42071,county,2026-06-05,case_lab-confirmed,16
 "Lancaster, Pennsylvania",42071,county,2026-06-12,case_lab-confirmed,4
+"Lancaster, Pennsylvania",42071,county,2026-06-18,case_lab-confirmed,2
 "Lea, New Mexico",35025,county,2025-02-11,case_lab-confirmed,1
 "Lea, New Mexico",35025,county,2025-02-14,case_lab-confirmed,2
 "Lea, New Mexico",35025,county,2025-03-07,case_lab-confirmed,27
@@ -514,6 +520,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Lebanon, Pennsylvania",42075,county,2026-05-06,case_lab-confirmed,11
 "Lebanon, Pennsylvania",42075,county,2026-05-27,case_lab-confirmed,3
 "Lebanon, Pennsylvania",42075,county,2026-06-05,case_lab-confirmed,5
+"Lebanon, Pennsylvania",42075,county,2026-06-18,case_lab-confirmed,1
 "Lee, Florida",12071,county,2026-01-30,case_lab-confirmed,1
 "Lee, Florida",12071,county,2026-02-21,case_lab-confirmed,1
 "Lee, Florida",12071,county,2026-03-14,case_lab-confirmed,1
@@ -854,6 +861,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Sandoval, New Mexico",35043,county,2025-05-23,case_lab-confirmed,4
 "Santa Clara, California",6085,county,2025-05-25,case_lab-confirmed,1
 "Santa Clara, California",6085,county,2026-02-25,case_lab-confirmed,1
+"Santa Clara, California",6085,county,2026-06-08,case_lab-confirmed,1
 "Santa Fe, New Mexico",35049,county,2025-07-22,case_lab-confirmed,1
 "Santa Fe, New Mexico",35049,county,2025-07-28,case_lab-confirmed,1
 "Santa Fe, New Mexico",35049,county,2025-08-10,case_lab-confirmed,3
