@@ -127,6 +127,8 @@ location_name,location_id,location_type,date,outcome_type,value
 "Bergen, New Jersey",34003,county,2025-09-03,case_local,1
 "Berks, Pennsylvania",42011,county,2026-06-05,case_lab-confirmed,1
 "Berks, Pennsylvania",42011,county,2026-06-05,case_local,1
+"Berks, Pennsylvania",42011,county,2026-06-26,case_lab-confirmed,1
+"Berks, Pennsylvania",42011,county,2026-06-26,case_local,1
 "Bexar, Texas",48029,county,2025-07-01,case_lab-confirmed,1
 "Bexar, Texas",48029,county,2025-07-01,case_local,1
 "Bexar, Texas",48029,county,2025-08-12,case_lab-confirmed,1
@@ -353,6 +355,8 @@ location_name,location_id,location_type,date,outcome_type,value
 "Central, Utah",0,county,2026-06-09,case_local,1
 "Central, Utah",0,county,2026-06-16,case_lab-confirmed,8
 "Central, Utah",0,county,2026-06-16,case_local,8
+"Central, Utah",0,county,2026-06-23,case_lab-confirmed,8
+"Central, Utah",0,county,2026-06-23,case_local,8
 "Chaves, New Mexico",35005,county,2025-04-08,case_lab-confirmed,1
 "Chaves, New Mexico",35005,county,2025-04-08,case_local,1
 "Cherokee, South Carolina",45021,county,2026-03-19,case_lab-confirmed,36
@@ -1139,6 +1143,8 @@ location_name,location_id,location_type,date,outcome_type,value
 "Lancaster, Pennsylvania",42071,county,2026-06-12,case_local,4
 "Lancaster, Pennsylvania",42071,county,2026-06-18,case_lab-confirmed,2
 "Lancaster, Pennsylvania",42071,county,2026-06-18,case_local,2
+"Lancaster, Pennsylvania",42071,county,2026-06-26,case_lab-confirmed,9
+"Lancaster, Pennsylvania",42071,county,2026-06-26,case_local,9
 "Lea, New Mexico",35025,county,2025-02-11,case_lab-confirmed,1
 "Lea, New Mexico",35025,county,2025-02-11,case_local,1
 "Lea, New Mexico",35025,county,2025-02-11,case_unvaccinated,1
@@ -1226,6 +1232,8 @@ location_name,location_id,location_type,date,outcome_type,value
 "Los Angeles, California",6037,county,2026-02-19,case_lab-confirmed,1
 "Los Angeles, California",6037,county,2026-05-18,case_lab-confirmed,1
 "Los Angeles, California",6037,county,2026-05-18,case_local,1
+"Los Angeles, California",6037,county,2026-06-24,case_imported,1
+"Los Angeles, California",6037,county,2026-06-24,case_lab-confirmed,1
 "Lubbock, Texas",48303,county,2025-02-18,case_lab-confirmed,1
 "Lubbock, Texas",48303,county,2025-02-18,case_local,1
 "Lubbock, Texas",48303,county,2025-02-28,case_lab-confirmed,1
@@ -1310,6 +1318,8 @@ location_name,location_id,location_type,date,outcome_type,value
 "Maricopa, Arizona",4013,county,2026-05-12,case_local,4
 "Maricopa, Arizona",4013,county,2026-05-19,case_lab-confirmed,1
 "Maricopa, Arizona",4013,county,2026-05-19,case_local,1
+"Maricopa, Arizona",4013,county,2026-06-23,case_lab-confirmed,1
+"Maricopa, Arizona",4013,county,2026-06-23,case_local,1
 "Marquette, Michigan",26103,county,2025-05-30,case_lab-confirmed,1
 "Marquette, Michigan",26103,county,2025-05-30,case_local,1
 "Marquette, Michigan",26103,county,2025-06-02,case_lab-confirmed,1
@@ -1497,6 +1507,8 @@ location_name,location_id,location_type,date,outcome_type,value
 "Nashville-Davidson County Region, Tennessee",0,county,2025-11-02,case_lab-confirmed,1
 "Nashville-Davidson County Region, Tennessee",0,county,2025-11-02,case_local,1
 "Nashville-Davidson County Region, Tennessee",0,county,2025-11-02,case_unvaccinated,1
+"National Capital Region, Maryland",24,county,2026-06-20,case_imported,1
+"National Capital Region, Maryland",24,county,2026-06-20,case_lab-confirmed,1
 "Natrona, Wyoming",56025,county,2025-07-01,case_lab-confirmed,1
 "Natrona, Wyoming",56025,county,2025-07-01,case_local,1
 "Natrona, Wyoming",56025,county,2025-07-01,case_unvaccinated,1
@@ -1558,6 +1570,8 @@ location_name,location_id,location_type,date,outcome_type,value
 "Northern Region, Virginia",0,county,2026-02-13,case_local,1
 "Northern Region, Virginia",0,county,2026-02-19,case_lab-confirmed,3
 "Northern Region, Virginia",0,county,2026-02-19,case_local,3
+"Northumberland, Pennsylvania",42097,county,2026-06-26,case_lab-confirmed,6
+"Northumberland, Pennsylvania",42097,county,2026-06-26,case_local,6
 "Northwest Region, Virginia",0,county,2025-04-15,case_imported,1
 "Northwest Region, Virginia",0,county,2025-04-15,case_lab-confirmed,1
 "Northwest Region, Virginia",0,county,2025-05-23,case_lab-confirmed,1
@@ -1712,6 +1726,8 @@ location_name,location_id,location_type,date,outcome_type,value
 "Pinal, Arizona",4021,county,2026-04-28,case_local,1
 "Pinal, Arizona",4021,county,2026-05-26,case_lab-confirmed,1
 "Pinal, Arizona",4021,county,2026-05-26,case_local,1
+"Pinal, Arizona",4021,county,2026-06-23,case_lab-confirmed,1
+"Pinal, Arizona",4021,county,2026-06-23,case_local,1
 "Pinellas, Florida",12103,county,2026-02-07,case_lab-confirmed,1
 "Pinellas, Florida",12103,county,2026-02-07,case_local,1
 "Pinellas, Florida",12103,county,2026-02-14,case_lab-confirmed,2
@@ -2105,6 +2121,8 @@ location_name,location_id,location_type,date,outcome_type,value
 "Southwest Health District, Utah",0,county,2026-05-19,case_vaccinated,1
 "Southwest Health District, Utah",0,county,2026-05-26,case_lab-confirmed,1
 "Southwest Health District, Utah",0,county,2026-05-26,case_local,1
+"Southwest Health District, Utah",0,county,2026-06-23,case_lab-confirmed,1
+"Southwest Health District, Utah",0,county,2026-06-23,case_local,1
 "Southwest Region, Virginia",,county,2026-03-06,case_lab-confirmed,3
 "Southwest Region, Virginia",,county,2026-03-06,case_local,3
 "Southwest Region, Virginia",,county,2026-03-13,case_lab-confirmed,1
@@ -2390,6 +2408,8 @@ location_name,location_id,location_type,date,outcome_type,value
 "Unknown County, New Jersey",34,county,2025-10-29,case_local,1
 "Unknown County, New York",36,county,2026-05-08,case_lab-confirmed,1
 "Unknown County, New York",36,county,2026-05-08,case_local,1
+"Unknown County, New York",36,county,2026-06-26,case_lab-confirmed,1
+"Unknown County, New York",36,county,2026-06-26,case_local,1
 "Unknown County, Oklahoma",40109,county,2025-03-25,case_lab-confirmed,7
 "Unknown County, Oklahoma",40109,county,2025-03-25,case_local,7
 "Unknown County, Oklahoma",40109,county,2025-03-25,case_unvaccinated,7
@@ -2439,6 +2459,8 @@ location_name,location_id,location_type,date,outcome_type,value
 "Unknown County, Oregon",41,county,2026-04-30,case_local,2
 "Unknown County, Oregon",41,county,2026-05-21,case_lab-confirmed,1
 "Unknown County, Oregon",41,county,2026-05-21,case_local,1
+"Unknown County, Oregon",41,county,2026-06-25,case_lab-confirmed,1
+"Unknown County, Oregon",41,county,2026-06-25,case_local,1
 "Unknown County, Pennsylvania",42,county,2025-08-21,case_imported,1
 "Unknown County, Pennsylvania",42,county,2025-08-21,case_lab-confirmed,1
 "Unknown County, South Carolina",45,county,2026-03-19,case_lab-confirmed,7
@@ -2678,3 +2700,5 @@ location_name,location_id,location_type,date,outcome_type,value
 "Yoakum, Texas",48501,county,2025-05-06,case_local,1
 "Yolo, California",6113,county,2025-06-06,case_lab-confirmed,1
 "Yolo, California",6113,county,2025-06-06,case_local,1
+"York, Pennsylvania",42133,county,2026-06-26,case_lab-confirmed,1
+"York, Pennsylvania",42133,county,2026-06-26,case_local,1
