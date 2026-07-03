@@ -123,6 +123,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Central Region, Virginia",0,county,2026-06-02,case_lab-confirmed,27
 "Central Region, Virginia",0,county,2026-06-11,case_lab-confirmed,20
 "Central Region, Virginia",0,county,2026-06-18,case_lab-confirmed,18
+"Central Region, Virginia",0,county,2026-07-02,case_lab-confirmed,16
 "Central, Iowa",19,county,2025-05-23,case_lab-confirmed,1
 "Central, Iowa",19,county,2025-12-16,case_lab-confirmed,1
 "Central, Utah",0,county,2025-11-18,case_lab-confirmed,2
@@ -145,9 +146,11 @@ location_name,location_id,location_type,date,outcome_type,value
 "Central, Utah",0,county,2026-06-09,case_lab-confirmed,1
 "Central, Utah",0,county,2026-06-16,case_lab-confirmed,8
 "Central, Utah",0,county,2026-06-23,case_lab-confirmed,8
+"Central, Utah",0,county,2026-06-30,case_lab-confirmed,1
 "Chaves, New Mexico",35005,county,2025-04-08,case_lab-confirmed,1
 "Cherokee, South Carolina",45021,county,2026-03-19,case_lab-confirmed,36
 "Chester, Pennsylvania",42029,county,2026-02-17,case_lab-confirmed,1
+"Chester, Pennsylvania",42029,county,2026-07-01,case_lab-confirmed,2
 "Clackamas, Oregon",41005,county,2026-01-16,case_lab-confirmed,1
 "Clackamas, Oregon",41005,county,2026-02-26,case_lab-confirmed,1
 "Clark, Nevada",32003,county,2025-11-07,case_lab-confirmed,1
@@ -409,6 +412,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Harris, Texas",48201,county,2026-04-29,case_lab-confirmed,1
 "Harrison, Texas",48203,county,2025-05-20,case_lab-confirmed,1
 "Hartford, Connecticut",9003,county,2026-06-15,case_lab-confirmed,1
+"Hartford, Connecticut",9003,county,2026-06-29,case_lab-confirmed,1
 "Haskell, Kansas",20081,county,2025-04-09,case_lab-confirmed,8
 "Haskell, Kansas",20081,county,2025-05-21,case_lab-confirmed,2
 "Haskell, Kansas",20081,county,2025-06-02,case_lab-confirmed,1
@@ -507,6 +511,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Lancaster, Pennsylvania",42071,county,2026-06-12,case_lab-confirmed,4
 "Lancaster, Pennsylvania",42071,county,2026-06-18,case_lab-confirmed,2
 "Lancaster, Pennsylvania",42071,county,2026-06-26,case_lab-confirmed,9
+"Lancaster, Pennsylvania",42071,county,2026-07-01,case_lab-confirmed,2
 "Lea, New Mexico",35025,county,2025-02-11,case_lab-confirmed,1
 "Lea, New Mexico",35025,county,2025-02-14,case_lab-confirmed,2
 "Lea, New Mexico",35025,county,2025-03-07,case_lab-confirmed,27
@@ -773,6 +778,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Pinal, Arizona",4021,county,2026-04-28,case_lab-confirmed,1
 "Pinal, Arizona",4021,county,2026-05-26,case_lab-confirmed,1
 "Pinal, Arizona",4021,county,2026-06-23,case_lab-confirmed,1
+"Pinal, Arizona",4021,county,2026-06-30,case_lab-confirmed,3
 "Pinellas, Florida",12103,county,2026-02-07,case_lab-confirmed,1
 "Pinellas, Florida",12103,county,2026-02-14,case_lab-confirmed,2
 "Pinellas, Florida",12103,county,2026-02-21,case_lab-confirmed,2
@@ -856,6 +862,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Salt Lake, Utah",49035,county,2026-03-24,case_lab-confirmed,1
 "Salt Lake, Utah",49035,county,2026-03-31,case_lab-confirmed,7
 "Salt Lake, Utah",49035,county,2026-04-07,case_lab-confirmed,2
+"Salt Lake, Utah",49035,county,2026-06-30,case_lab-confirmed,1
 "Saluda, South Carolina",45081,county,2026-04-17,case_lab-confirmed,1
 "San Diego, California",6073,county,2025-08-11,case_lab-confirmed,1
 "San Francisco, California",6075,county,2026-04-15,case_lab-confirmed,1
@@ -923,9 +930,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Southwest Health District, Utah",0,county,2025-12-16,case_lab-confirmed,9
 "Southwest Health District, Utah",0,county,2025-12-23,case_lab-confirmed,10
 "Southwest Health District, Utah",0,county,2025-12-30,case_lab-confirmed,13
-"Southwest Health District, Utah",0,county,2026-01-06,case_lab-confirmed,15
-"Southwest Health District, Utah",0,county,2026-01-13,case_lab-confirmed,18
-"Southwest Health District, Utah",0,county,2026-01-20,case_lab-confirmed,7
+"Southwest Health District, Utah",0,county,2025-12-31,case_lab-confirmed,41
 "Southwest Health District, Utah",0,county,2026-01-27,case_lab-confirmed,4
 "Southwest Health District, Utah",0,county,2026-02-03,case_lab-confirmed,5
 "Southwest Health District, Utah",0,county,2026-02-10,case_lab-confirmed,15
@@ -972,9 +977,9 @@ location_name,location_id,location_type,date,outcome_type,value
 "Spartanburg, South Carolina",45083,county,2025-12-23,case_lab-confirmed,9
 "Spartanburg, South Carolina",45083,county,2025-12-26,case_lab-confirmed,3
 "Spartanburg, South Carolina",45083,county,2025-12-30,case_lab-confirmed,20
-"Spartanburg, South Carolina",45083,county,2025-12-31,case_lab-confirmed,123
-"Spartanburg, South Carolina",45083,county,2026-01-09,case_lab-confirmed,11
-"Spartanburg, South Carolina",45083,county,2026-01-13,case_lab-confirmed,124
+"Spartanburg, South Carolina",45083,county,2025-12-31,case_lab-confirmed,154
+"Spartanburg, South Carolina",45083,county,2026-01-09,case_lab-confirmed,63
+"Spartanburg, South Carolina",45083,county,2026-01-13,case_lab-confirmed,41
 "Spartanburg, South Carolina",45083,county,2026-01-16,case_lab-confirmed,124
 "Spartanburg, South Carolina",45083,county,2026-01-20,case_lab-confirmed,88
 "Spartanburg, South Carolina",45083,county,2026-01-23,case_lab-confirmed,54
@@ -1017,6 +1022,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Terry, Texas",48445,county,2025-04-23,case_lab-confirmed,2
 "Terry, Texas",48445,county,2025-04-25,case_lab-confirmed,5
 "Terry, Texas",48445,county,2025-05-06,case_lab-confirmed,1
+"Teton, Wyoming",56039,county,2026-06-28,case_lab-confirmed,1
 "Todd, Kentucky",21219,county,2025-06-30,case_lab-confirmed,1
 "Tooele, Utah",49045,county,2026-02-17,case_lab-confirmed,2
 "Tooele, Utah",49045,county,2026-02-24,case_lab-confirmed,4
@@ -1207,3 +1213,4 @@ location_name,location_id,location_type,date,outcome_type,value
 "Yoakum, Texas",48501,county,2025-05-06,case_lab-confirmed,1
 "Yolo, California",6113,county,2025-06-06,case_lab-confirmed,1
 "York, Pennsylvania",42133,county,2026-06-26,case_lab-confirmed,1
+"York, Pennsylvania",42133,county,2026-07-01,case_lab-confirmed,1

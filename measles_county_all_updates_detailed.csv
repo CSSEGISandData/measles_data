@@ -311,6 +311,8 @@ location_name,location_id,location_type,date,outcome_type,value
 "Central Region, Virginia",0,county,2026-06-11,case_local,20
 "Central Region, Virginia",0,county,2026-06-18,case_lab-confirmed,18
 "Central Region, Virginia",0,county,2026-06-18,case_local,18
+"Central Region, Virginia",0,county,2026-07-02,case_lab-confirmed,16
+"Central Region, Virginia",0,county,2026-07-02,case_local,16
 "Central, Iowa",19,county,2025-05-23,case_lab-confirmed,1
 "Central, Iowa",19,county,2025-05-23,case_local,1
 "Central, Iowa",19,county,2025-05-23,case_unvaccinated,1
@@ -357,6 +359,8 @@ location_name,location_id,location_type,date,outcome_type,value
 "Central, Utah",0,county,2026-06-16,case_local,8
 "Central, Utah",0,county,2026-06-23,case_lab-confirmed,8
 "Central, Utah",0,county,2026-06-23,case_local,8
+"Central, Utah",0,county,2026-06-30,case_lab-confirmed,1
+"Central, Utah",0,county,2026-06-30,case_local,1
 "Chaves, New Mexico",35005,county,2025-04-08,case_lab-confirmed,1
 "Chaves, New Mexico",35005,county,2025-04-08,case_local,1
 "Cherokee, South Carolina",45021,county,2026-03-19,case_lab-confirmed,36
@@ -364,6 +368,8 @@ location_name,location_id,location_type,date,outcome_type,value
 "Chester, Pennsylvania",42029,county,2026-02-17,case_imported,1
 "Chester, Pennsylvania",42029,county,2026-02-17,case_lab-confirmed,1
 "Chester, Pennsylvania",42029,county,2026-02-17,case_unvaccinated,1
+"Chester, Pennsylvania",42029,county,2026-07-01,case_lab-confirmed,2
+"Chester, Pennsylvania",42029,county,2026-07-01,case_local,2
 "Clackamas, Oregon",41005,county,2026-01-16,case_lab-confirmed,1
 "Clackamas, Oregon",41005,county,2026-01-16,case_local,1
 "Clackamas, Oregon",41005,county,2026-01-16,case_unvaccinated,1
@@ -929,6 +935,9 @@ location_name,location_id,location_type,date,outcome_type,value
 "Hartford, Connecticut",9003,county,2026-06-15,case_imported,1
 "Hartford, Connecticut",9003,county,2026-06-15,case_lab-confirmed,1
 "Hartford, Connecticut",9003,county,2026-06-15,case_unvaccinated,1
+"Hartford, Connecticut",9003,county,2026-06-29,case_lab-confirmed,1
+"Hartford, Connecticut",9003,county,2026-06-29,case_local,1
+"Hartford, Connecticut",9003,county,2026-06-29,case_vaccinated,1
 "Haskell, Kansas",20081,county,2025-04-09,case_lab-confirmed,8
 "Haskell, Kansas",20081,county,2025-04-09,case_local,8
 "Haskell, Kansas",20081,county,2025-05-21,case_lab-confirmed,2
@@ -1145,6 +1154,8 @@ location_name,location_id,location_type,date,outcome_type,value
 "Lancaster, Pennsylvania",42071,county,2026-06-18,case_local,2
 "Lancaster, Pennsylvania",42071,county,2026-06-26,case_lab-confirmed,9
 "Lancaster, Pennsylvania",42071,county,2026-06-26,case_local,9
+"Lancaster, Pennsylvania",42071,county,2026-07-01,case_lab-confirmed,2
+"Lancaster, Pennsylvania",42071,county,2026-07-01,case_local,2
 "Lea, New Mexico",35025,county,2025-02-11,case_lab-confirmed,1
 "Lea, New Mexico",35025,county,2025-02-11,case_local,1
 "Lea, New Mexico",35025,county,2025-02-11,case_unvaccinated,1
@@ -1728,6 +1739,8 @@ location_name,location_id,location_type,date,outcome_type,value
 "Pinal, Arizona",4021,county,2026-05-26,case_local,1
 "Pinal, Arizona",4021,county,2026-06-23,case_lab-confirmed,1
 "Pinal, Arizona",4021,county,2026-06-23,case_local,1
+"Pinal, Arizona",4021,county,2026-06-30,case_lab-confirmed,3
+"Pinal, Arizona",4021,county,2026-06-30,case_local,3
 "Pinellas, Florida",12103,county,2026-02-07,case_lab-confirmed,1
 "Pinellas, Florida",12103,county,2026-02-07,case_local,1
 "Pinellas, Florida",12103,county,2026-02-14,case_lab-confirmed,2
@@ -1912,6 +1925,8 @@ location_name,location_id,location_type,date,outcome_type,value
 "Salt Lake, Utah",49035,county,2026-03-31,case_local,7
 "Salt Lake, Utah",49035,county,2026-04-07,case_lab-confirmed,2
 "Salt Lake, Utah",49035,county,2026-04-07,case_local,2
+"Salt Lake, Utah",49035,county,2026-06-30,case_lab-confirmed,1
+"Salt Lake, Utah",49035,county,2026-06-30,case_local,1
 "Saluda, South Carolina",45081,county,2026-04-17,case_imported,1
 "Saluda, South Carolina",45081,county,2026-04-17,case_lab-confirmed,1
 "San Diego, California",6073,county,2025-08-11,case_imported,1
@@ -2075,12 +2090,9 @@ location_name,location_id,location_type,date,outcome_type,value
 "Southwest Health District, Utah",0,county,2025-12-23,case_local,10
 "Southwest Health District, Utah",0,county,2025-12-30,case_lab-confirmed,13
 "Southwest Health District, Utah",0,county,2025-12-30,case_local,13
-"Southwest Health District, Utah",0,county,2026-01-06,case_lab-confirmed,15
-"Southwest Health District, Utah",0,county,2026-01-06,case_local,15
-"Southwest Health District, Utah",0,county,2026-01-13,case_lab-confirmed,18
-"Southwest Health District, Utah",0,county,2026-01-13,case_local,18
-"Southwest Health District, Utah",0,county,2026-01-20,case_lab-confirmed,7
-"Southwest Health District, Utah",0,county,2026-01-20,case_local,7
+"Southwest Health District, Utah",0,county,2025-12-31,case_lab-confirmed,41
+"Southwest Health District, Utah",0,county,2025-12-31,case_local,41
+"Southwest Health District, Utah",0,county,2025-12-31,case_vaccinated,7
 "Southwest Health District, Utah",0,county,2026-01-27,case_lab-confirmed,4
 "Southwest Health District, Utah",0,county,2026-01-27,case_local,4
 "Southwest Health District, Utah",0,county,2026-02-03,case_lab-confirmed,5
@@ -2181,12 +2193,12 @@ location_name,location_id,location_type,date,outcome_type,value
 "Spartanburg, South Carolina",45083,county,2025-12-26,case_local,3
 "Spartanburg, South Carolina",45083,county,2025-12-30,case_lab-confirmed,20
 "Spartanburg, South Carolina",45083,county,2025-12-30,case_local,20
-"Spartanburg, South Carolina",45083,county,2025-12-31,case_lab-confirmed,123
-"Spartanburg, South Carolina",45083,county,2025-12-31,case_local,123
-"Spartanburg, South Carolina",45083,county,2026-01-09,case_lab-confirmed,11
-"Spartanburg, South Carolina",45083,county,2026-01-09,case_local,11
-"Spartanburg, South Carolina",45083,county,2026-01-13,case_lab-confirmed,124
-"Spartanburg, South Carolina",45083,county,2026-01-13,case_local,124
+"Spartanburg, South Carolina",45083,county,2025-12-31,case_lab-confirmed,154
+"Spartanburg, South Carolina",45083,county,2025-12-31,case_local,154
+"Spartanburg, South Carolina",45083,county,2026-01-09,case_lab-confirmed,63
+"Spartanburg, South Carolina",45083,county,2026-01-09,case_local,63
+"Spartanburg, South Carolina",45083,county,2026-01-13,case_lab-confirmed,41
+"Spartanburg, South Carolina",45083,county,2026-01-13,case_local,41
 "Spartanburg, South Carolina",45083,county,2026-01-16,case_lab-confirmed,124
 "Spartanburg, South Carolina",45083,county,2026-01-16,case_local,124
 "Spartanburg, South Carolina",45083,county,2026-01-20,case_lab-confirmed,88
@@ -2274,6 +2286,9 @@ location_name,location_id,location_type,date,outcome_type,value
 "Terry, Texas",48445,county,2025-04-25,case_local,5
 "Terry, Texas",48445,county,2025-05-06,case_lab-confirmed,1
 "Terry, Texas",48445,county,2025-05-06,case_local,1
+"Teton, Wyoming",56039,county,2026-06-28,case_lab-confirmed,1
+"Teton, Wyoming",56039,county,2026-06-28,case_local,1
+"Teton, Wyoming",56039,county,2026-06-28,case_unvaccinated,1
 "Todd, Kentucky",21219,county,2025-06-30,case_lab-confirmed,1
 "Todd, Kentucky",21219,county,2025-06-30,case_local,1
 "Tooele, Utah",49045,county,2026-02-17,case_lab-confirmed,2
@@ -2702,3 +2717,5 @@ location_name,location_id,location_type,date,outcome_type,value
 "Yolo, California",6113,county,2025-06-06,case_local,1
 "York, Pennsylvania",42133,county,2026-06-26,case_lab-confirmed,1
 "York, Pennsylvania",42133,county,2026-06-26,case_local,1
+"York, Pennsylvania",42133,county,2026-07-01,case_lab-confirmed,1
+"York, Pennsylvania",42133,county,2026-07-01,case_local,1
