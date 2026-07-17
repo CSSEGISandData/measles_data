@@ -116,6 +116,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Cedar, Missouri",29039,county,2025-06-23,case_lab-confirmed,1
 "Cedar, Missouri",29039,county,2025-07-01,case_lab-confirmed,1
 "Cedar, Missouri",29039,county,2025-07-03,case_lab-confirmed,3
+"Central Region, Maryland",24,county,2026-07-15,case_lab-confirmed,5
 "Central Region, Virginia",0,county,2025-12-24,case_lab-confirmed,1
 "Central Region, Virginia",0,county,2026-01-06,case_lab-confirmed,1
 "Central Region, Virginia",0,county,2026-05-13,case_lab-confirmed,12
@@ -155,6 +156,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Chester, Pennsylvania",42029,county,2026-02-17,case_lab-confirmed,1
 "Chester, Pennsylvania",42029,county,2026-07-01,case_lab-confirmed,2
 "Chester, Pennsylvania",42029,county,2026-07-10,case_lab-confirmed,2
+"Chester, Pennsylvania",42029,county,2026-07-17,case_lab-confirmed,2
 "Clackamas, Oregon",41005,county,2026-01-16,case_lab-confirmed,1
 "Clackamas, Oregon",41005,county,2026-02-26,case_lab-confirmed,1
 "Clark, Nevada",32003,county,2025-11-07,case_lab-confirmed,1
@@ -518,6 +520,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Lancaster, Pennsylvania",42071,county,2026-06-26,case_lab-confirmed,9
 "Lancaster, Pennsylvania",42071,county,2026-07-01,case_lab-confirmed,2
 "Lancaster, Pennsylvania",42071,county,2026-07-10,case_lab-confirmed,12
+"Lancaster, Pennsylvania",42071,county,2026-07-17,case_lab-confirmed,5
 "Larimer, Colorado",8069,county,2026-07-03,case_lab-confirmed,1
 "Lea, New Mexico",35025,county,2025-02-11,case_lab-confirmed,1
 "Lea, New Mexico",35025,county,2025-02-14,case_lab-confirmed,2
@@ -560,6 +563,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Los Angeles, California",6037,county,2026-02-19,case_lab-confirmed,1
 "Los Angeles, California",6037,county,2026-05-18,case_lab-confirmed,1
 "Los Angeles, California",6037,county,2026-06-24,case_lab-confirmed,1
+"Los Angeles, California",6037,county,2026-07-08,case_lab-confirmed,1
 "Lubbock, Texas",48303,county,2025-02-18,case_lab-confirmed,1
 "Lubbock, Texas",48303,county,2025-02-28,case_lab-confirmed,1
 "Lubbock, Texas",48303,county,2025-03-18,case_lab-confirmed,3
@@ -604,6 +608,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Maricopa, Arizona",4013,county,2026-05-19,case_lab-confirmed,1
 "Maricopa, Arizona",4013,county,2026-06-23,case_lab-confirmed,1
 "Maricopa, Arizona",4013,county,2026-07-07,case_lab-confirmed,1
+"Maricopa, Arizona",4013,county,2026-07-14,case_lab-confirmed,1
 "Marquette, Michigan",26103,county,2025-05-30,case_lab-confirmed,1
 "Marquette, Michigan",26103,county,2025-06-02,case_lab-confirmed,1
 "Martin, Texas",48317,county,2025-02-25,case_lab-confirmed,3
@@ -790,6 +795,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Pinal, Arizona",4021,county,2026-06-23,case_lab-confirmed,1
 "Pinal, Arizona",4021,county,2026-06-30,case_lab-confirmed,3
 "Pinal, Arizona",4021,county,2026-07-07,case_lab-confirmed,7
+"Pinal, Arizona",4021,county,2026-07-14,case_lab-confirmed,1
 "Pinellas, Florida",12103,county,2026-02-07,case_lab-confirmed,1
 "Pinellas, Florida",12103,county,2026-02-14,case_lab-confirmed,2
 "Pinellas, Florida",12103,county,2026-02-21,case_lab-confirmed,2
@@ -875,6 +881,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Salt Lake, Utah",49035,county,2026-04-07,case_lab-confirmed,2
 "Salt Lake, Utah",49035,county,2026-06-30,case_lab-confirmed,1
 "Salt Lake, Utah",49035,county,2026-07-07,case_lab-confirmed,1
+"Salt Lake, Utah",49035,county,2026-07-14,case_lab-confirmed,1
 "Saluda, South Carolina",45081,county,2026-04-17,case_lab-confirmed,1
 "San Diego, California",6073,county,2025-08-11,case_lab-confirmed,1
 "San Francisco, California",6075,county,2026-04-15,case_lab-confirmed,1
@@ -1034,7 +1041,11 @@ location_name,location_id,location_type,date,outcome_type,value
 "Terry, Texas",48445,county,2025-04-23,case_lab-confirmed,2
 "Terry, Texas",48445,county,2025-04-25,case_lab-confirmed,5
 "Terry, Texas",48445,county,2025-05-06,case_lab-confirmed,1
+"Teton, Idaho",16081,county,2026-07-10,case_lab-confirmed,1
 "Teton, Wyoming",56039,county,2026-06-28,case_lab-confirmed,1
+"Teton, Wyoming",56039,county,2026-07-11,case_lab-confirmed,1
+"Teton, Wyoming",56039,county,2026-07-13,case_lab-confirmed,1
+"Teton, Wyoming",56039,county,2026-07-14,case_lab-confirmed,2
 "Todd, Kentucky",21219,county,2025-06-30,case_lab-confirmed,1
 "Tooele, Utah",49045,county,2026-02-17,case_lab-confirmed,2
 "Tooele, Utah",49045,county,2026-02-24,case_lab-confirmed,4
@@ -1123,6 +1134,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Unknown County, Oregon",41,county,2026-04-30,case_lab-confirmed,2
 "Unknown County, Oregon",41,county,2026-05-21,case_lab-confirmed,1
 "Unknown County, Oregon",41,county,2026-06-25,case_lab-confirmed,1
+"Unknown County, Oregon",41,county,2026-07-15,case_lab-confirmed,6
 "Unknown County, Pennsylvania",42,county,2025-08-21,case_lab-confirmed,1
 "Unknown County, South Carolina",45,county,2026-03-19,case_lab-confirmed,7
 "Unknown County, Texas",48,county,2025-10-30,case_lab-confirmed,1
@@ -1163,6 +1175,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Utah, Utah",49049,county,2026-05-19,case_lab-confirmed,1
 "Utah, Utah",49049,county,2026-05-26,case_lab-confirmed,1
 "Utah, Utah",49049,county,2026-06-09,case_lab-confirmed,3
+"Utah, Utah",49049,county,2026-07-14,case_lab-confirmed,2
 "Walla Walla, Washington",53071,county,2026-04-09,case_lab-confirmed,1
 "Walla Walla, Washington",53071,county,2026-04-29,case_lab-confirmed,1
 "Walla Walla, Washington",53071,county,2026-05-08,case_lab-confirmed,3
@@ -1184,6 +1197,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Washtenaw, Michigan",26161,county,2026-03-26,case_lab-confirmed,4
 "Waukesha, Wisconsin",55133,county,2026-01-18,case_lab-confirmed,1
 "Weber-Morgan, Utah",49057,county,2026-01-20,case_lab-confirmed,2
+"Weber-Morgan, Utah",49057,county,2026-07-14,case_lab-confirmed,1
 "Weld, Colorado",8123,county,2025-12-15,case_lab-confirmed,1
 "Weld, Colorado",8123,county,2026-03-06,case_lab-confirmed,1
 "Weld, Colorado",8123,county,2026-03-18,case_lab-confirmed,1
