@@ -370,6 +370,8 @@ location_name,location_id,location_type,date,outcome_type,value
 "Central, Utah",0,county,2026-06-23,case_local,8
 "Central, Utah",0,county,2026-06-30,case_lab-confirmed,1
 "Central, Utah",0,county,2026-06-30,case_local,1
+"Central, Utah",0,county,2026-07-21,case_lab-confirmed,2
+"Central, Utah",0,county,2026-07-21,case_local,2
 "Chaves, New Mexico",35005,county,2025-04-08,case_lab-confirmed,1
 "Chaves, New Mexico",35005,county,2025-04-08,case_local,1
 "Cherokee, South Carolina",45021,county,2026-03-19,case_lab-confirmed,36
@@ -1036,6 +1038,8 @@ location_name,location_id,location_type,date,outcome_type,value
 "Hudspeth, Texas",48229,county,2026-04-01,case_local,5
 "Hudspeth, Texas",48229,county,2026-04-08,case_lab-confirmed,1
 "Hudspeth, Texas",48229,county,2026-04-08,case_local,1
+"Indiana, Pennsylvania",42063,county,2026-07-20,case_lab-confirmed,1
+"Indiana, Pennsylvania",42063,county,2026-07-20,case_local,1
 "Ingham, Michigan",26065,county,2025-04-15,case_imported,1
 "Ingham, Michigan",26065,county,2025-04-15,case_lab-confirmed,1
 "Ingham, Michigan",26065,county,2025-04-15,case_vaccinated,1
@@ -1059,6 +1063,9 @@ location_name,location_id,location_type,date,outcome_type,value
 "Kenai Peninsula, Alaska",2122,county,2025-01-21,case_unvaccinated,1
 "Kendall, Texas",48259,county,2026-03-13,case_lab-confirmed,1
 "Kendall, Texas",48259,county,2026-03-13,case_local,1
+"Kent, Delaware",10001,county,2026-07-20,case_lab-confirmed,1
+"Kent, Delaware",10001,county,2026-07-20,case_local,1
+"Kent, Delaware",10001,county,2026-07-20,case_unvaccinated,1
 "Kent, Michigan",26081,county,2025-04-04,case_imported,1
 "Kent, Michigan",26081,county,2025-04-04,case_lab-confirmed,1
 "Kent, Michigan",26081,county,2025-07-02,case_imported,1
@@ -1176,6 +1183,8 @@ location_name,location_id,location_type,date,outcome_type,value
 "Lancaster, Pennsylvania",42071,county,2026-07-10,case_local,12
 "Lancaster, Pennsylvania",42071,county,2026-07-17,case_lab-confirmed,5
 "Lancaster, Pennsylvania",42071,county,2026-07-17,case_local,5
+"Lancaster, Pennsylvania",42071,county,2026-07-20,case_lab-confirmed,1
+"Lancaster, Pennsylvania",42071,county,2026-07-20,case_local,1
 "Larimer, Colorado",8069,county,2026-07-03,case_lab-confirmed,1
 "Larimer, Colorado",8069,county,2026-07-03,case_local,1
 "Lea, New Mexico",35025,county,2025-02-11,case_lab-confirmed,1
@@ -1971,6 +1980,8 @@ location_name,location_id,location_type,date,outcome_type,value
 "Salt Lake, Utah",49035,county,2026-07-07,case_local,1
 "Salt Lake, Utah",49035,county,2026-07-14,case_lab-confirmed,1
 "Salt Lake, Utah",49035,county,2026-07-14,case_local,1
+"Salt Lake, Utah",49035,county,2026-07-21,case_lab-confirmed,1
+"Salt Lake, Utah",49035,county,2026-07-21,case_local,1
 "Saluda, South Carolina",45081,county,2026-04-17,case_imported,1
 "Saluda, South Carolina",45081,county,2026-04-17,case_lab-confirmed,1
 "Saluda, South Carolina",45081,county,2026-05-04,case_lab-confirmed,1
@@ -2050,6 +2061,8 @@ location_name,location_id,location_type,date,outcome_type,value
 "Snohomish, Washington",53061,county,2026-02-09,case_local,1
 "Snohomish, Washington",53061,county,2026-02-26,case_lab-confirmed,2
 "Snohomish, Washington",53061,county,2026-02-26,case_local,2
+"Snyder, Pennsylvania",42109,county,2026-07-20,case_lab-confirmed,1
+"Snyder, Pennsylvania",42109,county,2026-07-20,case_local,1
 "South Central Connecticut, Connecticut",9170,county,2025-12-11,case_lab-confirmed,1
 "South Central Connecticut, Connecticut",9170,county,2025-12-11,case_local,1
 "South Central Connecticut, Connecticut",9170,county,2025-12-11,case_unvaccinated,1
@@ -2391,6 +2404,8 @@ location_name,location_id,location_type,date,outcome_type,value
 "Tricounty, Utah",0,county,2026-06-02,case_local,1
 "Tricounty, Utah",0,county,2026-07-07,case_lab-confirmed,4
 "Tricounty, Utah",0,county,2026-07-07,case_local,4
+"Tricounty, Utah",0,county,2026-07-21,case_lab-confirmed,2
+"Tricounty, Utah",0,county,2026-07-21,case_local,2
 "Tulare, California",6107,county,2025-07-22,case_lab-confirmed,1
 "Tulare, California",6107,county,2025-07-22,case_local,1
 "Tulare, California",6107,county,2025-07-22,case_unvaccinated,1
@@ -2677,8 +2692,6 @@ location_name,location_id,location_type,date,outcome_type,value
 "Waukesha, Wisconsin",55133,county,2026-01-18,case_lab-confirmed,1
 "Weber-Morgan, Utah",49057,county,2026-01-20,case_lab-confirmed,2
 "Weber-Morgan, Utah",49057,county,2026-01-20,case_local,2
-"Weber-Morgan, Utah",49057,county,2026-07-14,case_lab-confirmed,1
-"Weber-Morgan, Utah",49057,county,2026-07-14,case_local,1
 "Weld, Colorado",8123,county,2025-12-15,case_lab-confirmed,1
 "Weld, Colorado",8123,county,2025-12-15,case_local,1
 "Weld, Colorado",8123,county,2026-03-06,case_lab-confirmed,1
