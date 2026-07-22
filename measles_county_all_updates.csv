@@ -182,10 +182,6 @@ location_name,location_id,location_type,date,outcome_type,value
 "Collier, Florida",12021,county,2026-02-14,case_lab-confirmed,20
 "Collier, Florida",12021,county,2026-02-21,case_lab-confirmed,17
 "Collier, Florida",12021,county,2026-02-28,case_lab-confirmed,10
-"Collier, Florida",12021,county,2026-03-07,case_lab-confirmed,5
-"Collier, Florida",12021,county,2026-03-14,case_lab-confirmed,6
-"Collier, Florida",12021,county,2026-03-28,case_lab-confirmed,2
-"Collier, Florida",12021,county,2026-04-11,case_lab-confirmed,1
 "Collin, Texas",48085,county,2025-04-25,case_lab-confirmed,1
 "Collin, Texas",48085,county,2025-05-16,case_lab-confirmed,1
 "Collin, Texas",48085,county,2025-06-02,case_lab-confirmed,1
@@ -614,6 +610,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Maricopa, Arizona",4013,county,2026-07-07,case_lab-confirmed,1
 "Maricopa, Arizona",4013,county,2026-07-14,case_lab-confirmed,1
 "Maricopa, Arizona",4013,county,2026-07-17,case_lab-confirmed,3
+"Maricopa, Arizona",4013,county,2026-07-22,case_lab-confirmed,4
 "Marquette, Michigan",26103,county,2025-05-30,case_lab-confirmed,1
 "Marquette, Michigan",26103,county,2025-06-02,case_lab-confirmed,1
 "Martin, Texas",48317,county,2025-02-25,case_lab-confirmed,3
@@ -624,6 +621,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Meade, South Dakota",46093,county,2025-06-14,case_lab-confirmed,1
 "Mecklenburg, North Carolina",37119,county,2026-01-23,case_lab-confirmed,2
 "Mecklenburg, North Carolina",37119,county,2026-01-30,case_lab-confirmed,1
+"Memphis-Shelby County Region, Tennessee",,county,2026-07-05,case_lab-confirmed,1
 "Mesa, Colorado",8077,county,2025-08-15,case_lab-confirmed,1
 "Mesa, Colorado",8077,county,2025-08-18,case_lab-confirmed,1
 "Mesa, Colorado",8077,county,2025-08-30,case_lab-confirmed,5
@@ -689,6 +687,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Montgomery, Pennsylvania",42091,county,2026-02-05,case_lab-confirmed,1
 "Montgomery, Pennsylvania",42091,county,2026-02-21,case_lab-confirmed,1
 "Montgomery, Pennsylvania",42091,county,2026-02-24,case_lab-confirmed,1
+"Montgomery, Texas",48339,county,2026-07-21,case_lab-confirmed,3
 "Multnomah, Oregon",41051,county,2025-06-24,case_lab-confirmed,1
 "Muskegon, Michigan",26121,county,2025-06-26,case_lab-confirmed,1
 "Muskegon, Michigan",26121,county,2025-10-09,case_lab-confirmed,1
@@ -793,6 +792,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Pima, Arizona",4019,county,2025-12-31,case_lab-confirmed,1
 "Pima, Arizona",4019,county,2026-01-20,case_lab-confirmed,1
 "Pima, Arizona",4019,county,2026-02-10,case_lab-confirmed,1
+"Pima, Arizona",4019,county,2026-07-22,case_lab-confirmed,1
 "Pinal, Arizona",4021,county,2026-01-20,case_lab-confirmed,2
 "Pinal, Arizona",4021,county,2026-01-27,case_lab-confirmed,1
 "Pinal, Arizona",4021,county,2026-04-28,case_lab-confirmed,1
@@ -1089,6 +1089,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Unknown County, California",6,county,2025-10-13,case_lab-confirmed,1
 "Unknown County, California",6,county,2025-12-08,case_lab-confirmed,1
 "Unknown County, California",6,county,2026-05-04,case_lab-confirmed,1
+"Unknown County, California",6,county,2026-07-22,case_lab-confirmed,4
 "Unknown County, Idaho",16,county,2025-09-30,case_lab-confirmed,2
 "Unknown County, Illinois",17,county,2025-10-22,case_lab-confirmed,2
 "Unknown County, Illinois",17,county,2026-02-18,case_lab-confirmed,1
@@ -1146,6 +1147,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Unknown County, Oregon",41,county,2026-05-21,case_lab-confirmed,1
 "Unknown County, Oregon",41,county,2026-06-25,case_lab-confirmed,1
 "Unknown County, Oregon",41,county,2026-07-15,case_lab-confirmed,6
+"Unknown County, Oregon",41,county,2026-07-16,case_lab-confirmed,1
 "Unknown County, Pennsylvania",42,county,2025-08-21,case_lab-confirmed,1
 "Unknown County, South Carolina",45,county,2026-03-19,case_lab-confirmed,7
 "Unknown County, Texas",48,county,2025-10-30,case_lab-confirmed,1
