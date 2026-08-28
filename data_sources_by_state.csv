@@ -37,6 +37,7 @@ California,https://www.facebook.com/smcma/posts/-measles-in-san-mateo-county-fir
 California,https://www.kernpublichealth.com/Home/Components/News/News/5735/37519
 California,https://www.napacounty.gov/m/newsflash/Home/Detail/805
 California,https://www.ochealthinfo.com/press/confirmed-measles-case-orange-county
+California,https://www.ochealthinfo.com/press/infectious-measles-case-orange-county
 California,https://www.ochealthinfo.com/press/measles-case-orange-county-0
 California,https://www.ochealthinfo.com/press/measles-case-orange-county-1
 California,https://www.ochealthinfo.com/press/measles-case-orange-county-2
@@ -75,6 +76,7 @@ Colorado,https://drive.google.com/file/d/1r7vmnYOmW9YioiU9Yeb4L1W6idCD8yav/view
 Connecticut,https://portal.ct.gov/dph/newsroom/press-releases---2025/measles-case-in-connecticut?language=en_US
 Connecticut,https://portal.ct.gov/dph/newsroom/press-releases---2026/connecticut-reports-first-case-of-measles-in-2026
 Connecticut,https://portal.ct.gov/dph/newsroom/press-releases---2026/second-connecticut-measles-case-reported?language=en_US
+Connecticut,https://portal.ct.gov/dph/newsroom/press-releases---2026/third-measles-case-of-2026-confirmed?language=en_US
 Delaware,https://news.delaware.gov/2026/07/20/dph-confirms-first-positive-measles-case-in-over-a-decade/
 Delaware,https://news.delaware.gov/2026/07/21/dph-confirms-second-positive-measles-case-and-encourages-unvaccinated-residents-to-seek-vaccination/
 Delaware,https://news.delaware.gov/2026/07/22/delaware-declares-measles-outbreak/
@@ -93,6 +95,7 @@ Georgia,https://dph.georgia.gov/press-releases/2026-01-12/dph-confirms-measles-c
 Georgia,https://dph.georgia.gov/press-releases/2026-02-23/dph-confirms-measles-case-georgia
 Georgia,https://dph.georgia.gov/press-releases/2026-05-19/dph-confirms-three-new-measles-cases-georgia
 Georgia,https://dph.georgia.gov/press-releases/2026-08-18/dph-confirms-measles-case-georgia-mmr-vaccine-safe-and-effective
+Georgia,https://dph.georgia.gov/press-releases/2026-08-28/dph-confirms-four-additional-measles-cases-georgia
 Hawaii,https://health.hawaii.gov/news/newsroom/doh-confirms-second-case-of-measles-in-hawai_i/
 Hawaii,https://health.hawaii.gov/news/newsroom/measles-case-confirmed-in-child-on-o_ahu-doh-notifies-public-of-measles-exposure-locations/
 Hawaii,https://health.hawaii.gov/news/newsroom/measles-case-confirmed-in-visitor-on-oʻahu-doh-notifies-public-of-measles-exposure-locations/
@@ -108,6 +111,7 @@ Illinois,https://dph.illinois.gov/resource-center/news/2026/february/2026measles
 Illinois,https://dph.illinois.gov/topics-services/diseases-and-conditions/measles.html
 Illinois,https://dph.illinois.gov/topics-services/diseases-and-conditions/measles/case-counts.html
 Illinois,https://www.illinois.gov/news/press-release.31199.html
+Illinois,https://www.kanehealth.com/Pages/Measles-Update.aspx
 Indiana,https://allencountyhealth.com/department/news/additional-measles-cases-confirmed
 Indiana,https://allencountyhealth.com/department/news/health-department-confirms-measles-case
 Indiana,https://allencountyhealth.com/department/news/health-officials-confirm-two-additional-measles-cases-risk-to-community-remains-low
@@ -126,15 +130,12 @@ Louisiana,https://ldh.la.gov/news/measles-exposure-r9
 Louisiana,https://ldh.la.gov/news/measles-whooping-cough-update
 Maine,https://www.maine.gov/dhhs/news/maine-cdc-announces-another-four-measles-cases-no-new-exposure-locations-identified-2026-02-17
 Maine,https://www.maine.gov/dhhs/news/maine-cdc-confirms-case-measles-maine-2026-02-06
-Maryland,https://health.maryland.gov/newsroom/Pages/Maryland%20Department%20of%20Health%20confirms%20an%20additional%20measles%20case%20in%20Central%20Maryland%20resident.aspx
-Maryland,https://health.maryland.gov/newsroom/Pages/Maryland%20Department%20of%20Health%20confirms%20five%20measles%20cases%20in%20residents%20following%20recent%20out-of-state%20travel.aspx
-Maryland,https://health.maryland.gov/newsroom/Pages/Maryland%20Department%20of%20Health%20confirms%20two%20measles%20cases%20in%20residents%20following%20recent%20out-of-state%20travel.aspx
+Maryland,https://health.maryland.gov/newsroom/Pages/Maryland%20Department%20of%20Health%20declares%20measles%20outbreak%20in%20three%20Maryland%20counties.aspx
 Maryland,https://health.maryland.gov/newsroom/Pages/One%20case%20of%20measles%20confirmed%20in%20Maryland%20resident%20with%20recent%20international%20travel.aspx
 Maryland,https://health.maryland.gov/newsroom/Pages/One-Case-of-Measles-Confirmed-in-Maryland.aspx
 Maryland,https://health.maryland.gov/newsroom/Pages/One-case-of-measles-confirmed-in-Maryland-resident-with-recent-international-travel-.aspx
 Maryland,https://health.maryland.gov/newsroom/Pages/Two%20cases%20of%20measles%20confirmed%20in%20Maryland%20residents%20with%20recent%20out%20of%20state%20travel.aspx
 Maryland,https://health.maryland.gov/newsroom/Pages/Two-cases-of-measles-confirmed-in-Maryland-residents-with-recent-international-travel.aspx
-Maryland,https://health.maryland.gov/phpa/OIDEOR/IMMUN/pages/measles.aspx
 Massachusetts,https://www.mass.gov/news/state-public-health-officials-announce-first-two-confirmed-measles-cases-in-massachusetts-this-year
 Michigan,https://cms4files.revize.com/marquettemi/HealthDept/NewsRelease/PressReleaseMeaslesMQT.pdf
 Michigan,https://content.civicplus.com/api/assets/509ae542-e396-4279-b210-07841b2ddd76
@@ -153,7 +154,6 @@ Michigan,https://www.michigan.gov/mdhhs/inside-mdhhs/newsroom/2026/03/19/measles
 Minnesota,https://www.health.state.mn.us/diseases/measles/stats.html
 Minnesota,https://www.health.state.mn.us/news/pressrel/2025/measles060225.html
 Minnesota,https://www.health.state.mn.us/news/pressrel/2025/measles100125.html
-Minnesota,https://www.michigan.gov/mdhhs/inside-mdhhs/newsroom/2026/03/19/measles-outbreak
 Minnesota,https://www.olmstedcounty.gov/government/county-news-events/county-news/Measles-case-confirmed-in-Olmsted-County
 Missouri,https://content.govdelivery.com/accounts/MODHSS/bulletins/3df3486
 Missouri,https://health.mo.gov/news/newsitem/uuid/58f781a5-e996-4c78-918c-07b00af263cf/case-of-measles-confirmed-in-traveler-to-missouri
@@ -192,6 +192,7 @@ New Mexico,https://www.nmhealth.org/news/vaccine/2025/3/?view=2190
 New Mexico,https://www.nmhealth.org/news/vaccine/2025/4/?view=2198
 New York,https://www.alleganyco.gov/news/no-category/measles-investigation-update-8-12-26/
 New York,https://www.alleganyco.gov/news/no-category/measles-investigation-update-8-6-26/
+New York,https://www.alleganyco.gov/wp-content/uploads/8.18.26-Measles-Update.pdf
 New York,https://www.facebook.com/photo?fbid=1482508323909405&set=pcb.1482509533909284
 New York,https://www.facebook.com/photo?fbid=1518499770321010&set=pcb.1518500683654252
 New York,https://www.facebook.com/photo?fbid=1521009013403419&set=pcb.1521011373403183
