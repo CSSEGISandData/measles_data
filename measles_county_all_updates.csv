@@ -1257,6 +1257,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Unknown County, Illinois",17,county,2025-10-22,case_lab-confirmed,2
 "Unknown County, Illinois",17,county,2026-02-18,case_lab-confirmed,1
 "Unknown County, Illinois",17,county,2026-04-01,case_lab-confirmed,2
+"Unknown County, Illinois",17,county,2026-09-01,case_lab-confirmed,1
 "Unknown County, Kansas",20,county,2025-03-31,case_lab-confirmed,9
 "Unknown County, Kansas",20,county,2025-04-05,case_lab-confirmed,1
 "Unknown County, Kansas",20,county,2025-04-09,case_lab-confirmed,2
