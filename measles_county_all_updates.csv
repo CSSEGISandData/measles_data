@@ -253,6 +253,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Cook, Illinois",17031,county,2025-09-16,case_lab-confirmed,1
 "Cook, Illinois",17031,county,2025-09-30,case_lab-confirmed,1
 "Cumberland, Pennsylvania",42041,county,2025-12-18,case_lab-confirmed,2
+"Cumberland, Pennsylvania",42041,county,2026-08-31,case_lab-confirmed,1
 "Curry, New Mexico",35009,county,2025-05-09,case_lab-confirmed,1
 "Cuyahoga, Ohio",39035,county,2025-04-28,case_lab-confirmed,1
 "Cuyahoga, Ohio",39035,county,2025-12-29,case_lab-confirmed,1
@@ -1145,7 +1146,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Southwest Health District, Utah",0,county,2025-12-23,case_lab-confirmed,10
 "Southwest Health District, Utah",0,county,2025-12-30,case_lab-confirmed,13
 "Southwest Health District, Utah",0,county,2025-12-31,case_lab-confirmed,41
-"Southwest Health District, Utah",0,county,2026-01-27,case_lab-confirmed,4
+"Southwest Health District, Utah",0,county,2026-01-27,case_lab-confirmed,3
 "Southwest Health District, Utah",0,county,2026-02-03,case_lab-confirmed,5
 "Southwest Health District, Utah",0,county,2026-02-10,case_lab-confirmed,15
 "Southwest Health District, Utah",0,county,2026-02-17,case_lab-confirmed,16
