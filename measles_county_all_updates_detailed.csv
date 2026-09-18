@@ -113,6 +113,8 @@ location_name,location_id,location_type,date,outcome_type,value
 "Ashtabula, Ohio",39007,county,2026-09-04,case_local,3
 "Ashtabula, Ohio",39007,county,2026-09-08,case_lab-confirmed,3
 "Ashtabula, Ohio",39007,county,2026-09-08,case_local,3
+"Ashtabula, Ohio",39007,county,2026-09-15,case_lab-confirmed,2
+"Ashtabula, Ohio",39007,county,2026-09-15,case_local,2
 "Atascosa, Texas",48013,county,2025-04-25,case_lab-confirmed,1
 "Atascosa, Texas",48013,county,2025-04-25,case_local,1
 "Bailey, Texas",48017,county,2025-04-23,case_lab-confirmed,2
@@ -1077,6 +1079,8 @@ location_name,location_id,location_type,date,outcome_type,value
 "Geauga, Ohio",39055,county,2026-09-04,case_local,4
 "Geauga, Ohio",39055,county,2026-09-08,case_lab-confirmed,1
 "Geauga, Ohio",39055,county,2026-09-08,case_local,1
+"Geauga, Ohio",39055,county,2026-09-15,case_lab-confirmed,5
+"Geauga, Ohio",39055,county,2026-09-15,case_local,5
 "Grand Forks, North Dakota",38035,county,2025-05-16,case_imported,1
 "Grand Forks, North Dakota",38035,county,2025-05-16,case_lab-confirmed,1
 "Grand Forks, North Dakota",38035,county,2025-05-17,case_imported,1
@@ -1277,6 +1281,8 @@ location_name,location_id,location_type,date,outcome_type,value
 "Holmes, Ohio",39075,county,2026-09-04,case_local,1
 "Holmes, Ohio",39075,county,2026-09-08,case_lab-confirmed,1
 "Holmes, Ohio",39075,county,2026-09-08,case_local,1
+"Holmes, Ohio",39075,county,2026-09-15,case_lab-confirmed,2
+"Holmes, Ohio",39075,county,2026-09-15,case_local,2
 "Honolulu, Hawaii",15003,county,2025-04-08,case_imported,1
 "Honolulu, Hawaii",15003,county,2025-04-08,case_lab-confirmed,1
 "Honolulu, Hawaii",15003,county,2025-04-08,case_unvaccinated,1
@@ -1968,6 +1974,8 @@ location_name,location_id,location_type,date,outcome_type,value
 "Montour, Pennsylvania",42093,county,2026-09-18,case_local,1
 "Morgan, Ohio",39115,county,2026-09-04,case_lab-confirmed,1
 "Morgan, Ohio",39115,county,2026-09-04,case_local,1
+"Morgan, Ohio",39115,county,2026-09-15,case_lab-confirmed,2
+"Morgan, Ohio",39115,county,2026-09-15,case_local,2
 "Multnomah, Oregon",41051,county,2025-06-24,case_imported,1
 "Multnomah, Oregon",41051,county,2025-06-24,case_lab-confirmed,1
 "Multnomah, Oregon",41051,county,2025-06-24,case_unvaccinated,1
@@ -2971,6 +2979,8 @@ location_name,location_id,location_type,date,outcome_type,value
 "Trumbull, Ohio",39155,county,2026-09-04,case_local,2
 "Trumbull, Ohio",39155,county,2026-09-08,case_lab-confirmed,1
 "Trumbull, Ohio",39155,county,2026-09-08,case_local,1
+"Trumbull, Ohio",39155,county,2026-09-15,case_lab-confirmed,1
+"Trumbull, Ohio",39155,county,2026-09-15,case_local,1
 "Tulare, California",6107,county,2025-07-22,case_lab-confirmed,1
 "Tulare, California",6107,county,2025-07-22,case_local,1
 "Tulare, California",6107,county,2025-07-22,case_unvaccinated,1
@@ -2993,6 +3003,8 @@ location_name,location_id,location_type,date,outcome_type,value
 "Tuscarawas, Ohio",39157,county,2026-08-03,case_local,1
 "Tuscarawas, Ohio",39157,county,2026-08-21,case_lab-confirmed,4
 "Tuscarawas, Ohio",39157,county,2026-08-21,case_local,4
+"Tuscarawas, Ohio",39157,county,2026-09-15,case_lab-confirmed,1
+"Tuscarawas, Ohio",39157,county,2026-09-15,case_local,1
 "Twin Cities Metro Area, Minnesota",27,county,2025-10-01,case_imported,10
 "Twin Cities Metro Area, Minnesota",27,county,2025-10-01,case_lab-confirmed,10
 "Twin Cities Metro Area, Minnesota",27,county,2025-10-01,case_unvaccinated,10
@@ -3355,6 +3367,8 @@ location_name,location_id,location_type,date,outcome_type,value
 "Wayne, Ohio",39169,county,2026-08-28,case_local,1
 "Wayne, Ohio",39169,county,2026-09-04,case_lab-confirmed,3
 "Wayne, Ohio",39169,county,2026-09-04,case_local,3
+"Wayne, Ohio",39169,county,2026-09-15,case_lab-confirmed,34
+"Wayne, Ohio",39169,county,2026-09-15,case_local,34
 "Weber-Morgan, Utah",49057,county,2026-01-20,case_lab-confirmed,2
 "Weber-Morgan, Utah",49057,county,2026-01-20,case_local,2
 "Weld, Colorado",8123,county,2025-12-15,case_lab-confirmed,1
