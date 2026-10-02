@@ -11,6 +11,8 @@ location_name,location_id,location_type,date,outcome_type,value
 "Adams, Colorado",8001,county,2026-03-06,case_unvaccinated,5
 "Adams, Indiana",18001,county,2026-09-25,case_lab-confirmed,2
 "Adams, Indiana",18001,county,2026-09-25,case_local,2
+"Adams, Indiana",18001,county,2026-10-02,case_lab-confirmed,1
+"Adams, Indiana",18001,county,2026-10-02,case_local,1
 "Adams, Pennsylvania",42001,county,2026-08-31,case_lab-confirmed,1
 "Adams, Pennsylvania",42001,county,2026-08-31,case_local,1
 "Alachua, Florida",12001,county,2026-01-25,case_lab-confirmed,1
@@ -81,6 +83,8 @@ location_name,location_id,location_type,date,outcome_type,value
 "Armstrong, Pennsylvania",42005,county,2026-09-04,case_local,1
 "Armstrong, Pennsylvania",42005,county,2026-09-23,case_lab-confirmed,1
 "Armstrong, Pennsylvania",42005,county,2026-09-23,case_local,1
+"Ashland, Ohio",39005,county,2026-09-29,case_lab-confirmed,1
+"Ashland, Ohio",39005,county,2026-09-29,case_local,1
 "Ashtabula, Ohio",39007,county,2025-02-24,case_imported,1
 "Ashtabula, Ohio",39007,county,2025-02-24,case_lab-confirmed,1
 "Ashtabula, Ohio",39007,county,2025-02-24,case_unvaccinated,1
@@ -184,6 +188,8 @@ location_name,location_id,location_type,date,outcome_type,value
 "Berks, Pennsylvania",42011,county,2026-07-22,case_local,1
 "Berks, Pennsylvania",42011,county,2026-09-25,case_lab-confirmed,1
 "Berks, Pennsylvania",42011,county,2026-09-25,case_local,1
+"Berks, Pennsylvania",42011,county,2026-10-02,case_lab-confirmed,1
+"Berks, Pennsylvania",42011,county,2026-10-02,case_local,1
 "Bexar, Texas",48029,county,2025-07-01,case_lab-confirmed,1
 "Bexar, Texas",48029,county,2025-07-01,case_local,1
 "Bexar, Texas",48029,county,2025-08-12,case_lab-confirmed,1
@@ -462,6 +468,8 @@ location_name,location_id,location_type,date,outcome_type,value
 "Centre, Pennsylvania",42027,county,2026-09-11,case_local,1
 "Centre, Pennsylvania",42027,county,2026-09-18,case_lab-confirmed,1
 "Centre, Pennsylvania",42027,county,2026-09-18,case_local,1
+"Centre, Pennsylvania",42027,county,2026-10-02,case_lab-confirmed,2
+"Centre, Pennsylvania",42027,county,2026-10-02,case_local,2
 "Charles, Maryland",24017,county,2026-08-24,case_lab-confirmed,1
 "Charles, Maryland",24017,county,2026-08-24,case_local,1
 "Charles, Maryland",24017,county,2026-08-24,case_unvaccinated,1
@@ -469,6 +477,8 @@ location_name,location_id,location_type,date,outcome_type,value
 "Chautauqua, New York",36013,county,2026-08-31,case_local,1
 "Chautauqua, New York",36013,county,2026-09-19,case_lab-confirmed,1
 "Chautauqua, New York",36013,county,2026-09-19,case_local,1
+"Chautauqua, New York",36013,county,2026-09-26,case_lab-confirmed,1
+"Chautauqua, New York",36013,county,2026-09-26,case_local,1
 "Chaves, New Mexico",35005,county,2025-04-08,case_lab-confirmed,1
 "Chaves, New Mexico",35005,county,2025-04-08,case_local,1
 "Chemung, New York",36015,county,2026-09-19,case_lab-confirmed,1
@@ -508,8 +518,12 @@ location_name,location_id,location_type,date,outcome_type,value
 "Chester, Pennsylvania",42029,county,2026-09-18,case_local,7
 "Chester, Pennsylvania",42029,county,2026-09-25,case_lab-confirmed,10
 "Chester, Pennsylvania",42029,county,2026-09-25,case_local,10
+"Chester, Pennsylvania",42029,county,2026-10-02,case_lab-confirmed,1
+"Chester, Pennsylvania",42029,county,2026-10-02,case_local,1
 "Chippewa, Wisconsin",55017,county,2026-09-22,case_lab-confirmed,1
 "Chippewa, Wisconsin",55017,county,2026-09-22,case_local,1
+"Chippewa, Wisconsin",55017,county,2026-10-02,case_lab-confirmed,9
+"Chippewa, Wisconsin",55017,county,2026-10-02,case_local,9
 "Christian, Kentucky",21047,county,2026-08-14,case_lab-confirmed,1
 "Christian, Kentucky",21047,county,2026-08-14,case_local,1
 "Christian, Kentucky",21047,county,2026-08-21,case_lab-confirmed,9
@@ -524,6 +538,8 @@ location_name,location_id,location_type,date,outcome_type,value
 "Christian, Kentucky",21047,county,2026-09-18,case_local,2
 "Christian, Kentucky",21047,county,2026-09-25,case_lab-confirmed,7
 "Christian, Kentucky",21047,county,2026-09-25,case_local,7
+"Christian, Kentucky",21047,county,2026-10-02,case_lab-confirmed,17
+"Christian, Kentucky",21047,county,2026-10-02,case_local,17
 "Clackamas, Oregon",41005,county,2026-01-16,case_lab-confirmed,1
 "Clackamas, Oregon",41005,county,2026-01-16,case_local,1
 "Clackamas, Oregon",41005,county,2026-01-16,case_unvaccinated,1
@@ -540,6 +556,8 @@ location_name,location_id,location_type,date,outcome_type,value
 "Clarion, Pennsylvania",42031,county,2026-09-18,case_local,1
 "Clarion, Pennsylvania",42031,county,2026-09-25,case_lab-confirmed,2
 "Clarion, Pennsylvania",42031,county,2026-09-25,case_local,2
+"Clarion, Pennsylvania",42031,county,2026-10-02,case_lab-confirmed,1
+"Clarion, Pennsylvania",42031,county,2026-10-02,case_local,1
 "Clark, Nevada",32003,county,2025-11-07,case_lab-confirmed,1
 "Clark, Nevada",32003,county,2025-11-07,case_local,1
 "Clark, Nevada",32003,county,2025-11-07,case_unvaccinated,1
@@ -580,6 +598,8 @@ location_name,location_id,location_type,date,outcome_type,value
 "Clearfield, Pennsylvania",42033,county,2026-09-18,case_local,3
 "Clearfield, Pennsylvania",42033,county,2026-09-25,case_lab-confirmed,7
 "Clearfield, Pennsylvania",42033,county,2026-09-25,case_local,7
+"Clearfield, Pennsylvania",42033,county,2026-10-02,case_lab-confirmed,7
+"Clearfield, Pennsylvania",42033,county,2026-10-02,case_local,7
 "Clinton, Pennsylvania",42035,county,2026-08-21,case_lab-confirmed,1
 "Clinton, Pennsylvania",42035,county,2026-08-21,case_local,1
 "Clinton, Pennsylvania",42035,county,2026-08-28,case_lab-confirmed,1
@@ -590,6 +610,8 @@ location_name,location_id,location_type,date,outcome_type,value
 "Clinton, Pennsylvania",42035,county,2026-09-18,case_local,1
 "Clinton, Pennsylvania",42035,county,2026-09-25,case_lab-confirmed,1
 "Clinton, Pennsylvania",42035,county,2026-09-25,case_local,1
+"Clinton, Pennsylvania",42035,county,2026-10-02,case_lab-confirmed,10
+"Clinton, Pennsylvania",42035,county,2026-10-02,case_local,10
 "Coastal Health District, Georgia",13,county,2026-01-12,case_imported,1
 "Coastal Health District, Georgia",13,county,2026-01-12,case_lab-confirmed,1
 "Coastal Health District, Georgia",13,county,2026-01-12,case_unvaccinated,1
@@ -648,6 +670,8 @@ location_name,location_id,location_type,date,outcome_type,value
 "Columbia, Pennsylvania",42037,county,2026-09-18,case_local,1
 "Columbia, Pennsylvania",42037,county,2026-09-25,case_lab-confirmed,2
 "Columbia, Pennsylvania",42037,county,2026-09-25,case_local,2
+"Columbia, Pennsylvania",42037,county,2026-10-02,case_lab-confirmed,1
+"Columbia, Pennsylvania",42037,county,2026-10-02,case_local,1
 "Contra Costa, California",6013,county,2025-12-24,case_lab-confirmed,1
 "Contra Costa, California",6013,county,2025-12-24,case_local,1
 "Cook, Illinois",17031,county,2025-04-25,case_imported,1
@@ -742,6 +766,8 @@ location_name,location_id,location_type,date,outcome_type,value
 "Dawson, Texas",48115,county,2025-04-25,case_local,1
 "Dawson, Texas",48115,county,2025-05-02,case_lab-confirmed,1
 "Dawson, Texas",48115,county,2025-05-02,case_local,1
+"DeKalb, Indiana",18033,county,2026-10-02,case_lab-confirmed,1
+"DeKalb, Indiana",18033,county,2026-10-02,case_local,1
 "Defiance, Ohio",39039,county,2025-04-13,case_imported,1
 "Defiance, Ohio",39039,county,2025-04-13,case_lab-confirmed,1
 "Delta, Colorado",8029,county,2026-05-30,case_lab-confirmed,1
@@ -927,6 +953,14 @@ location_name,location_id,location_type,date,outcome_type,value
 "Fayette, Kentucky",21067,county,2025-07-07,case_local,4
 "Fayette, Kentucky",21067,county,2025-07-10,case_lab-confirmed,1
 "Fayette, Kentucky",21067,county,2025-07-10,case_local,1
+"Fergus, Montana",30027,county,2026-09-20,case_lab-confirmed,1
+"Fergus, Montana",30027,county,2026-09-20,case_local,1
+"Fillmore, Minnesota",27045,county,2026-09-17,case_lab-confirmed,1
+"Fillmore, Minnesota",27045,county,2026-09-17,case_local,1
+"Fillmore, Minnesota",27045,county,2026-09-17,case_unvaccinated,1
+"Fillmore, Minnesota",27045,county,2026-10-01,case_lab-confirmed,2
+"Fillmore, Minnesota",27045,county,2026-10-01,case_local,2
+"Fillmore, Minnesota",27045,county,2026-10-01,case_unvaccinated,2
 "Flathead, Montana",30029,county,2025-05-21,case_imported,1
 "Flathead, Montana",30029,county,2025-05-21,case_lab-confirmed,1
 "Flathead, Montana",30029,county,2025-05-29,case_imported,1
@@ -969,6 +1003,8 @@ location_name,location_id,location_type,date,outcome_type,value
 "Franklin, Pennsylvania",42055,county,2026-09-18,case_local,1
 "Franklin, Pennsylvania",42055,county,2026-09-25,case_lab-confirmed,1
 "Franklin, Pennsylvania",42055,county,2026-09-25,case_local,1
+"Franklin, Pennsylvania",42055,county,2026-10-02,case_lab-confirmed,1
+"Franklin, Pennsylvania",42055,county,2026-10-02,case_local,1
 "Fremont, Wyoming",56013,county,2025-12-18,case_lab-confirmed,5
 "Fremont, Wyoming",56013,county,2025-12-18,case_local,5
 "Fremont, Wyoming",56013,county,2026-05-01,case_lab-confirmed,1
@@ -1129,6 +1165,8 @@ location_name,location_id,location_type,date,outcome_type,value
 "Geauga, Ohio",39055,county,2026-09-15,case_local,5
 "Geauga, Ohio",39055,county,2026-09-22,case_lab-confirmed,7
 "Geauga, Ohio",39055,county,2026-09-22,case_local,7
+"Geauga, Ohio",39055,county,2026-09-29,case_lab-confirmed,5
+"Geauga, Ohio",39055,county,2026-09-29,case_local,5
 "Grand Forks, North Dakota",38035,county,2025-05-16,case_imported,1
 "Grand Forks, North Dakota",38035,county,2025-05-16,case_lab-confirmed,1
 "Grand Forks, North Dakota",38035,county,2025-05-17,case_imported,1
@@ -1180,6 +1218,8 @@ location_name,location_id,location_type,date,outcome_type,value
 "Grant, Wisconsin",55043,county,2026-09-11,case_local,5
 "Grant, Wisconsin",55043,county,2026-09-22,case_lab-confirmed,1
 "Grant, Wisconsin",55043,county,2026-09-22,case_local,1
+"Grant, Wisconsin",55043,county,2026-10-02,case_lab-confirmed,35
+"Grant, Wisconsin",55043,county,2026-10-02,case_local,35
 "Gray, Kansas",20069,county,2025-04-30,case_lab-confirmed,15
 "Gray, Kansas",20069,county,2025-04-30,case_local,15
 "Gray, Kansas",20069,county,2025-05-14,case_lab-confirmed,6
@@ -1212,6 +1252,8 @@ location_name,location_id,location_type,date,outcome_type,value
 "HHS District 4, Iowa",19,county,2026-09-03,case_local,1
 "HHS District 4, Iowa",19,county,2026-09-17,case_lab-confirmed,7
 "HHS District 4, Iowa",19,county,2026-09-17,case_local,7
+"HHS District 4, Iowa",19,county,2026-10-02,case_lab-confirmed,1
+"HHS District 4, Iowa",19,county,2026-10-02,case_local,1
 "HHS District 5, Iowa",19,county,2026-08-20,case_lab-confirmed,3
 "HHS District 5, Iowa",19,county,2026-08-20,case_local,3
 "HHS District 5, Iowa",19,county,2026-09-03,case_lab-confirmed,2
@@ -1288,6 +1330,8 @@ location_name,location_id,location_type,date,outcome_type,value
 "Hennepin, Minnesota",27053,county,2025-04-23,case_imported,1
 "Hennepin, Minnesota",27053,county,2025-04-23,case_lab-confirmed,1
 "Hennepin, Minnesota",27053,county,2025-04-23,case_unvaccinated,1
+"Herkimer, New York",36043,county,2026-09-26,case_lab-confirmed,1
+"Herkimer, New York",36043,county,2026-09-26,case_local,1
 "Hidalgo, New Mexico",35023,county,2026-02-24,case_lab-confirmed,2
 "Hidalgo, New Mexico",35023,county,2026-02-24,case_local,2
 "Hill, Montana",30041,county,2025-05-22,case_lab-confirmed,1
@@ -1365,6 +1409,8 @@ location_name,location_id,location_type,date,outcome_type,value
 "Huntingdon, Pennsylvania",42061,county,2026-09-18,case_local,1
 "Huntingdon, Pennsylvania",42061,county,2026-09-25,case_lab-confirmed,1
 "Huntingdon, Pennsylvania",42061,county,2026-09-25,case_local,1
+"Huntingdon, Pennsylvania",42061,county,2026-10-02,case_lab-confirmed,2
+"Huntingdon, Pennsylvania",42061,county,2026-10-02,case_local,2
 "Indiana, Pennsylvania",42063,county,2026-07-20,case_lab-confirmed,1
 "Indiana, Pennsylvania",42063,county,2026-07-20,case_local,1
 "Indiana, Pennsylvania",42063,county,2026-07-31,case_lab-confirmed,2
@@ -1379,6 +1425,8 @@ location_name,location_id,location_type,date,outcome_type,value
 "Indiana, Pennsylvania",42063,county,2026-09-11,case_local,1
 "Indiana, Pennsylvania",42063,county,2026-09-18,case_lab-confirmed,3
 "Indiana, Pennsylvania",42063,county,2026-09-18,case_local,3
+"Indiana, Pennsylvania",42063,county,2026-10-02,case_lab-confirmed,4
+"Indiana, Pennsylvania",42063,county,2026-10-02,case_local,4
 "Ingham, Michigan",26065,county,2025-04-15,case_imported,1
 "Ingham, Michigan",26065,county,2025-04-15,case_lab-confirmed,1
 "Ingham, Michigan",26065,county,2025-04-15,case_vaccinated,1
@@ -1392,9 +1440,15 @@ location_name,location_id,location_type,date,outcome_type,value
 "Iowa, Wisconsin",55049,county,2026-08-28,case_local,18
 "Iowa, Wisconsin",55049,county,2026-09-04,case_lab-confirmed,10
 "Iowa, Wisconsin",55049,county,2026-09-04,case_local,10
+"Iowa, Wisconsin",55049,county,2026-10-02,case_lab-confirmed,12
+"Iowa, Wisconsin",55049,county,2026-10-02,case_local,12
 "Jackson, Missouri",29095,county,2026-03-03,case_lab-confirmed,1
 "Jackson, Missouri",29095,county,2026-03-03,case_local,1
 "Jackson, Missouri",29095,county,2026-03-03,case_unvaccinated,1
+"Jasper, Georgia",13159,county,2026-09-30,case_imported,1
+"Jasper, Georgia",13159,county,2026-09-30,case_lab-confirmed,5
+"Jasper, Georgia",13159,county,2026-09-30,case_local,4
+"Jasper, Georgia",13159,county,2026-09-30,case_unvaccinated,5
 "Jefferson, Kentucky",21111,county,2025-07-14,case_imported,1
 "Jefferson, Kentucky",21111,county,2025-07-14,case_lab-confirmed,1
 "Jefferson, Kentucky",21111,county,2025-07-28,case_lab-confirmed,1
@@ -1417,6 +1471,8 @@ location_name,location_id,location_type,date,outcome_type,value
 "Jefferson, Pennsylvania",42065,county,2026-09-18,case_local,6
 "Jefferson, Pennsylvania",42065,county,2026-09-25,case_lab-confirmed,9
 "Jefferson, Pennsylvania",42065,county,2026-09-25,case_local,9
+"Jefferson, Pennsylvania",42065,county,2026-10-02,case_lab-confirmed,3
+"Jefferson, Pennsylvania",42065,county,2026-10-02,case_local,3
 "Jessamine, Kentucky",21113,county,2026-01-16,case_lab-confirmed,1
 "Jessamine, Kentucky",21113,county,2026-01-16,case_local,1
 "Jessamine, Kentucky",21113,county,2026-01-30,case_lab-confirmed,3
@@ -1510,6 +1566,8 @@ location_name,location_id,location_type,date,outcome_type,value
 "Kootenai, Idaho",16055,county,2025-08-12,case_unvaccinated,1
 "Kootenai, Idaho",16055,county,2026-03-09,case_lab-confirmed,1
 "Kootenai, Idaho",16055,county,2026-03-09,case_local,1
+"LaGrange, Indiana",18087,county,2026-10-02,case_lab-confirmed,2
+"LaGrange, Indiana",18087,county,2026-10-02,case_local,2
 "Lafayette, Wisconsin",55065,county,2026-08-13,case_lab-confirmed,1
 "Lafayette, Wisconsin",55065,county,2026-08-13,case_local,1
 "Lafayette, Wisconsin",55065,county,2026-08-20,case_lab-confirmed,9
@@ -1523,6 +1581,8 @@ location_name,location_id,location_type,date,outcome_type,value
 "Lafayette, Wisconsin",55065,county,2026-09-11,case_local,14
 "Lafayette, Wisconsin",55065,county,2026-09-22,case_lab-confirmed,3
 "Lafayette, Wisconsin",55065,county,2026-09-22,case_local,3
+"Lafayette, Wisconsin",55065,county,2026-10-02,case_lab-confirmed,1
+"Lafayette, Wisconsin",55065,county,2026-10-02,case_local,1
 "Lake, Colorado",8065,county,2026-04-22,case_lab-confirmed,1
 "Lake, Colorado",8065,county,2026-04-22,case_local,1
 "Lake, Colorado",8065,county,2026-04-22,case_unvaccinated,1
@@ -1615,6 +1675,8 @@ location_name,location_id,location_type,date,outcome_type,value
 "Lancaster, Pennsylvania",42071,county,2026-09-18,case_local,29
 "Lancaster, Pennsylvania",42071,county,2026-09-25,case_lab-confirmed,35
 "Lancaster, Pennsylvania",42071,county,2026-09-25,case_local,35
+"Lancaster, Pennsylvania",42071,county,2026-10-02,case_lab-confirmed,32
+"Lancaster, Pennsylvania",42071,county,2026-10-02,case_local,32
 "Larimer, Colorado",8069,county,2026-07-03,case_lab-confirmed,1
 "Larimer, Colorado",8069,county,2026-07-03,case_local,1
 "Lea, New Mexico",35025,county,2025-02-11,case_lab-confirmed,1
@@ -1792,6 +1854,8 @@ location_name,location_id,location_type,date,outcome_type,value
 "Manatee, Florida",12081,county,2026-02-07,case_local,2
 "Marathon, Wisconsin",55073,county,2026-09-15,case_lab-confirmed,1
 "Marathon, Wisconsin",55073,county,2026-09-15,case_local,1
+"Marathon, Wisconsin",55073,county,2026-10-02,case_lab-confirmed,4
+"Marathon, Wisconsin",55073,county,2026-10-02,case_local,4
 "Maricopa, Arizona",4013,county,2026-01-20,case_lab-confirmed,1
 "Maricopa, Arizona",4013,county,2026-01-20,case_local,1
 "Maricopa, Arizona",4013,county,2026-02-03,case_lab-confirmed,2
@@ -1836,6 +1900,8 @@ location_name,location_id,location_type,date,outcome_type,value
 "McKean, Pennsylvania",42083,county,2026-09-08,case_local,5
 "McKean, Pennsylvania",42083,county,2026-09-18,case_lab-confirmed,1
 "McKean, Pennsylvania",42083,county,2026-09-18,case_local,1
+"McKean, Pennsylvania",42083,county,2026-10-02,case_lab-confirmed,2
+"McKean, Pennsylvania",42083,county,2026-10-02,case_local,2
 "McLennan, Texas",48309,county,2025-05-23,case_lab-confirmed,1
 "McLennan, Texas",48309,county,2025-05-23,case_local,1
 "McLennan, Texas",48309,county,2025-05-30,case_lab-confirmed,7
@@ -1864,8 +1930,8 @@ location_name,location_id,location_type,date,outcome_type,value
 "Mercer, Pennsylvania",42085,county,2026-09-04,case_local,1
 "Mercer, Pennsylvania",42085,county,2026-09-18,case_lab-confirmed,3
 "Mercer, Pennsylvania",42085,county,2026-09-18,case_local,3
-"Mercer, Pennsylvania",42085,county,2026-09-25,case_lab-confirmed,11
-"Mercer, Pennsylvania",42085,county,2026-09-25,case_local,11
+"Mercer, Pennsylvania",42085,county,2026-09-25,case_lab-confirmed,13
+"Mercer, Pennsylvania",42085,county,2026-09-25,case_local,13
 "Mesa, Colorado",8077,county,2025-08-15,case_lab-confirmed,1
 "Mesa, Colorado",8077,county,2025-08-15,case_local,1
 "Mesa, Colorado",8077,county,2025-08-15,case_unvaccinated,1
@@ -1921,6 +1987,8 @@ location_name,location_id,location_type,date,outcome_type,value
 "Mifflin, Pennsylvania",42087,county,2026-09-18,case_local,19
 "Mifflin, Pennsylvania",42087,county,2026-09-25,case_lab-confirmed,9
 "Mifflin, Pennsylvania",42087,county,2026-09-25,case_local,9
+"Mifflin, Pennsylvania",42087,county,2026-10-02,case_lab-confirmed,15
+"Mifflin, Pennsylvania",42087,county,2026-10-02,case_local,15
 "Missaukee, Michigan",26113,county,2026-08-13,case_lab-confirmed,1
 "Missaukee, Michigan",26113,county,2026-08-13,case_local,1
 "Mohave, Arizona",4015,county,2025-08-12,case_lab-confirmed,1
@@ -2048,6 +2116,8 @@ location_name,location_id,location_type,date,outcome_type,value
 "Morgan, Ohio",39115,county,2026-09-15,case_local,2
 "Morrow, Ohio",39117,county,2026-09-22,case_lab-confirmed,8
 "Morrow, Ohio",39117,county,2026-09-22,case_local,8
+"Morrow, Ohio",39117,county,2026-09-29,case_lab-confirmed,1
+"Morrow, Ohio",39117,county,2026-09-29,case_local,1
 "Multnomah, Oregon",41051,county,2025-06-24,case_imported,1
 "Multnomah, Oregon",41051,county,2025-06-24,case_lab-confirmed,1
 "Multnomah, Oregon",41051,county,2025-06-24,case_unvaccinated,1
@@ -2181,6 +2251,8 @@ location_name,location_id,location_type,date,outcome_type,value
 "Oconto, Wisconsin",55083,county,2025-09-07,case_lab-confirmed,1
 "Oconto, Wisconsin",55083,county,2025-09-07,case_local,1
 "Oconto, Wisconsin",55083,county,2025-09-07,case_unvaccinated,1
+"Ohio, Indiana",18115,county,2026-10-02,case_lab-confirmed,1
+"Ohio, Indiana",18115,county,2026-10-02,case_local,1
 "Okaloosa, Florida",12091,county,2025-11-11,case_imported,1
 "Okaloosa, Florida",12091,county,2025-11-11,case_lab-confirmed,1
 "Olmsted, Minnesota",27109,county,2025-10-17,case_imported,1
@@ -2228,6 +2300,8 @@ location_name,location_id,location_type,date,outcome_type,value
 "Otsego, New York",36077,county,2026-08-19,case_unvaccinated,1
 "Otsego, New York",36077,county,2026-09-19,case_lab-confirmed,7
 "Otsego, New York",36077,county,2026-09-19,case_local,7
+"Otsego, New York",36077,county,2026-09-26,case_lab-confirmed,9
+"Otsego, New York",36077,county,2026-09-26,case_local,9
 "Ottawa, Michigan",26139,county,2026-04-23,case_imported,1
 "Ottawa, Michigan",26139,county,2026-04-23,case_lab-confirmed,1
 "Ottawa, Michigan",26139,county,2026-05-07,case_lab-confirmed,2
@@ -2254,6 +2328,8 @@ location_name,location_id,location_type,date,outcome_type,value
 "Parke, Indiana",18121,county,2026-08-04,case_local,2
 "Parke, Indiana",18121,county,2026-08-25,case_lab-confirmed,1
 "Parke, Indiana",18121,county,2026-08-25,case_local,1
+"Parke, Indiana",18121,county,2026-10-02,case_lab-confirmed,1
+"Parke, Indiana",18121,county,2026-10-02,case_local,1
 "Parmer, Texas",48369,county,2025-04-18,case_lab-confirmed,4
 "Parmer, Texas",48369,county,2025-04-18,case_local,4
 "Parmer, Texas",48369,county,2025-05-06,case_lab-confirmed,1
@@ -2593,6 +2669,8 @@ location_name,location_id,location_type,date,outcome_type,value
 "Scurry, Texas",48415,county,2025-05-23,case_local,1
 "Seneca, New York",36099,county,2026-09-19,case_lab-confirmed,10
 "Seneca, New York",36099,county,2026-09-19,case_local,10
+"Seneca, New York",36099,county,2026-09-26,case_lab-confirmed,6
+"Seneca, New York",36099,county,2026-09-26,case_local,6
 "Shackelford, Texas",48417,county,2025-04-29,case_lab-confirmed,1
 "Shackelford, Texas",48417,county,2025-04-29,case_local,1
 "Shasta, California",6089,county,2026-01-31,case_lab-confirmed,1
@@ -2648,8 +2726,8 @@ location_name,location_id,location_type,date,outcome_type,value
 "Snyder, Pennsylvania",42109,county,2026-09-11,case_local,3
 "Snyder, Pennsylvania",42109,county,2026-09-18,case_lab-confirmed,8
 "Snyder, Pennsylvania",42109,county,2026-09-18,case_local,8
-"Snyder, Pennsylvania",42109,county,2026-09-25,case_lab-confirmed,7
-"Snyder, Pennsylvania",42109,county,2026-09-25,case_local,7
+"Snyder, Pennsylvania",42109,county,2026-09-25,case_lab-confirmed,6
+"Snyder, Pennsylvania",42109,county,2026-09-25,case_local,6
 "Somerset, Maine",23025,county,2026-09-16,case_lab-confirmed,1
 "Somerset, Maine",23025,county,2026-09-16,case_local,1
 "Somerset, Maine",23025,county,2026-09-16,case_unvaccinated,1
@@ -2899,6 +2977,8 @@ location_name,location_id,location_type,date,outcome_type,value
 "St. Mary's, Maryland",24037,county,2026-08-24,case_lab-confirmed,13
 "St. Mary's, Maryland",24037,county,2026-08-24,case_local,13
 "St. Mary's, Maryland",24037,county,2026-08-24,case_unvaccinated,13
+"Stark, Ohio",39151,county,2026-09-29,case_lab-confirmed,1
+"Stark, Ohio",39151,county,2026-09-29,case_local,1
 "Steuben, New York",36101,county,2026-08-18,case_lab-confirmed,1
 "Steuben, New York",36101,county,2026-08-18,case_local,1
 "Steuben, New York",36101,county,2026-08-18,case_unvaccinated,1
@@ -2919,6 +2999,8 @@ location_name,location_id,location_type,date,outcome_type,value
 "Steuben, New York",36101,county,2026-09-08,case_lab-confirmed,1
 "Steuben, New York",36101,county,2026-09-08,case_local,1
 "Steuben, New York",36101,county,2026-09-08,case_unvaccinated,1
+"Steuben, New York",36101,county,2026-09-26,case_lab-confirmed,2
+"Steuben, New York",36101,county,2026-09-26,case_local,2
 "Stevens, Kansas",20189,county,2025-03-31,case_lab-confirmed,6
 "Stevens, Kansas",20189,county,2025-03-31,case_local,6
 "Stevens, Kansas",20189,county,2025-04-09,case_lab-confirmed,1
@@ -3064,6 +3146,8 @@ location_name,location_id,location_type,date,outcome_type,value
 "Trigg, Kentucky",21221,county,2026-09-18,case_local,1
 "Trigg, Kentucky",21221,county,2026-09-25,case_lab-confirmed,4
 "Trigg, Kentucky",21221,county,2026-09-25,case_local,4
+"Trigg, Kentucky",21221,county,2026-10-02,case_lab-confirmed,10
+"Trigg, Kentucky",21221,county,2026-10-02,case_local,10
 "Trimble, Kentucky",21223,county,2026-09-18,case_lab-confirmed,1
 "Trimble, Kentucky",21223,county,2026-09-18,case_local,1
 "Trumbull, Ohio",39155,county,2026-07-31,case_lab-confirmed,1
@@ -3123,6 +3207,8 @@ location_name,location_id,location_type,date,outcome_type,value
 "Union, Pennsylvania",42119,county,2026-09-11,case_local,3
 "Union, Pennsylvania",42119,county,2026-09-25,case_lab-confirmed,10
 "Union, Pennsylvania",42119,county,2026-09-25,case_local,10
+"Union, Pennsylvania",42119,county,2026-10-02,case_lab-confirmed,1
+"Union, Pennsylvania",42119,county,2026-10-02,case_local,1
 "Unknown County, California",6,county,2025-06-16,case_lab-confirmed,1
 "Unknown County, California",6,county,2025-06-16,case_local,1
 "Unknown County, California",6,county,2025-10-13,case_lab-confirmed,1
@@ -3167,6 +3253,8 @@ location_name,location_id,location_type,date,outcome_type,value
 "Unknown County, Kansas",20,county,2026-09-16,case_local,1
 "Unknown County, Kansas",20,county,2026-09-23,case_lab-confirmed,1
 "Unknown County, Kansas",20,county,2026-09-23,case_local,1
+"Unknown County, Kansas",20,county,2026-09-30,case_lab-confirmed,1
+"Unknown County, Kansas",20,county,2026-09-30,case_local,1
 "Unknown County, Kentucky",21,county,2025-06-30,case_imported,1
 "Unknown County, Kentucky",21,county,2025-06-30,case_lab-confirmed,1
 "Unknown County, Maryland",23,county,2026-09-03,case_lab-confirmed,9
@@ -3175,6 +3263,8 @@ location_name,location_id,location_type,date,outcome_type,value
 "Unknown County, Maryland",23,county,2026-09-17,case_local,1
 "Unknown County, Maryland",23,county,2026-09-24,case_lab-confirmed,10
 "Unknown County, Maryland",23,county,2026-09-24,case_local,10
+"Unknown County, Maryland",23,county,2026-10-01,case_lab-confirmed,4
+"Unknown County, Maryland",23,county,2026-10-01,case_local,4
 "Unknown County, Massachusetts",25,county,2026-02-27,case_imported,1
 "Unknown County, Massachusetts",25,county,2026-02-27,case_lab-confirmed,1
 "Unknown County, Minnesota",27,county,2025-06-11,case_lab-confirmed,1
@@ -3289,6 +3379,8 @@ location_name,location_id,location_type,date,outcome_type,value
 "Unknown County, Oregon",41,county,2026-09-09,case_vaccinated,3
 "Unknown County, Oregon",41,county,2026-09-16,case_lab-confirmed,1
 "Unknown County, Oregon",41,county,2026-09-16,case_local,1
+"Unknown County, Oregon",41,county,2026-09-30,case_lab-confirmed,2
+"Unknown County, Oregon",41,county,2026-09-30,case_local,2
 "Unknown County, Pennsylvania",42,county,2025-08-21,case_imported,1
 "Unknown County, Pennsylvania",42,county,2025-08-21,case_lab-confirmed,1
 "Unknown County, South Carolina",45,county,2026-03-19,case_lab-confirmed,7
@@ -3391,6 +3483,10 @@ location_name,location_id,location_type,date,outcome_type,value
 "Ventura, California",6111,county,2026-08-05,case_lab-confirmed,1
 "Vernon, Wisconsin",55123,county,2026-09-22,case_lab-confirmed,2
 "Vernon, Wisconsin",55123,county,2026-09-22,case_local,2
+"Vernon, Wisconsin",55123,county,2026-10-02,case_lab-confirmed,8
+"Vernon, Wisconsin",55123,county,2026-10-02,case_local,8
+"Vinton, Ohio",39163,county,2026-09-29,case_lab-confirmed,1
+"Vinton, Ohio",39163,county,2026-09-29,case_local,1
 "Walla Walla, Washington",53071,county,2026-04-09,case_lab-confirmed,1
 "Walla Walla, Washington",53071,county,2026-04-09,case_local,1
 "Walla Walla, Washington",53071,county,2026-04-29,case_lab-confirmed,1
@@ -3413,6 +3509,8 @@ location_name,location_id,location_type,date,outcome_type,value
 "Warren, Pennsylvania",42123,county,2026-09-11,case_local,1
 "Warren, Pennsylvania",42123,county,2026-09-25,case_lab-confirmed,1
 "Warren, Pennsylvania",42123,county,2026-09-25,case_local,1
+"Warren, Pennsylvania",42123,county,2026-10-02,case_lab-confirmed,2
+"Warren, Pennsylvania",42123,county,2026-10-02,case_local,2
 "Wasatch, Utah",49051,county,2025-11-25,case_lab-confirmed,8
 "Wasatch, Utah",49051,county,2025-11-25,case_local,8
 "Wasatch, Utah",49051,county,2025-11-25,case_unvaccinated,8
@@ -3460,6 +3558,8 @@ location_name,location_id,location_type,date,outcome_type,value
 "Wayne, Indiana",18177,county,2026-09-15,case_local,2
 "Wayne, New York",36117,county,2026-09-19,case_lab-confirmed,5
 "Wayne, New York",36117,county,2026-09-19,case_local,5
+"Wayne, New York",36117,county,2026-09-26,case_lab-confirmed,1
+"Wayne, New York",36117,county,2026-09-26,case_local,1
 "Wayne, Ohio",39169,county,2026-07-28,case_lab-confirmed,2
 "Wayne, Ohio",39169,county,2026-07-28,case_local,2
 "Wayne, Ohio",39169,county,2026-08-21,case_lab-confirmed,3
@@ -3549,10 +3649,14 @@ location_name,location_id,location_type,date,outcome_type,value
 "Williamson, Texas",48491,county,2025-05-30,case_local,6
 "Williamson, Texas",48491,county,2025-08-07,case_lab-confirmed,2
 "Williamson, Texas",48491,county,2025-08-07,case_local,2
+"Wood, Ohio",39173,county,2026-09-29,case_lab-confirmed,1
+"Wood, Ohio",39173,county,2026-09-29,case_local,1
 "Woodford, Kentucky",21239,county,2025-06-30,case_lab-confirmed,3
 "Woodford, Kentucky",21239,county,2025-06-30,case_local,3
 "Yates, New York",36123,county,2026-09-19,case_lab-confirmed,1
 "Yates, New York",36123,county,2026-09-19,case_local,1
+"Yates, New York",36123,county,2026-09-26,case_lab-confirmed,2
+"Yates, New York",36123,county,2026-09-26,case_local,2
 "Yavapai, Arizona",4025,county,2026-07-15,case_lab-confirmed,1
 "Yavapai, Arizona",4025,county,2026-07-15,case_local,1
 "Yellowstone, Montana",30111,county,2025-06-01,case_lab-confirmed,2
@@ -3609,3 +3713,5 @@ location_name,location_id,location_type,date,outcome_type,value
 "York, Pennsylvania",42133,county,2026-09-18,case_local,1
 "York, Pennsylvania",42133,county,2026-09-25,case_lab-confirmed,7
 "York, Pennsylvania",42133,county,2026-09-25,case_local,7
+"York, Pennsylvania",42133,county,2026-10-02,case_lab-confirmed,1
+"York, Pennsylvania",42133,county,2026-10-02,case_local,1
