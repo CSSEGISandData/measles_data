@@ -766,6 +766,8 @@ location_name,location_id,location_type,date,outcome_type,value
 "Dakota, Minnesota",27037,county,2025-06-02,case_lab-confirmed,1
 "Dakota, Minnesota",27037,county,2025-06-02,case_local,1
 "Dakota, Minnesota",27037,county,2025-06-02,case_unvaccinated,1
+"Dakota, Minnesota",27037,county,2026-10-15,case_lab-confirmed,1
+"Dakota, Minnesota",27037,county,2026-10-15,case_local,1
 "Dallam, Texas",48111,county,2025-02-25,case_lab-confirmed,4
 "Dallam, Texas",48111,county,2025-02-25,case_local,4
 "Dallam, Texas",48111,county,2025-03-18,case_lab-confirmed,2
