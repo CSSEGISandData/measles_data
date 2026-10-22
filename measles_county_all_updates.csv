@@ -338,7 +338,6 @@ location_name,location_id,location_type,date,outcome_type,value
 "Cuyahoga, Ohio",39035,county,2026-01-04,case_lab-confirmed,2
 "Cuyahoga, Ohio",39035,county,2026-01-06,case_lab-confirmed,1
 "Dakota, Minnesota",27037,county,2025-06-02,case_lab-confirmed,1
-"Dakota, Minnesota",27037,county,2026-10-15,case_lab-confirmed,1
 "Dallam, Texas",48111,county,2025-02-25,case_lab-confirmed,4
 "Dallam, Texas",48111,county,2025-03-18,case_lab-confirmed,2
 "Dallam, Texas",48111,county,2025-03-20,case_lab-confirmed,1
@@ -1310,6 +1309,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Schuylkill, Pennsylvania",42107,county,2026-09-25,case_lab-confirmed,1
 "Schuylkill, Pennsylvania",42107,county,2026-10-09,case_lab-confirmed,1
 "Schuylkill, Pennsylvania",42107,county,2026-10-16,case_lab-confirmed,1
+"Scott, Minnesota",27139,county,2026-10-22,case_lab-confirmed,1
 "Scurry, Texas",48415,county,2025-05-23,case_lab-confirmed,1
 "Seneca, New York",36099,county,2026-09-19,case_lab-confirmed,10
 "Seneca, New York",36099,county,2026-09-26,case_lab-confirmed,6
@@ -1505,14 +1505,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Todd, Minnesota",27153,county,2026-01-22,case_lab-confirmed,12
 "Todd, Minnesota",27153,county,2026-02-13,case_lab-confirmed,1
 "Todd, Minnesota",27153,county,2026-02-18,case_lab-confirmed,3
-"Todd, Minnesota",27153,county,2026-02-26,case_lab-confirmed,5
-"Todd, Minnesota",27153,county,2026-03-05,case_lab-confirmed,2
-"Todd, Minnesota",27153,county,2026-03-12,case_lab-confirmed,2
-"Todd, Minnesota",27153,county,2026-04-02,case_lab-confirmed,1
-"Todd, Minnesota",27153,county,2026-04-16,case_lab-confirmed,1
-"Todd, Minnesota",27153,county,2026-04-30,case_lab-confirmed,1
-"Todd, Minnesota",27153,county,2026-09-18,case_lab-confirmed,1
-"Todd, Minnesota",27153,county,2026-10-08,case_lab-confirmed,2
+"Todd, Minnesota",27153,county,2026-10-08,case_lab-confirmed,4
 "Tooele, Utah",49045,county,2026-02-17,case_lab-confirmed,2
 "Tooele, Utah",49045,county,2026-02-24,case_lab-confirmed,4
 "Tooele, Utah",49045,county,2026-03-10,case_lab-confirmed,5
