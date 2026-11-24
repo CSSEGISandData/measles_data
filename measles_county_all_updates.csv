@@ -121,6 +121,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Blair, Pennsylvania",42013,county,2026-10-16,case_lab-confirmed,1
 "Blair, Pennsylvania",42013,county,2026-10-28,case_lab-confirmed,1
 "Blair, Pennsylvania",42013,county,2026-11-06,case_lab-confirmed,1
+"Blair, Pennsylvania",42013,county,2026-11-23,case_lab-confirmed,1
 "Bonner, Idaho",16017,county,2025-08-20,case_lab-confirmed,1
 "Bonneville, Idaho",16019,county,2025-08-07,case_lab-confirmed,2
 "Bonneville, Idaho",16019,county,2025-09-13,case_lab-confirmed,3
@@ -203,6 +204,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Cayuga, New York",36011,county,2026-10-24,case_lab-confirmed,1
 "Cayuga, New York",36011,county,2026-11-07,case_lab-confirmed,2
 "Cayuga, New York",36011,county,2026-11-14,case_lab-confirmed,1
+"Cayuga, New York",36011,county,2026-11-21,case_lab-confirmed,1
 "Cecil, Maryland",24015,county,2026-08-24,case_lab-confirmed,5
 "Cedar, Missouri",29039,county,2025-06-23,case_lab-confirmed,1
 "Cedar, Missouri",29039,county,2025-07-01,case_lab-confirmed,1
@@ -220,6 +222,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Central Region, Virginia",0,county,2026-11-05,case_lab-confirmed,3
 "Central Region, Virginia",0,county,2026-11-12,case_lab-confirmed,2
 "Central Region, Virginia",0,county,2026-11-19,case_lab-confirmed,35
+"Central Region, Virginia",0,county,2026-11-24,case_lab-confirmed,8
 "Central, Iowa",19,county,2025-05-23,case_lab-confirmed,1
 "Central, Iowa",19,county,2025-12-16,case_lab-confirmed,1
 "Central, Utah",0,county,2025-11-18,case_lab-confirmed,2
@@ -271,6 +274,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Chautauqua, New York",36013,county,2026-10-31,case_lab-confirmed,1
 "Chautauqua, New York",36013,county,2026-11-07,case_lab-confirmed,1
 "Chautauqua, New York",36013,county,2026-11-14,case_lab-confirmed,2
+"Chautauqua, New York",36013,county,2026-11-21,case_lab-confirmed,2
 "Chaves, New Mexico",35005,county,2025-04-08,case_lab-confirmed,1
 "Chemung, New York",36015,county,2026-09-19,case_lab-confirmed,1
 "Chenango, New York",36017,county,2026-09-19,case_lab-confirmed,1
@@ -299,12 +303,14 @@ location_name,location_id,location_type,date,outcome_type,value
 "Chester, Pennsylvania",42029,county,2026-11-06,case_lab-confirmed,1
 "Chester, Pennsylvania",42029,county,2026-11-13,case_lab-confirmed,2
 "Chester, Pennsylvania",42029,county,2026-11-20,case_lab-confirmed,4
+"Chester, Pennsylvania",42029,county,2026-11-23,case_lab-confirmed,1
 "Chippewa, Wisconsin",55017,county,2026-09-22,case_lab-confirmed,1
 "Chippewa, Wisconsin",55017,county,2026-10-02,case_lab-confirmed,9
 "Chippewa, Wisconsin",55017,county,2026-10-09,case_lab-confirmed,1
 "Chippewa, Wisconsin",55017,county,2026-10-30,case_lab-confirmed,22
 "Chippewa, Wisconsin",55017,county,2026-11-06,case_lab-confirmed,11
 "Chippewa, Wisconsin",55017,county,2026-11-13,case_lab-confirmed,1
+"Chippewa, Wisconsin",55017,county,2026-11-24,case_lab-confirmed,2
 "Christian, Kentucky",21047,county,2026-08-14,case_lab-confirmed,1
 "Christian, Kentucky",21047,county,2026-08-21,case_lab-confirmed,9
 "Christian, Kentucky",21047,county,2026-08-28,case_lab-confirmed,4
@@ -316,6 +322,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Christian, Kentucky",21047,county,2026-10-23,case_lab-confirmed,14
 "Christian, Kentucky",21047,county,2026-11-06,case_lab-confirmed,3
 "Christian, Kentucky",21047,county,2026-11-20,case_lab-confirmed,2
+"Christian, Kentucky",21047,county,2026-11-24,case_lab-confirmed,1
 "Christian, Missouri",29043,county,2026-11-05,case_lab-confirmed,1
 "Clackamas, Oregon",41005,county,2026-01-16,case_lab-confirmed,1
 "Clackamas, Oregon",41005,county,2026-02-26,case_lab-confirmed,1
@@ -345,6 +352,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Clark, Washington",53011,county,2026-09-24,case_lab-confirmed,2
 "Clark, Wisconsin",55019,county,2026-11-13,case_lab-confirmed,4
 "Clark, Wisconsin",55019,county,2026-11-17,case_lab-confirmed,1
+"Clark, Wisconsin",55019,county,2026-11-24,case_lab-confirmed,6
 "Clearfield, Pennsylvania",42033,county,2026-08-14,case_lab-confirmed,4
 "Clearfield, Pennsylvania",42033,county,2026-08-21,case_lab-confirmed,4
 "Clearfield, Pennsylvania",42033,county,2026-08-28,case_lab-confirmed,1
@@ -404,6 +412,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Columbia, Pennsylvania",42037,county,2026-10-02,case_lab-confirmed,1
 "Columbia, Wisconsin",55021,county,2026-11-06,case_lab-confirmed,33
 "Columbia, Wisconsin",55021,county,2026-11-13,case_lab-confirmed,14
+"Columbia, Wisconsin",55021,county,2026-11-24,case_lab-confirmed,54
 "Contra Costa, California",6013,county,2025-12-24,case_lab-confirmed,1
 "Cook, Illinois",17031,county,2025-04-25,case_lab-confirmed,1
 "Cook, Illinois",17031,county,2025-04-28,case_lab-confirmed,1
@@ -413,10 +422,13 @@ location_name,location_id,location_type,date,outcome_type,value
 "Cook, Illinois",17031,county,2026-09-24,case_lab-confirmed,1
 "Cortland, New York",36023,county,2026-09-19,case_lab-confirmed,2
 "Cortland, New York",36023,county,2026-10-06,case_lab-confirmed,2
+"Cortland, New York",36023,county,2026-11-21,case_lab-confirmed,1
 "Crawford, Pennsylvania",42039,county,2026-10-21,case_lab-confirmed,1
 "Crawford, Pennsylvania",42039,county,2026-11-13,case_lab-confirmed,1
 "Crawford, Pennsylvania",42039,county,2026-11-20,case_lab-confirmed,8
+"Crawford, Pennsylvania",42039,county,2026-11-23,case_lab-confirmed,1
 "Crawford, Wisconsin",55023,county,2026-11-13,case_lab-confirmed,1
+"Crawford, Wisconsin",55023,county,2026-11-24,case_lab-confirmed,12
 "Cumberland, Pennsylvania",42041,county,2025-12-18,case_lab-confirmed,2
 "Cumberland, Pennsylvania",42041,county,2026-08-31,case_lab-confirmed,1
 "Cumberland, Pennsylvania",42041,county,2026-10-28,case_lab-confirmed,1
@@ -505,6 +517,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Eastern, Iowa",19,county,2025-06-12,case_lab-confirmed,3
 "Eastern, Iowa",19,county,2025-07-14,case_lab-confirmed,1
 "Eastland, Texas",48133,county,2025-05-02,case_lab-confirmed,2
+"Eau Claire, Wisconsin",55035,county,2026-11-24,case_lab-confirmed,2
 "Ector, Texas",48135,county,2025-02-21,case_lab-confirmed,1
 "Ector, Texas",48135,county,2025-02-25,case_lab-confirmed,1
 "Ector, Texas",48135,county,2025-03-20,case_lab-confirmed,2
@@ -713,6 +726,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Grant, Wisconsin",55043,county,2026-11-06,case_lab-confirmed,9
 "Grant, Wisconsin",55043,county,2026-11-13,case_lab-confirmed,79
 "Grant, Wisconsin",55043,county,2026-11-17,case_lab-confirmed,11
+"Grant, Wisconsin",55043,county,2026-11-24,case_lab-confirmed,1
 "Gray, Kansas",20069,county,2025-04-30,case_lab-confirmed,15
 "Gray, Kansas",20069,county,2025-05-14,case_lab-confirmed,6
 "Gray, Kansas",20069,county,2025-05-28,case_lab-confirmed,3
@@ -723,6 +737,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Greater Boston, Massachusetts",25025,county,2026-02-27,case_lab-confirmed,1
 "Green Lake, Wisconsin",55047,county,2026-11-06,case_lab-confirmed,5
 "Green Lake, Wisconsin",55047,county,2026-11-13,case_lab-confirmed,9
+"Green Lake, Wisconsin",55047,county,2026-11-24,case_lab-confirmed,21
 "Greene, Missouri",29077,county,2026-10-16,case_lab-confirmed,3
 "Greenville, South Carolina",45045,county,2026-03-19,case_lab-confirmed,8
 "Guilford, North Carolina",37081,county,2025-06-24,case_lab-confirmed,1
@@ -846,6 +861,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Indiana, Pennsylvania",42063,county,2026-11-06,case_lab-confirmed,13
 "Indiana, Pennsylvania",42063,county,2026-11-13,case_lab-confirmed,4
 "Indiana, Pennsylvania",42063,county,2026-11-20,case_lab-confirmed,2
+"Indiana, Pennsylvania",42063,county,2026-11-23,case_lab-confirmed,1
 "Ingham, Michigan",26065,county,2025-04-15,case_lab-confirmed,1
 "Iowa, Wisconsin",55049,county,2026-08-13,case_lab-confirmed,20
 "Iowa, Wisconsin",55049,county,2026-08-20,case_lab-confirmed,11
@@ -858,6 +874,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Jackson, Wisconsin",55053,county,2026-10-30,case_lab-confirmed,2
 "Jackson, Wisconsin",55053,county,2026-11-13,case_lab-confirmed,43
 "Jackson, Wisconsin",55053,county,2026-11-17,case_lab-confirmed,4
+"Jackson, Wisconsin",55053,county,2026-11-24,case_lab-confirmed,34
 "Jasper, Georgia",13159,county,2026-09-30,case_lab-confirmed,5
 "Jay, Indiana",18075,county,2026-10-30,case_lab-confirmed,1
 "Jay, Indiana",18075,county,2026-11-06,case_lab-confirmed,2
@@ -883,6 +900,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Jefferson, Pennsylvania",42065,county,2026-11-06,case_lab-confirmed,7
 "Jefferson, Pennsylvania",42065,county,2026-11-13,case_lab-confirmed,7
 "Jefferson, Pennsylvania",42065,county,2026-11-20,case_lab-confirmed,11
+"Jefferson, Pennsylvania",42065,county,2026-11-23,case_lab-confirmed,2
 "Jennings, Indiana",18079,county,2026-10-30,case_lab-confirmed,1
 "Jennings, Indiana",18079,county,2026-11-06,case_lab-confirmed,7
 "Jennings, Indiana",18079,county,2026-11-12,case_lab-confirmed,2
@@ -904,6 +922,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Kent, Delaware",10001,county,2026-08-14,case_lab-confirmed,14
 "Kent, Delaware",10001,county,2026-09-04,case_lab-confirmed,1
 "Kent, Delaware",10001,county,2026-10-09,case_lab-confirmed,2
+"Kent, Delaware",10001,county,2026-11-24,case_lab-confirmed,1
 "Kent, Michigan",26081,county,2025-04-04,case_lab-confirmed,1
 "Kent, Michigan",26081,county,2025-07-02,case_lab-confirmed,1
 "Kent, Michigan",26081,county,2025-07-24,case_lab-confirmed,2
@@ -953,6 +972,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Lafayette, Wisconsin",55065,county,2026-10-30,case_lab-confirmed,13
 "Lafayette, Wisconsin",55065,county,2026-11-06,case_lab-confirmed,10
 "Lafayette, Wisconsin",55065,county,2026-11-17,case_lab-confirmed,2
+"Lafayette, Wisconsin",55065,county,2026-11-24,case_lab-confirmed,12
 "Lake, Colorado",8065,county,2026-04-22,case_lab-confirmed,1
 "Lake, Colorado",8065,county,2026-04-23,case_lab-confirmed,3
 "Lake, Colorado",8065,county,2026-05-19,case_lab-confirmed,2
@@ -1112,6 +1132,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Marathon, Wisconsin",55073,county,2026-09-15,case_lab-confirmed,1
 "Marathon, Wisconsin",55073,county,2026-10-02,case_lab-confirmed,4
 "Marathon, Wisconsin",55073,county,2026-10-09,case_lab-confirmed,1
+"Marathon, Wisconsin",55073,county,2026-11-24,case_lab-confirmed,2
 "Maricopa, Arizona",4013,county,2026-01-20,case_lab-confirmed,1
 "Maricopa, Arizona",4013,county,2026-02-03,case_lab-confirmed,2
 "Maricopa, Arizona",4013,county,2026-02-17,case_lab-confirmed,1
@@ -1134,6 +1155,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Marquette, Wisconsin",55077,county,2026-11-06,case_lab-confirmed,1
 "Marquette, Wisconsin",55077,county,2026-11-13,case_lab-confirmed,8
 "Marquette, Wisconsin",55077,county,2026-11-17,case_lab-confirmed,20
+"Marquette, Wisconsin",55077,county,2026-11-24,case_lab-confirmed,40
 "Martin, Texas",48317,county,2025-02-25,case_lab-confirmed,3
 "McKean, Pennsylvania",42083,county,2026-09-04,case_lab-confirmed,3
 "McKean, Pennsylvania",42083,county,2026-09-08,case_lab-confirmed,5
@@ -1239,6 +1261,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Mohave, Arizona",4015,county,2026-05-06,case_lab-confirmed,3
 "Monroe, Michigan",26115,county,2026-04-02,case_lab-confirmed,1
 "Monroe, Wisconsin",55081,county,2026-11-13,case_lab-confirmed,1
+"Monroe, Wisconsin",55081,county,2026-11-24,case_lab-confirmed,5
 "Montcalm, Michigan",26117,county,2025-04-10,case_lab-confirmed,1
 "Montcalm, Michigan",26117,county,2025-04-17,case_lab-confirmed,2
 "Montcalm, Michigan",26117,county,2025-04-23,case_lab-confirmed,1
@@ -1422,6 +1445,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Pennington, South Dakota",46103,county,2025-06-07,case_lab-confirmed,1
 "Penobscot, Maine",23019,county,2026-02-06,case_lab-confirmed,1
 "Penobscot, Maine",23019,county,2026-02-17,case_lab-confirmed,4
+"Pepin, Wisconsin",55091,county,2026-11-24,case_lab-confirmed,2
 "Perry, Pennsylvania",42099,county,2026-07-31,case_lab-confirmed,1
 "Perry, Pennsylvania",42099,county,2026-08-07,case_lab-confirmed,3
 "Perry, Pennsylvania",42099,county,2026-11-13,case_lab-confirmed,1
@@ -1468,6 +1492,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Potter, Pennsylvania",42105,county,2026-09-04,case_lab-confirmed,2
 "Potter, Texas",48375,county,2025-04-18,case_lab-confirmed,1
 "Potter, Texas",48375,county,2026-08-07,case_lab-confirmed,1
+"Price, Wisconsin",55099,county,2026-11-24,case_lab-confirmed,21
 "Prince George's, Maryland",24033,county,2025-03-10,case_lab-confirmed,2
 "Prince George's, Maryland",24033,county,2026-06-20,case_lab-confirmed,1
 "Providence, Rhode Island",44007,county,2025-01-18,case_lab-confirmed,1
@@ -1572,6 +1597,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Santa Fe, New Mexico",35049,county,2025-08-10,case_lab-confirmed,3
 "Sauk, Wisconsin",55111,county,2026-11-13,case_lab-confirmed,11
 "Sauk, Wisconsin",55111,county,2026-11-17,case_lab-confirmed,5
+"Sauk, Wisconsin",55111,county,2026-11-24,case_lab-confirmed,1
 "Schuyler, New York",36097,county,2026-11-14,case_lab-confirmed,1
 "Schuylkill, Pennsylvania",42107,county,2026-09-25,case_lab-confirmed,1
 "Schuylkill, Pennsylvania",42107,county,2026-10-09,case_lab-confirmed,1
@@ -1589,12 +1615,14 @@ location_name,location_id,location_type,date,outcome_type,value
 "Seneca, New York",36099,county,2026-10-31,case_lab-confirmed,18
 "Seneca, New York",36099,county,2026-11-07,case_lab-confirmed,22
 "Seneca, New York",36099,county,2026-11-14,case_lab-confirmed,11
+"Seneca, New York",36099,county,2026-11-21,case_lab-confirmed,32
 "Shackelford, Texas",48417,county,2025-04-29,case_lab-confirmed,1
 "Shasta, California",6089,county,2026-01-31,case_lab-confirmed,1
 "Shasta, California",6089,county,2026-02-10,case_lab-confirmed,7
 "Shasta, California",6089,county,2026-02-19,case_lab-confirmed,1
 "Shasta, California",6089,county,2026-03-25,case_lab-confirmed,1
 "Shawano, Wisconsin",55115,county,2026-11-13,case_lab-confirmed,1
+"Shawano, Wisconsin",55115,county,2026-11-24,case_lab-confirmed,5
 "Sheridan, Nebraska",31161,county,2025-05-28,case_lab-confirmed,1
 "Snohomish, Washington",53061,county,2025-03-18,case_lab-confirmed,1
 "Snohomish, Washington",53061,county,2025-04-02,case_lab-confirmed,1
@@ -1684,6 +1712,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Southwest Region, Virginia",,county,2026-03-13,case_lab-confirmed,1
 "Southwest Region, Virginia",,county,2026-03-25,case_lab-confirmed,2
 "Southwest Region, Virginia",,county,2026-08-27,case_lab-confirmed,2
+"Southwest Region, Virginia",,county,2026-11-24,case_lab-confirmed,2
 "Spartanburg, South Carolina",45083,county,2025-09-08,case_lab-confirmed,1
 "Spartanburg, South Carolina",45083,county,2025-09-26,case_lab-confirmed,1
 "Spartanburg, South Carolina",45083,county,2025-10-02,case_lab-confirmed,4
@@ -1747,6 +1776,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Steuben, New York",36101,county,2026-10-10,case_lab-confirmed,4
 "Steuben, New York",36101,county,2026-10-17,case_lab-confirmed,1
 "Steuben, New York",36101,county,2026-10-31,case_lab-confirmed,1
+"Steuben, New York",36101,county,2026-11-21,case_lab-confirmed,1
 "Stevens, Kansas",20189,county,2025-03-31,case_lab-confirmed,6
 "Stevens, Kansas",20189,county,2025-04-09,case_lab-confirmed,1
 "Stevens, Kansas",20189,county,2025-07-07,case_lab-confirmed,2
@@ -1832,6 +1862,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Trigg, Kentucky",21221,county,2026-10-23,case_lab-confirmed,1
 "Trigg, Kentucky",21221,county,2026-11-06,case_lab-confirmed,1
 "Trigg, Kentucky",21221,county,2026-11-20,case_lab-confirmed,1
+"Trigg, Kentucky",21221,county,2026-11-24,case_lab-confirmed,6
 "Trimble, Kentucky",21223,county,2026-09-18,case_lab-confirmed,1
 "Trumbull, Ohio",39155,county,2026-07-31,case_lab-confirmed,1
 "Trumbull, Ohio",39155,county,2026-08-02,case_lab-confirmed,1
@@ -2021,6 +2052,7 @@ location_name,location_id,location_type,date,outcome_type,value
 "Washtenaw, Michigan",26161,county,2026-03-19,case_lab-confirmed,1
 "Washtenaw, Michigan",26161,county,2026-03-26,case_lab-confirmed,4
 "Waukesha, Wisconsin",55133,county,2026-01-18,case_lab-confirmed,1
+"Waupaca, Wisconsin",55135,county,2026-11-24,case_lab-confirmed,5
 "Wayne, Indiana",18177,county,2026-08-30,case_lab-confirmed,1
 "Wayne, Indiana",18177,county,2026-09-02,case_lab-confirmed,1
 "Wayne, Indiana",18177,county,2026-09-11,case_lab-confirmed,2
